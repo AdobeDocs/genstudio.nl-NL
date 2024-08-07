@@ -2,21 +2,47 @@
 title: Werken met sjablonen
 description: Leer hoe u met sjablonen aantrekkelijke ervaringen in GenStudio kunt creëren.
 feature: Templates, Content
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 1%
+source-wordcount: '424'
+ht-degree: 0%
 
 ---
 
 
 # Werken met sjablonen
 
-Sjablonen worden gebruikt om consistente inhoud te genereren voor e-mails en advertenties voor sociale media. Zij verminderen beduidend de tijd en de inspanning die wordt vereist om nieuwe inhoud te produceren door een uitgangspunt te verstrekken dat pre-gevormde lay-outs en ontwerpelementen omvat.
+GenStudio-sjablonen zijn van essentieel belang om makers van inhoud in staat te stellen snel consistente marketinginhoud van het merk te produceren. Het gebruiken van malplaatjes vermindert beduidend de tijd en de inspanning wordt vereist om nieuwe inhoud te produceren door een uitgangspunt te verstrekken dat pre-gevormde lay-outs en ontwerpelementen omvat.
+
+Deze handleiding bevat gedetailleerde informatie over hoe u:
+
+* Bereid een [ e-mailmalplaatje ](email-template.md) of Meta advertentiemalplaatje voor
+* [ pas malplaatjes ](customize-template.md) voor GenStudio aan
+* [ upload malplaatjes ](#upload-a-template) in GenStudio
+* [Met sjablonen kunt u ervaringen creëren](#use-a-template)
+
+## Anatomie van een sjabloon
+
+Het basissjabloonontwerp bevat de volgende elementen:
+
+| Element | Functie | Kanaalsjabloon |
+| ------------ | ---------------------- | -------------------- |
+| Preheader | Tussen 40-50 karakters <br> handelt als secundaire onderwerpregel die belangrijkste onderwerpregel <br> verbetert Zichtbaar in inbox naast onderwerp alvorens e-mail wordt geopend | email |
+| Koptekst | De hoogste sectie van e-mailontvanger ziet wanneer het openen van e-mail <br> plaatst toon en verstrekt context voor inbegrepen inhoud | email |
+| Titel | Eerste ontvanger van inhoud ziet <br> zou moeten dwingen om rente te vangen | Meta en |
+| Lichaam | Het belangrijkste inhoudsgebied waar het primaire bericht wordt overgebracht <br> kan tekst, beelden, en andere media omvatten | e-mail <br> Meta-advertentie |
+| CTA | Oproep tot actie om de ontvanger aan te moedigen specifieke actie te ondernemen, zoals het klikken op een koppeling of het doen van een aankoop | e-mail <br> Meta-advertentie |
+| Afbeeldingen | Verbetert visuele aantrekkingskracht <br> de tekst van de Break <br> Steunt het bericht <br> zou van uitstekende kwaliteit en oog-vangend moeten zijn | e-mail <br> Meta-advertentie |
+| Voettekst | Bevat aanvullende informatie, zoals contactgegevens, koppelingen naar sociale media, disclaimers en opties voor het afmelden van abonnementen | email |
+| Tekstbedekking | Tekst op een beeld <br> zou kop en lichaam moeten steunen en verbeteren | Meta en |
+
+>[!NOTE]
+> 
+>Het wordt aanbevolen specifieke velden op te nemen in de inhoud van elk kanaal, zodat GenStudio tekst kan genereren voor plaatsaanduidingen voor inhoud. Zie [ Erkende gebiedsnamen ](customize-template.md#recognized-field-names) om te zien welke gebieden voor opneming worden geadviseerd.
 
 ## Een sjabloon uploaden
 
-GenStudio accepteert sjablonen in HTML-indeling. Zie hoe te [ douanesjablonen ](customize-template.md) voor GenStudio bouwen.
+GenStudio accepteert sjablonen in de HTML-indeling.
 
 **om een malplaatje** toe te voegen:
 
@@ -32,7 +58,7 @@ GenStudio accepteert sjablonen in HTML-indeling. Zie hoe te [ douanesjablonen ](
 
    Sjabloonnaam en kanaaltype zijn vereist.
 
-   - **Meta**: vereist Verhouding
+   * **Meta**: vereist Verhouding
    <!-- **Display ads**: requires Dimensions -->
 
 1. Voeg zoveel details toe als u kunt om sjabloonidentificatie in zoekopdrachten en filteren te verbeteren.
@@ -53,7 +79,7 @@ Een bestaande sjabloon zoeken en gebruiken om ervaringen te creëren.
 
 >[!TIP]
 >
->Zie [[!DNL Create]  een e-mailervaring ](/help/tutorials/create-email-experience.md) voor een volledige leerprogramma gebruikend een e-mailmalplaatje.
+>Zie [[!DNL Create]  een e-mailervaring ](/help/tutorials/create-email-experience.md) of [[!DNL Create]  a Meta en ervaring ](/help/tutorials/create-meta-ad.md) voor volledige leerprogramma&#39;s die malplaatjes gebruiken.
 
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.

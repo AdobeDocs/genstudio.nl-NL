@@ -3,9 +3,9 @@ title: Sjablonen aanpassen
 description: Leer hoe u een aangepaste sjabloon voor GenStudio maakt.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,8 @@ ht-degree: 0%
 
 U kunt uw malplaatjes van HTML voor GenStudio aanpassen door de _het malplaatjetaal te gebruiken 0} Handlebars {._ De syntaxis Handlebars gebruikt regelmatige tekst met dubbele steunen als inhoudplaceholders. Zie [`What is Handlebars?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
 
-## Sjabloonstructuur
-
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->
-
-Als u geen HTML-sjabloon klaar hebt voor gebruik in GenStudio, kunt u eerst de structuur van uw e-mail definiëren met behulp van HTML-tags: `DOCTYPE`, `html`, `head` en `body` . U kunt CSS-stijlen opnemen om de weergave van uw e-mail aan te passen.
+-->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,13 +31,15 @@ Als u geen HTML-sjabloon klaar hebt voor gebruik in GenStudio, kunt u eerst de s
 </html>
 ```
 
+Zie [ voorbeelden van het Malplaatje ](#template-examples).
+
 >[!TIP]
 >
->Voeg in de volgende secties plaatsaanduidingen voor inhoud toe voor e-mailvelden, verberg overbodige elementen uit de voorvertoning en beheer koppelingen naar statische inhoud. Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
+>Voeg in de volgende secties plaatsaanduidingen voor inhoud toe voor e-mailvelden, zie voorbeeldsjablonen, verberg overbodige elementen uit de voorvertoning en beheer koppelingen naar statische inhoud. Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
 
 ## Plaatsaanduidingen voor inhoud
 
-In de kop of het hoofdgedeelte van de sjabloon kunt u met de syntaxis Handlebars tijdelijke aanduidingen voor inhoud invoegen op plaatsen waar u GenStudio nodig hebt om het e-mailbericht te vullen met werkelijke inhoud. GenStudio herkent en interpreteert automatisch de plaatsaanduidingen voor inhoud op basis van de veldnaam.
+Binnen de kop of de hoofdtekst van een sjabloon kunt u de syntaxis Handlebars gebruiken om plaatsaanduidingen voor inhoud in te voegen op plaatsen waar GenStudio de sjabloon moet vullen met werkelijke inhoud. GenStudio herkent en interpreteert automatisch de plaatsaanduidingen voor inhoud op basis van de veldnaam.
 
 Met `{{ headline }}` kunt u bijvoorbeeld aangeven waar de kop van het e-mailbericht moet worden geplaatst:
 
@@ -49,27 +47,68 @@ Met `{{ headline }}` kunt u bijvoorbeeld aangeven waar de kop van het e-mailberi
 <div>{{ headline }}</div>
 ```
 
+### Veldnamen
+
 Het maximumaantal velden dat in een aangepaste sjabloon is toegestaan, is twintig.
 
-**Erkende gebiedsnamen**:
+#### Erkende veldnamen
+
+De volgende tabel bevat een lijst met de veldnamen die door GenStudio worden herkend voor populatie in sjablonen.
 
 | Veld | Rol | Kanaalsjabloon |
 | -------------- | ---------------------- | -------------------- |
-| `pre_header` | Pre-header | email |
-| `headline` | Titel | email<br> sociale advertentie |
-| `body` | Platte kopie | email<br> sociale advertentie |
-| `cta` | Oproep tot actie | email<br> sociale advertentie |
-| `on_image_text` | Op afbeeldingstekst | sociaal en |
-| `image` | Afbeelding | email<br> sociale advertentie |
-| `brand_logo` | Logo van het geselecteerde merk | sociaal en |
+| `pre_header` | Pre-header | e-mail (aanbevolen) |
+| `headline` | Titel | e-mail (geadviseerd) <br> Meta ad |
+| `body` | Platte kopie | e-mail (geadviseerd) <br> Meta ad |
+| `cta` | Oproep tot actie | e-mail (geadviseerd) <br> Meta ad |
+| `on_image_text` | Op afbeeldingstekst | Meta-advertentie (aanbevolen) |
+| `image` | Afbeelding | e-mail (geadviseerd) <br> Meta en (geadviseerd) |
+| `brand_logo` | Logo van het geselecteerde merk | Meta en |
 
->[!IMPORTANT]
+GenStudio vult bepaalde velden automatisch in sjablonen in. Deze velden hoeven dus niet in uw sjabloonontwerpen te worden opgenomen:
+
+* `subject` (e-mailsjabloon)
+* `headline` -, `body` - en `CTA` -velden (metagegevens en sjabloon)
+
+>[!WARNING]
 >
->Tijdens het [!DNL Create] -proces verschaft GenStudio automatisch een `subject` -veld voor de e-mailsjabloon. Het is dus niet nodig het onderwerpveld op te nemen in uw e-mailsjabloon.
+>Voor Instagram-advertenties wordt de gegenereerde kop niet weergegeven in de uiteindelijke ervaring.
 
-+++Voorbeeld: standaardsjabloon
+#### Handmatige veldnamen
 
-Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor e-mail. De kop bevat eenvoudige inline CSS voor opmaak. De hoofdtekst bevat een tijdelijke aanduiding `pre-header` , `headline` en `image` die door GenStudio kan worden gebruikt om inhoud te injecteren tijdens het genereren van e-mail.
+Alle andere veldnamen worden behandeld als handmatig gevulde velden. Als u een sectie bewerkbaar wilt maken, voegt u dubbele haakjes toe rond de sectie die u wilt bewerken.
+
+> Voorbeeld: ``{{customVariable}}`` (customVariable is de handmatig bewerkbare sectie)
+
+## Secties of groepen
+
+_Secties_ informeren GenStudio dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
+
+Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld deel uitmaakt van een sectie of groep.
+
+U kunt bijvoorbeeld de inhoud van een gemarkeerd gebied als spotlight instellen:
+
+* `spotlight_headline`
+* `spotlight_body`
+
+Elke sectie kan slechts één van elk gebiedstype hebben. In het bovenstaande voorbeeld kan het voorvoegsel `spotlight` slechts één veld `spotlight_headline` hebben.
+
+Een sjabloon kan maximaal drie secties bevatten:
+
+* `headline`
+* `body`
+* `spotlight_headline`
+* `spotlight_body`
+* `news_headline`
+* `news_body`
+
+GenStudio begrijpt dat `spotlight_headline` nauwer verwant is aan `spotlight_body` dan aan `news_body` .
+
+## Sjabloonvoorbeelden
+
++++Voorbeeld: E-mailsjabloon met één sectie
+
+Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor een e-mailbericht dat één sectie bevat. De kop bevat eenvoudige inline CSS voor opmaak. Het lichaam bevat a `pre-header`, `headline`, en `image` [ placeholder ](#content-placeholders) voor gebruik door GenStudio om inhoud tijdens het proces van de e-mailgeneratie te injecteren.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -99,35 +138,9 @@ Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor e-mail. De kop bev
 
 +++
 
-### Achtergrondafbeelding
++++Voorbeeld: E-mailsjabloon met meerdere secties
 
-Bij het ontwerpen van een advertentie voor Meta is het belangrijk om een achtergrondafbeelding te gebruiken die wordt aangevuld met tekst en een merklogo-overlay. Voor een correcte schaling van de afbeelding moet u voor Meta-sjablonen een `aspect ratio` opgeven. In deze context kunt u slechts één afbeeldingsveld opgeven.
-
-## Secties of groepen
-
-_de Secties_ verstrekken een manier om GenStudio mee te delen dat de gebieden die tot een sectie behoren een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie. Een sjabloon kan maximaal drie secties bevatten.
-
-Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat dit veld deel uitmaakt van een sectie of groep. U kunt bijvoorbeeld de inhoud die in een gemarkeerd gebied wordt weergegeven, als spotlight instellen. U kunt de inhoud voor dit gebied identificeren met een algemeen voorvoegsel:
-
-- `spotlight_headline`
-- `spotlight_body`
-
-Elke sectie kan slechts één veldtype hebben. De voorbeeldgroep met het voorvoegsel `spotlight` kan bijvoorbeeld slechts één veld `spotlight_headline` hebben.
-
-Wanneer u meerdere secties hebt (maximaal drie):
-
-- `headline`
-- `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
-
-GenStudio begrijpt dat `spotlight_headline` nauwer verwant is aan `spotlight_body` dan aan `news_body` .
-
-+++Voorbeeld: sjabloon met meerdere secties
-
-In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee secties. De kop bevat inline CSS voor het opmaken van een pod. De hoofdtekst gebruikt twee pods met plaatsaanduidingen voor inhoud met een voorvoegsel.
+In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee secties. De kop bevat inline CSS voor het opmaken van een groep. Het lichaam gebruikt twee groepen met [ inhoudplaceholders ](#content-placeholders) gebruikend een prefix.
 
 ```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
@@ -177,11 +190,67 @@ In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee s
 
 +++
 
++++Voorbeeld: Meta-advertentiesjabloon
+
+Hier volgt een eenvoudig voorbeeld van een advertentiesjabloon van Meta. De kop bevat inline CSS voor opmaak. Het lichaam gebruikt [ inhoudplaceholders ](#content-placeholders) gebruikend een prefix.
+
+```handlebars {line-numbers="true" highlight="33"}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adobe</title>
+    <style>
+        .ad-container {
+            width: 300px;
+            border: 1px solid #ddd;
+            padding: 16px;
+            font-family: Arial, sans-serif;
+        }
+        .ad-image {
+            width: 100%;
+            height: auto;
+        }
+        .ad-headline {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 12px 0;
+        }
+        .ad-body {
+            font-size: 14px;
+            margin: 12px 0;
+        }
+        .ad-cta {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="ad-container">
+    <img src="{{ image }}" alt="Ad Image" class="ad-image">
+    <div class="ad-headline">"{{ headline }}"</div>
+    <div class="ad-body">"{{ body }}"</div>
+    <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
+</div>
+
+</body>
+</html>
+```
+
++++
+
 ## Sjabloonvoorbeeld
 
-E-mailsjablonen bevatten soms speciale inhoud die niet nodig is voor een voorvertoning in GenStudio. U kunt de zichtbaarheid van deze inhoud bepalen met ingebouwde helpers. Dit zijn speciale expressies in de sjabloontaal Handlebars die u helpen bepaalde handelingen uit te voeren.
+Bepaal de zichtbaarheid van speciale inhoud met behulp van ingebouwde hulpmiddelen (speciale expressies in de sjabloontaal Handlebars die bepaalde handelingen uitvoeren). U kunt bijvoorbeeld parameters voor het bijhouden van koppelingen toevoegen aan de koppelingen in de geëxporteerde sjabloon terwijl de koppelingen voor de voorvertoning ongewijzigd blijven.
 
-De waarde `_genStudio.browser` wordt ingesteld bij het renderen van een sjabloon en de waarde `genStudio.export` wordt ingesteld bij het exporteren van een sjabloon. U kunt bepaalde inhoud boven aan de e-mails plaatsen met een voorwaardelijke wrapper, bijvoorbeeld wanneer de sjabloon wordt gebruikt voor exporteren:
+De waarde `_genStudio.browser` wordt ingesteld bij het renderen van een sjabloon en de waarde `genStudio.export` wordt ingesteld bij het exporteren van een sjabloon. U kunt besluiten om bepaalde inhoud bij de bovenkant van een e-mail te omvatten gebruikend een voorwaardelijke omslag, bijvoorbeeld wanneer het malplaatje voor de uitvoer wordt gebruikt:
 
 ```handlebars
 {{#if _genStudio.export}}
@@ -189,7 +258,7 @@ De waarde `_genStudio.browser` wordt ingesteld bij het renderen van een sjabloon
 {{/if}}
 ```
 
-Een ander voorbeeld kan zijn om het gebruik van volgcodes te verhinderen wanneer het previewing van een e-mailmalplaatje in GenStudio. In dit voorbeeld wordt getoond hoe u volgparameters kunt toevoegen aan koppelingen in de geëxporteerde sjabloon, terwijl de voorbeeldkoppelingen schoon blijven:
+Een ander voorbeeld kan zijn om het gebruik van volgcodes te verhinderen wanneer het previewing van een malplaatje in GenStudio. In dit voorbeeld wordt getoond hoe u volgparameters kunt toevoegen aan koppelingen in de geëxporteerde sjabloon, terwijl de voorbeeldkoppelingen schoon blijven:
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}

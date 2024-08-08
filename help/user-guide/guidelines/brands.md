@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Brands]
 description: GenStudio  [!DNL Brands]  is een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud in GenStudio te informeren.
 feature: Brands Service, Guidelines
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: c90cec72bd4cad505b7374e0ae81bafc383102e9
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 Een merk onderscheidt een organisatie, product, service of concept van anderen. Sommige aspecten van een merk zijn objectief, zoals een logo, terwijl andere subjectief zijn, zoals de toon van stem.
 
 GenStudio gebruikt de schat aan merkinformatie van uw merk, koppelt deze aan [!DNL Product] - en [!DNL Persona] -informatie en bouwt een uitgebreide merkidentiteit uit. Deze merkidentiteit wordt gebruikt om de creatie van on-brand-inhoud met behulp van de generatieve AI-technologie van Adobe te informeren.
-
-![[!DNL Brands] overzicht in GenStudio ](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
 
 **om een merk** te bekijken of te wijzigen:
 
@@ -36,16 +34,12 @@ In de volgende gedeelten van de richtlijnen worden elke categorie richtlijnen, v
 
 In de volgende tabel wordt elke categorie van de taalrichtlijnen en voorbeelden van richtlijnen weergegeven.
 
-| Categorie Richtsnoer | Hulplijnen |
-| ------------------| :---------- |
-| Tint van stem | `Speak like a human, Avoid jargon, Speak with confidence` |
-| Merkwaarden | `Be the leader, Show authenticity` |
-| Uniek kenmerk | `Driven by empathy for others, Celebrate diverse ideas, Be a cheerleader for change` |
-| Frequente trefwoorden | `impact, progressive, inclusive, motivation, perseverance` |
-| Richtlijnen voor berichten | `Use inclusive terms, Avoid using the word "utilize", Incorporate simple phrasing, Make CTAs clear and concise` |
-| Berichtenbeperkingen | `Avoid repeating adjectives or adverbs, Avoid colloquialisms` |
-
-![ de stemrichtlijnen van het Merk in GenStudio ](/help/assets/brand-voice-guidelines.png){width="650" zoomable="yes"}
+| Categorie Richtsnoer | Beschrijving | Aanbevolen procedures |
+| ------------------| :---------- | :---------- |
+| Tint van stem | De persoonlijkheid van het merk, uitgedrukt in schriftelijke communicatie | Gebruik beschrijvende woorden om de emotie en toon van het merk duidelijk over te brengen. <br>_Voorbeelden_: &quot;echt&quot;, &quot;playful&quot;<br><br> zijn beknopt (3-6 richtlijnen) en concentreren zich op zeer belangrijke attributen van de merkstem.<br><br> Uitgezochte woorden/uitdrukkingen die over communicatiekanalen verenigbaar zijn om coherente merkidentiteit te bouwen. |
+| Merkwaarden | Principes die merkcultuur, klantenervaring, en bedrijfsstrategieën drijven | Gebruik beschrijvende woorden om de opdracht, visie en publieksbehoeften van uw merk over te brengen. <br>_Voorbeelden_: &quot;authenticiteit&quot;, &quot;inspirerend&quot;, &quot;progressief&quot;<br><br> ben beknopt (3-6 richtlijnen) en concentreer zich op kernmerkwaarden/thema&#39;s. |
+| Redactionele richtlijnen | Communicatierichtlijnen die best practices voor het schrijven van merkberichten definiëren | Gebruik positieve formuleringen (5-10 richtlijnen) om een sterke basis te leggen.<br>_Voorbeelden_: &quot;Gebruik eenvoudige, toegankelijke taal&quot;in plaats van &quot;vermijd het gebruiken van jargon&quot;<br><br> verstrekt duidelijke en activeerbare begeleiding. <br>_Voorbeelden_: &quot;houd zinnen onder 20 woorden&quot;in plaats van &quot;ben beknopt&quot;<br><br> wijzen op de stijl van uw merk, zoals het gebruiken van specifieke syntaxisvoorkeur. <br>_Voorbeelden_: &quot;Gebruik een em streepje in plaats van een dubbelpunt&quot;, &quot;het geval van de zin van het Gebruik&quot;<br><br> Craft nauwkeurige richtlijnen die consistentie over output handhaven. |
+| Redactionele beperkingen | Communicatierichtlijnen waarin wordt gedefinieerd wat er moet worden vermeden in het verzenden van merkberichten | Gebruik een directe negatieve frasering (5-10 richtlijnen) om aan te geven wat moet worden vermeden. <br>_Voorbeeld_: &quot;Vermijd gebruikend...&quot;<br><br> verstrek duidelijke en actionele begeleiding. <br>_Voorbeeld_: &quot;vermijd retorische vragen&quot; |
 
 ### Kanaalrichtlijnen
 
@@ -53,16 +47,14 @@ Elk kanaal heeft bepaalde inherente richtlijnen die de samenstelling van kanaala
 
 In de volgende tabel ziet u elk kanaalfragment, kanalen waarvoor het beschikbaar is, een beschrijving van het fragment, voorbeelden van hulplijnen en voorbeeldresultaten.
 
-| Fragmenten | Kanalen | Beschrijving | Hulplijnen | Voorbeelden van resultaten |
-| ------------------| --------- | --------- | -------- | :---------- |
-| Algemeen | email | Een tweede onderwerpregel of e-mailvoorbeeldtekst | `Engage quickly, Friendly but serious tone` | — |
-| Onderwerp | email | Een boeiende en interessante titel om de inhoud van een e-mail samen te vatten | `Between 20 and 40 characters, using short punchy phrasing` | &quot;Wees de inspiratie die je nodig hebt. Mentor a teen.&quot; |
-| Pre-header | email | Een tweede onderwerpregel of e-mailvoorbeeldtekst | `Between 45 and 70 characters, communicating value add detail` | &quot;Je wereld zal zich openstellen als je ervoor kiest om lokale jongeren te begeleiden.&quot; |
-| Titel | e-mail, sociale advertenties, advertenties weergeven | Een titel of woordgroep die de aandacht van de lezer trekt | `Mimic the vibe of the subject, Continue the story` | &quot;Neem een tiener onder je vleugel en kijk hoe ze vliegen!&quot; |
-| Lichaam | e-mail, sociale advertenties, advertenties weergeven | Marketing-inhoud die bericht, koppelingen en afbeeldingen bevat | `Limit to 2 to 4 sentences, Mix sentence length and phrasing to keep attention, Avoid slang, Maintain smart and respectful tone` | &quot;Als je een tiener door de ups en downs van het leven begeleidt, veranderen ze... en jij. Besteed een beetje tijd om je gemeenschap te helpen en te zien hoe je buurtuinen groeien.&quot; |
-| CTA | e-mail, sociale advertenties, advertenties weergeven | (Oproep tot actie) Een instructie die aan de lezer wordt gegeven en die een reactie opwekt. Doorgaans een of twee woorden, zoals `Get started` | `Use 1-3 words, Use clear verbiage` | &quot;Mentor today&quot; |
-
-![ de richtlijnen van het Kanaal in GenStudio ](/help/assets/channel-guidelines.png){width="650" zoomable="yes"}
+| Fragmenten | Kanalen | Beschrijving | Aanbevolen procedures |
+| ------------------| --------- | --------- | -------- |
+| Algemeen | email, sociale advertenties | Een tweede onderwerpregel of e-mailvoorbeeldtekst | Bepaal algemene toon/emotie om consistent te zijn door e-mail (2-5 richtlijnen).<br>_Voorbeelden_: &quot;handhaaf een vriendschappelijke en behandelbare toon&quot;, &quot;vermijd overdreven formele taal&quot;<br><br> |
+| Onderwerp | email | Een boeiende en interessante titel om de inhoud van een e-mail samen te vatten | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, lengte, enz. Voeg eerder succesvolle onderwerplijnen in _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeeld_: &quot;Richt onderwerp met e-maillichaam&quot; |
+| Preheader | email | Een tweede onderwerpregel of e-mailvoorbeeldtekst | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle preheaders in de _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeeld_: &quot;Beperk tot 60-80 karakters&quot; |
+| Titel | e-mail, sociale advertenties, advertenties weergeven | Een titel of woordgroep die de aandacht van de lezer trekt | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle koplijnen in _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik punchy verklaringen om aandacht te grijpen&quot; |
+| Lichaam | e-mail, sociale advertenties, advertenties weergeven | Marketing-inhoud die bericht, koppelingen en afbeeldingen bevat | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvol exemplaar aan _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Beperk tot 80-100 karakters&quot;, &quot;vermijd bovenmatige acroniemen&quot; |
+| CTA | e-mail, sociale advertenties, advertenties weergeven | (Oproep tot actie) Een instructie die aan de lezer wordt gegeven en die een reactie opwekt. Doorgaans een of twee woorden, zoals `Get started` | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvol exemplaar aan _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik geen eind leestekens&quot; |
 
 <!-- Not in M2.1 // ### Image guidelines
 
@@ -80,13 +72,13 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} -->
+![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
-### Logo
+### Logos
 
-Voeg op het tabblad **[!UICONTROL Logos]** logo&#39;s toe aan uw merk.
+Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![ de richtlijnen van het Logo in GenStudio ](/help/assets/logos.png){width="650" zoomable="yes"}
+![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## Merkwaardvalidatie
 

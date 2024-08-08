@@ -4,9 +4,9 @@ description: Leer hoe te om richtlijnen toe te voegen - [!DNL Brands],  [!DNL Pr
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '880'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,6 @@ U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande m
 
    Klik indien nodig op **[!UICONTROL Add category]** om een categorie met aangepaste hulplijnen toe te voegen, zoals Foto&#39;s of Afbeeldingen.
 
-1. Voeg logo&#39;s in de _sectie van Logo&#39;s_ toe.
 1. Klik in de _Nieuwe merktitel_ en ga een beschrijvende merknaam in.
 
 Om uw gecreeerde [!DNL Brands] te zien, klik de achterpijl dichtbij de bovenkant van het _Merk_ paneel om terug naar het _[!DNL Brands]_huis te navigeren.
@@ -105,6 +104,7 @@ Zie [[!DNL Products]](products.md) .
 1. Klik op **[!UICONTROL Untitled]** en voer een naam in voor de [!DNL Product] .
 1. Klik in _Beschrijving_ en ga een beschrijving van dit [!DNL Product] in.
 1. Klik in _Voorstelling van de Waarde_ en ga details over de waarde van het product in.
+1. Klik in _Extra details_ en ga details cruciaal voor gepersonaliseerde inhoudsgeneratie in.
 1. Als u de miniatuur wilt bewerken, beweegt u de muisaanwijzer over de miniatuur van de afbeelding en kiest u **[!UICONTROL Edit thumbnail]** in het menu Handelingen miniatuur.
    1. Upload een nieuw beeld of verwijder het bestaande geuploade beeld in _uploadt_ tabel.
    1. Kies een beeld van de galerij in de _Galerij_ tabel.
@@ -131,6 +131,7 @@ Zie [[!DNL Personas]](personas.md) .
 1. Klik op **[!UICONTROL Untitled]** en voer een naam in voor de [!DNL Persona] .
 1. Klik in _Beschrijving_ en ga een beschrijving van dit [!DNL Persona] in.
 1. Klik in _voorkeur van het Overseinen_ en ga overseinendetails voor [!DNL Persona] in.
+1. Klik in _Extra details_ en ga details cruciaal voor gepersonaliseerde inhoudsgeneratie in.
 1. Om de duimnagel uit te geven, houd over de beeldduimnagel en van de _acties van de Duimnagel_ uitgezocht menu **[!UICONTROL Edit thumbnail]**.
    1. Upload een nieuw beeld of verwijder het bestaande geuploade beeld in _uploadt_ tabel.
    1. Kies een beeld van de galerij in de _Galerij_ tabel.

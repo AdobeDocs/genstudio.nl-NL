@@ -3,9 +3,9 @@ title: Sjablonen aanpassen
 description: Leer hoe u een aangepaste sjabloon voor GenStudio maakt.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,12 @@ GenStudio vult bepaalde velden automatisch in sjablonen in. Deze velden hoeven d
 >[!WARNING]
 >
 >Voor Instagram-advertenties wordt de gegenereerde kop niet weergegeven in de uiteindelijke ervaring.
+
+#### Naam merklogo
+
+Als u een merklogo aan uw sjabloon wilt toevoegen, gebruikt u de volgende code om het standaardlogo te renderen:
+
+```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
 
 #### Handmatige veldnamen
 

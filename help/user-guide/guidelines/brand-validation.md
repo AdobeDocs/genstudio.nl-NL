@@ -2,9 +2,9 @@
 title: Merkvalidatie in GenStudio
 description: Leer hoe het ingebouwde merkvalidatiesysteem werkt in GenStudio.
 feature: Brands Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ In het _paneel van de Bevestiging van de Merk_ kunt u filteren welke richtlijnen
 
 ## De uitlijning van merken verbeteren
 
-Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _controle van de richtlijnen van het Merk_ en het _paneel van de Bevestiging van het Merk_. U kunt specifieke fragmenten manueel wijzigen of [ verfijnde varianten ](/help/user-guide/create/generate-variants.md) produceren om met uw [ merkrichtlijnen ](brands.md) te richten.
+Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _controle van de richtlijnen van het Merk_ en het _paneel van de Bevestiging van het Merk_. U kunt specifieke fragmenten manueel wijzigen om met uw [ merkrichtlijnen ](brands.md) te richten.
 
 **om merkgroepering voor geproduceerde inhoudsvarianten te verbeteren**:
 

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -29,45 +29,40 @@ Als u een nieuwe e-mailervaring wilt gaan maken, gebruikt u een beschikbare sjab
 1. Klik in _[!DNL Create]_op **[!UICONTROL Email]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
 1. In de _Uitgezochte malplaatje_ mening, knevel de _3} filter van Kanalen {aan **[!UICONTROL Email]**._
 1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek e-mailmalplaatje te vinden.
-1. Klik om een e-mailsjabloon te selecteren of schakel meerdere e-mailsjablonen in en klik op **[!UICONTROL Use]** . Als u meerdere sjablonen selecteert en de varianten worden gegenereerd, worden alle geselecteerde sjablonen gebruikt om u opties te bieden.
+1. Klik om een e-mailsjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
    Het canvas, het epicentrum van het maken van inhoud, wordt weergegeven.
 
 ## Parameters toevoegen
 
-Door het toevoegen van richtingsparameters wordt het proces voor het genereren van inhoud uitgebreid en vormt dit een integrale voorbereidende stap voor het genereren van een e-mailervaring.
+Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in het snelle gebied vult het proces van de inhoudgeneratie op en is een integrale voorbereidende stap voor het produceren van een e-mailervaring.
 
 **om parameters en activa** toe te voegen:
 
-1. Klik het _pictogram van Parameters_ om de parameteropties uit te breiden en verwijzingsparameters en activa toe te voegen.
-1. In de _sectie van Parameters_, uitgezocht richtlijn-merk, Persona, en product-om inhoudsverwezenlijking te informeren.
+1. Klik het _pictogram van Parameters_ om het snelle gebied uit te breiden.
+1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
    Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
-1. In de _sectie van de Inhoud_, voeg inhoud toe die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden. U kunt op drie manieren elementen toevoegen:
-   * Klik op **[!UICONTROL Select from content]** om elementen (afbeeldingen of video) te selecteren die al zijn gepubliceerd naar [!DNL Content] . Gebruik de filters om de zoekresultaten verder te verfijnen.
+1. Klik **[!UICONTROL Select content]** om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden.
+   * Klik op **[!UICONTROL Select from content]** om elementen (afbeeldingen) te selecteren die al zijn gepubliceerd naar [!DNL Content] . Gebruik de filters om de zoekresultaten verder te verfijnen.
    * Klik op **[!UICONTROL Upload]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. U kunt uw apparaat ook importeren vanuit Microsoft OneDrive of Dropbox.
    * De belemmering en laat vallen activa in de _Inhoud_ sectie.
 
-   Wanneer u elementen selecteert uit GenStudio-inhoud, kiest u middelen die al zijn opgeslagen in [[!DNL Content]](/help/user-guide/content/overview.md) . U kunt filteren op kanaal, product, taal, en meer, om de noodzakelijke activa snel te vinden.
+Wanneer u wordt gebeëindigd toevoegend parameters, kunt u het snelle gebied doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
 
-Wanneer u wordt gedaan toevoegend parameters, kunt u de *Parameters* en *Inhoud* secties doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
-
-## Een prompt gebruiken
+## Een vraag invoeren
 
 Nadat u richtlijnen hebt geselecteerd, kunt u vragen in een natuurlijke taal te schrijven om inhoud te genereren voor uw nieuwe e-mailervaring.
 
 Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven van herinneringen te leren.
 
-**om een herinnering** te gebruiken:
+**om een herinnering** in te gaan:
 
 1. Ga een herinnering in _&quot;beschrijf de ervaringen in u &quot;_ snelle doos wilt produceren.
-   <!-- If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it. -->
-
-<!-- 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box. -->
 1. Klik op **[!UICONTROL Generate]**.
 
-Standaard worden vier gegenereerde variaties, die allemaal worden gevoed door de vraag, de richtlijnen en de inhoud die u hebt toegevoegd, weergegeven op het canvas.
+Standaard worden vier gegenereerde variaties gegenereerd, die allemaal worden gevoed door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd. Deze variaties worden gegenereerd en weergegeven op het canvas.
 
 ## Gegenereerde e-mails reviseren
 
@@ -85,15 +80,13 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekkend een samenvatting van merkgroepering voor een variant-en [_het paneel van de Bevestiging van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige details van de brandbevestiging en verlichtende verbeteringsgebieden.
 
-U kunt individuele e-mailfragmenten manueel uitgeven of [ verfijnde varianten ](/help/user-guide/create/generate-variants.md) van het aanvankelijke resultaat produceren om groepering met uw merk te bereiken.
-
 **om brandgroepering** te verifiëren:
 
 1. Klik op het pictogram [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) voor een variant en bekijk een overzicht van de prestaties van die variant wanneer deze wordt gecontroleerd op uw merk.
 1. Om de details van de fragmenten en de richtlijnen te krijgen die verbetering vereisen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
 
 1. U kunt elke e-mail doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat deze meer op het merk wordt afgestemd.
-1. [ herziet manueel e-mail ](#revise-generated-emails), of [ produceert varianten ](/help/user-guide/create/generate-variants.md), om uw e-mails te verzekeren dicht met uw merk worden gericht.
+1. [ herziet manueel e-mail ](#revise-generated-emails) om ervoor te zorgen uw e-mails nauw met uw merk worden gericht.
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
 

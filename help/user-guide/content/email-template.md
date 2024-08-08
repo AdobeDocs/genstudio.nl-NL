@@ -3,9 +3,9 @@ title: Een e-mailsjabloon voorbereiden voor GenStudio
 description: Leer hoe u een aangepaste e-mailsjabloon voor GenStudio maakt.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ Zie [ Anatomie van een malplaatje ](/help/user-guide/content/use-templates.md#an
 
 Alvorens u een Meta en malplaatje voorbereidt, zorg ervoor dat u [ richtlijnen ](/help/user-guide/guidelines/overview.md) aan uw GenStudio hebt toegevoegd en hen met uitvoerige info voor relevante merken bevolkt. De [ merkrichtlijnen ](/help/user-guide/guidelines/brands.md) beïnvloeden direct geproduceerde inhoud.
 
-> **Voorbeeld**: Als u het lichaam van een e-mailmalplaatje niet groter wilt zijn dan 500 karakters, voeg dat vereiste aan de [ kanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#channel-guidelines) voor het &quot;lichaam&quot;gebied toe.
+**Voorbeeld**: Als u het lichaam van een e-mailmalplaatje niet groter wilt zijn dan 500 karakters, voeg dat vereiste aan de [ kanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#channel-guidelines) voor het &quot;lichaam&quot;gebied toe.
+
+Als er geen richtlijnen aan GenStudio worden toegevoegd, worden standaardwaarden gebruikt.
 
 ## Een e-mailsjabloon coderen
 

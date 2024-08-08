@@ -4,7 +4,7 @@ description: Leer hoe te om richtlijnen toe te voegen - [!DNL Brands],  [!DNL Pr
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
+source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
 workflow-type: tm+mt
 source-wordcount: '880'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Het toevoegen van richtsnoeren aan GenStudio is een belangrijke stap in het aanm
 
 ## Toevoegen [!DNL Brands]
 
-Om een merk aan GenStudio toe te voegen, kunt u [ een merkgids ](#upload-brand-guidelines) uploaden of [ manueel tot een merk ](#manually-add-brand) leiden door richtlijnen te selecteren en uw merkdetails in te gaan. [ Publish a merk ](#publish-brand) aan [!DNL Content] om het ter beschikking te stellen voor het produceren van varianten.
+Om een merk aan GenStudio toe te voegen, kunt u [ een merkgids ](#upload-brand-guidelines) uploaden of [ manueel tot een merk ](#manually-add-brand) leiden door richtlijnen te selecteren en uw merkdetails in te gaan. [ Publish a merk ](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
 
 Klik in het linkernavigatiegebied op **[!DNL Brands]** . In het _[!DNL Brands]_paneel, uitgezochte **voeg merk**toe.
 
@@ -82,7 +82,7 @@ Alvorens uw merk te publiceren, klik door de _stemrichtlijnen van het Merk_, _ri
 
 Wanneer het merk wordt gepubliceerd, lijkt een banner bevestigend dat uw merk klaar is te gebruiken: &quot;*Bekeken gepubliceerd en beschikbaar aan gebruik*&quot;.
 
-Het gepubliceerde merk is nu beschikbaar voor gebruik bij het genereren van varianten in _[!DNL Create]_of_[!DNL Content]_ .
+Het gepubliceerde merk kan nu worden gebruikt in _[!DNL Create]_of_[!DNL Content]_ .
 
 ### [!DNL Brands] beheren
 

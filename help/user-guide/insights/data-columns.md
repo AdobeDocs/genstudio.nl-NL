@@ -3,9 +3,9 @@ title: Gegevenskolommen voor  [!DNL Insights]
 description: Begrijp wat elke kolom in a  [!DNL Insights]  net vertegenwoordigt.
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 52a37b83b6f13b16a2234e50827c8d08b9a86680
+source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,3 @@ Beschikbare kolommen zijn:
 | Impressies | Het aantal keren dat campagneadvertenties werden weergegeven aan de kijkers via geregistreerde indrukken. |
 | Doelstelling | Het doel van een campagne of project. Stel het doel in bij het maken van de campagne of het project.<br> Objecttypen zijn: `Awareness` , `Traffic` , `Engagement` , `Leads` , `App promotion` , `Sales` |
 | Draaien | Het totale bedrag dat in USD is uitgegeven voor alle advertenties binnen een campagne. |
-| Video wordt afgespeeld | Het aantal keren dat een video is afgespeeld. Video wordt afgespeeld wanneer een video automatisch wordt afgespeeld of wanneer iemand klikt om de video af te spelen. |

@@ -3,9 +3,9 @@ title: Een advertentiesjabloon voor metagegevens voorbereiden voor GenStudio
 description: Leer hoe u een aangepaste metagegevensadvertentiesjabloon voor GenStudio maakt.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Alvorens u een Meta en malplaatje voorbereidt, zorg ervoor dat u [ richtlijnen ]
 
 **Voorbeeld**: Als u het lichaam van een Meta en malplaatje niet groter wilt zijn dan 500 karakters, voeg dat vereiste aan de [ kanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#channel-guidelines) voor het &quot;lichaam&quot;gebied toe.
 
-Als er geen richtlijnen aan GenStudio worden toegevoegd, worden de standaardwaarden gebruikt.
+Als er geen richtlijnen aan GenStudio worden toegevoegd, worden standaardwaarden gebruikt.
 
 ## Een sjabloon ontwerpen
 

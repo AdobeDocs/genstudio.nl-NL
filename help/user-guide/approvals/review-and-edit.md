@@ -2,7 +2,7 @@
 title: Inhoud controleren en bewerken
 description: Leer hoe u inhoud interactief kunt reviseren en bewerken.
 feature: Approval
-source-git-commit: bb06f20c436c0d2d426c8a07a419536716665a03
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Maker kan in-proces bewerkingen op de inhoud uitvoeren als reactie op revisieopm
 
 Als aangewezen fiatteur kunt u tot de inhoud toegang hebben die u wordt gevraagd om op verscheidene manieren te herzien en goed te keuren:
 
-* **heb toegang tot het ontwerp voor overzicht direct van de ontwerp verbinding in het goedkeuringsverzoek**. Klik op de conceptkoppeling in het e-mailbericht voor het goedkeuringsverzoek of in het product. GenStudio opent een canvas waarin het element of de ervaring wordt weergegeven. De _details van activa_ verlaten ruit omvat een _ruit van de Goedkeuring_.
+* **heb toegang tot het ontwerp voor overzicht direct van de ontwerp verbinding in het goedkeuringsverzoek**. Klik op de conceptkoppeling in het e-mailbericht voor het goedkeuringsverzoek of in het product. GenStudio opent een canvas waarin het element of de ervaring wordt weergegeven. Het _verlaten paneel van de details van Activa_ omvat een _Goedkeuring_ paneel.
 
 * **heb toegang tot het ontwerp voor overzicht van de lijst van goedkeuringsverzoeken**. Als u wordt gevraagd om meerdere concepten van inhoud te controleren, bevat het e-mailbericht een knop **[!UICONTROL View all notifications]** . Klik op deze knop om naar een pagina te gaan waarop al uw revisieverzoeken worden weergegeven die in behandeling zijn.
 
@@ -36,11 +36,11 @@ U kunt inhoud goedkeuren als u een goedkeuringsverzoek per e-mail hebt ontvangen
 
 1. Gebruik de koppeling in het bericht tijdens de productie of vraag een e-mail om naar de inhoud te navigeren voor revisie. GenStudio geeft het canvas met inhoud weer.
 
-1. Op het canvas met elementen staat een knop **[!UICONTROL Review & Approve]** rechtsboven. Klik deze knoop om de _goedkeurt_ ruit voor dit activa te openen.
+1. Op het canvas met elementen staat een knop **[!UICONTROL Review & Approve]** rechtsboven. Klik deze knoop om het _goedkeurt_ paneel voor dit activa te openen.
 
 ## Aanvraagwijzigingen
 
-U kunt van voorgestelde veranderingen een lijst maken of vragen over het ontwerp van de ruit van de Goedkeuring van de inhoud __ stellen. De **het werkschemastatus van het Werk van Vereist** brengt de tevreden schepper op de hoogte dat de veranderingen worden gevraagd.
+U kunt van voorgestelde veranderingen een lijst maken of vragen over het ontwerp van het paneel van de Goedkeuring van de inhoud __ stellen. De **het werkschemastatus van het Werk van Vereist** brengt de tevreden schepper op de hoogte dat de veranderingen worden gevraagd.
 
 Dit proces van het herzien, het voorstellen van geeft uit aan de inhoudmaker, en dan het herzien van de inhoud en het opnieuw verzenden voor goedkeuring is hoogst iteratief. In dit deel van de cyclus zie je de tijdbesparende mogelijkheden van GenStudio.
 

@@ -2,9 +2,9 @@
 title: Gegevens van element
 description: GenStudio slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Attributes, Assets
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ De volgende tabel bevat metagegevens (elementdetails) die u kunt definiëren wan
 | ------------- | ----------- | -------- | -------- |
 | Campagnenaam (projectnaam) | Standaardmetagegevens die zijn vastgelegd en opgeslagen met element | Y | N |
 | Merknaam | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) toegevoegd aan GenStudio en gepubliceerd voor gebruik | Y | N |
-| Producten | [[!DNL Products]](/help/user-guide/guidelines/products.md) toegevoegd aan GenStudio voor gebruik | Y | N |
-| Personas | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) toegevoegd aan GenStudio voor gebruik | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) toegevoegd aan GenStudio voor gebruik | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) toegevoegd aan GenStudio voor gebruik | Y | N |
 | Kanalen | Inhoudstypen in GenStudio waarvoor het element wordt gebruikt, zoals e-mail- en Meta-advertenties | Y | N |
 | Tijdschema | Tijdschema waarvoor het gebruikte activum, zoals kwartaal, seizoen, jaar, enz. Voorbeeld: `Winter 2023` | Y | N |
 | Regio | Regio’s waarvoor het actief wordt gebruikt. Voorbeelden: `North America` , `APAC` , `Italy` | Y | N |
@@ -66,7 +66,7 @@ De volgende tabel bevat metagegevens (elementdetails) die u kunt definiëren wan
 
 >[!TIP]
 >
->U kunt ook elementdetails weergeven vanuit [!DNL Insights] . Met inzichten beschikt u over gebruiksstatistieken en prestatiecontext voor verschillende ervaringen. Selecteer in _[!DNL Insights]_de sectie **[!UICONTROL Assets]**.
+>U kunt ook elementdetails weergeven vanuit [!DNL Insights] . [!DNL Insights] biedt gebruiksstatistieken en prestatiecontext voor verschillende ervaringen. Selecteer in _[!DNL Insights]_de sectie **[!UICONTROL Assets]**.
 
 <!-- ## History
 

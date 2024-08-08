@@ -4,9 +4,9 @@ description: Leer hoe te om richtlijnen toe te voegen - [!DNL Brands],  [!DNL Pr
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Klik in het linkernavigatiegebied op **[!DNL Brands]** . In het _[!DNL Brands]_p
 
 U kunt uw eigen merkdocumenten uploaden om een nieuw merk in GenStudio te vullen.
 
-Zie [[!DNL Brands]](/help/user-guide/guidelines/brands.md) voor een voorbeeldmerkhandleiding.
+Zie [[!DNL Brands]](/help/user-guide/guidelines/brands.md) .
 
 **om merkdocumenten** te uploaden:
 
@@ -110,7 +110,7 @@ Zie [[!DNL Products]](products.md) .
    1. Kies een beeld van de galerij in de _Galerij_ tabel.
 1. Klik op **[!UICONTROL Use image]**.
 
-   Om uw gecreeerde [!DNL Products] te zien, klik de achterpijl dichtbij de bovenkant van de _ruit van het Product_ om terug naar het _[!DNL Products]_huis te navigeren.
+   Om uw gecreeerde [!DNL Products] te zien, klik de achterpijl dichtbij de bovenkant van de _mening van het Product_ om terug naar het _[!DNL Products]_huis te navigeren.
 
 ### [!DNL Products] beheren
 
@@ -137,7 +137,7 @@ Zie [[!DNL Personas]](personas.md) .
    1. Kies een beeld van de galerij in de _Galerij_ tabel.
 1. Klik op **[!UICONTROL Use image]**.
 
-Om uw gecreeerde [!DNL Personas] te zien, klik de achterpijl dichtbij de bovenkant van de _Persona_ ruit om terug naar het _[!DNL Personas]_huis te navigeren.
+Om uw gecreeerde [!DNL Personas] te zien, klik de achterpijl dichtbij de bovenkant van de _Persona_ mening om terug naar het _[!DNL Personas]_huis te navigeren.
 
 ### [!DNL Personas] beheren
 

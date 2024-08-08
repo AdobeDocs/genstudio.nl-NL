@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Als u een nieuwe meta-advertentie-ervaring wilt gaan genereren, gebruikt u een b
 **om een Meta en malplaatje** te kiezen:
 
 1. Klik in _[!DNL Create]_op **[!UICONTROL Meta ads]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. In de _Uitgezochte malplaatje_ mening, knevel de _3} filter van Kanalen {aan **[!UICONTROL Meta ads]**._
 1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek Meta en malplaatje te vinden.
-1. Klik om een sjabloon te selecteren of selecteer meerdere sjablonen en klik op **[!UICONTROL Use]** . Als u meerdere sjablonen selecteert en de varianten worden gegenereerd, worden alle geselecteerde sjablonen gebruikt om u opties te bieden.
+1. Klik om een sjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
    Met deze actie opent u het canvas, dat het centrale knooppunt is voor het maken van inhoud.
 
@@ -53,7 +52,7 @@ Wanneer u klaar bent toevoegend parameters, kunt u het snelle gebied doen ineens
 
 ## Een vraag invoeren
 
-Nadat u richtlijnen hebt geselecteerd, kunt u een aanwijzing met een natuurlijke taal maken om inhoud te genereren voor uw nieuwe metagegevens en ervaring.
+Nadat u richtlijnen hebt geselecteerd, kunt u een aanwijzing met een natuurlijke taal maken om inhoud te genereren voor uw nieuwe metagegevens en ervaring. Gedetailleerde aanwijzingen leveren een hogere kwaliteit op dan vage of beschrijvende aanwijzingen.
 
 Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven van herinneringen te leren.
 
@@ -62,7 +61,7 @@ Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijv
 1. Ga een herinnering in _&quot;beschrijf de ervaringen in u &quot;_ snelle doos wilt produceren.
 1. Klik op **[!UICONTROL Generate]**.
 
-Standaard worden vier gegenereerde variaties gegenereerd, die allemaal worden gevoed door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd. Deze variaties worden gegenereerd en weergegeven op het canvas.
+Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd, en weergegeven in het canvas.
 
 ## Kanaal voor metagegevensadvertenties kiezen
 
@@ -76,6 +75,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
+* **om Meta uit te geven en ontwerp naam**, klik in de _Naamloze titel van het Ontwerp_ bij de bovenkant van het Canvas en ga een nieuwe titel in.
 * **om een Meta-advertentie** manueel uit te geven, klik in om het even welke advertentiefragmenten (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
 
   Voor het bewerken van de onderwerpregel en de voorheader is slechts één klik nodig, terwijl voor de koptekst en de hoofdtekst een dubbelklik vereist is.
@@ -93,7 +93,7 @@ Om de geproduceerde advertenties te optimaliseren en strikte gehechtheid aan mer
 1. Om de details van de fragmenten en de richtlijnen te krijgen die verbetering vereisen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
 
 1. U kunt elke advertentie doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat de inhoud meer op het merk wordt afgestemd.
-1. [ herziet manueel e-mail ](#revise-generated-emails) om uw advertenties te verzekeren dicht met uw merk wordt gericht.
+1. [ herzien manueel advertenties ](#revise-generated-meta-ads) om uw advertenties te verzekeren dicht met uw merk wordt gericht.
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
 

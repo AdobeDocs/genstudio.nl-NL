@@ -2,7 +2,7 @@
 title: Werken met sjablonen
 description: Leer hoe u met sjablonen aantrekkelijke ervaringen in GenStudio kunt creëren.
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Een bestaande sjabloon zoeken en gebruiken om ervaringen te creëren.
 
 1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
 
-   ![ het malplaatjelijst van de Inhoud ](../../assets/content-templates.png)
+   ![ het malplaatjelijst van de Inhoud ](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Selecteer een sjabloon voor een volledige weergave en een lijst met details.
 

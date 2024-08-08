@@ -1,9 +1,9 @@
 ---
 title: Gebruikershandleiding voor Adobe GenStudio
 description: Leer hoe u GenStudio en generatieve AI kunt gebruiken om uw toeleveringsketen voor inhoud aan te passen.
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # GenStudio-gebruikershandleiding
 
-Adobe GenStudio, aangedreven door generatieve AI, maakt een revolutie in de toeleveringsketen van inhoud, die u in staat stelt persoonlijke ervaringen te creëren, te meten en te beheren die de essentie van uw merk weerspiegelen.
+GenStudio is een uitgebreide marketingoplossing die wordt aangestuurd door de generatieve AI-technologie van Adobe. Het stelt marketers in staat de toeleveringsketen van inhoud te stroomlijnen, van ideatie tot levering en prestatiemeting.
 
-Met GenStudio kunnen marketers en teams moeiteloos hoogwaardige inhoud genereren en verfijnen die is afgestemd op de richtlijnen voor merken. GenStudio versnelt de marketinglevenscyclus en bespaart kostbare tijd en middelen.
+Met GenStudio kunnen bedrijven generatieve AI gebruiken om het maken van inhoud te versnellen, eenvoudig inhoud te zoeken en opnieuw te gebruiken en succesvolle omnichannel campagnes te voeren.
 
 ## Ontdek de GenStudio-mogelijkheden
 

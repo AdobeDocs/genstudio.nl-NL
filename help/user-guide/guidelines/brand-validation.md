@@ -2,7 +2,7 @@
 title: Merkvalidatie in GenStudio
 description: Leer hoe het ingebouwde merkvalidatiesysteem werkt in GenStudio.
 feature: Brands Service, Guidelines
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '593'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Klik op het pictogram om te zien welke richtlijnen voldoen aan uw merk en welke 
 
 Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
-## Deelvenster Handelsvalidatie
+## Deelvenster Handtekeningvalidatie
 
 Het _paneel van de Bevestiging van de Merk_ verstrekt gedetailleerde informatie van de brandbevestiging en belicht kansen voor verbetering voor elk variantfragment.
 
@@ -59,7 +59,7 @@ In het _paneel van de Bevestiging van de Merk_ kunt u filteren welke richtlijnen
 * **Alle richtlijnen** - _tonen ontbroken en overgegaan richtlijnen_ toont alle richtlijnen waarvoor de varianten tegen worden gemeten.
 * **overgegaan richtlijnen** - _tonen overgegaane richtlijnen_ toont slechts de richtlijnen die merkbevestiging overgingen.
 
-<!-- The _Brand Validation panel_ has different areas of focus for each content channel:
+<!-- The _Brand validation panel_ has different areas of focus for each content channel:
 
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations -->

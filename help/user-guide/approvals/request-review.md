@@ -1,7 +1,7 @@
 ---
 title: Revisies en goedkeuringen aanvragen
 description: Vraag om een nieuw onderzoek.
-source-git-commit: c9bd8bf434e493696e674900f403307260a65b02
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Optioneel: voeg opmerkingen toe om de aandacht van de fiatteur te vestigen op be
 
 Als u de maker van de inhoud bent, wordt de knop **[!UICONTROL Manage approvals]** weergegeven op het conceptcanvas. Gebruik deze knop om een pop-up te openen waaruit u fiatteurs kunt verwijderen of toevoegen tijdens het revisie- en goedkeuringsproces.
 
-Namen van fiatteurs worden in dit deelvenster weergegeven met de status [!DNL Notified] nadat de goedkeuringsaanvragen zijn gestart. Zie [ inhoud ](./approve-content.md) voor een overzicht van de goedkeuringstaken van GenStudio goedkeuren.
+Namen van fiatteurs worden in deze weergave weergegeven met de status [!DNL Notified] nadat de goedkeuringsaanvragen zijn gestart. Zie [ inhoud ](./approve-content.md) voor een overzicht van de goedkeuringstaken van GenStudio goedkeuren.
 
 
 

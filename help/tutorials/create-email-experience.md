@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Als u een nieuwe e-mailervaring wilt gaan maken, gebruikt u een beschikbare sjab
 **om een e-mailmalplaatje** te kiezen:
 
 1. Klik in _[!DNL Create]_op **[!UICONTROL Email]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. In de _Uitgezochte malplaatje_ mening, knevel de _3} filter van Kanalen {aan **[!UICONTROL Email]**._
 1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek e-mailmalplaatje te vinden.
 1. Klik om een e-mailsjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
@@ -53,7 +52,7 @@ Wanneer u wordt gebeëindigd toevoegend parameters, kunt u het snelle gebied doe
 
 ## Een vraag invoeren
 
-Nadat u richtlijnen hebt geselecteerd, kunt u vragen in een natuurlijke taal te schrijven om inhoud te genereren voor uw nieuwe e-mailervaring.
+Nadat u richtlijnen hebt geselecteerd, kunt u vragen in een natuurlijke taal te schrijven om inhoud te genereren voor uw nieuwe e-mailervaring. Gedetailleerde aanwijzingen leveren een hogere kwaliteit op dan vage of beschrijvende aanwijzingen.
 
 Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven van herinneringen te leren.
 
@@ -62,7 +61,7 @@ Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijv
 1. Ga een herinnering in _&quot;beschrijf de ervaringen in u &quot;_ snelle doos wilt produceren.
 1. Klik op **[!UICONTROL Generate]**.
 
-Standaard worden vier gegenereerde variaties gegenereerd, die allemaal worden gevoed door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd. Deze variaties worden gegenereerd en weergegeven op het canvas.
+Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd, en weergegeven in het canvas.
 
 ## Gegenereerde e-mails reviseren
 
@@ -70,6 +69,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
+* **om de naam van het e-mailontwerp** uit te geven, klik in de _Naamloze titel van het Ontwerp_ bij de bovenkant van het Canvas en ga een nieuwe titel in.
 * **om een e-mail** manueel uit te geven, klik in om het even welke e-mailfragmenten (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
 
   Voor de onderwerpregel en de voorheader hoeft u slechts één klik te bewerken, terwijl voor de koptekst, hoofdtekst en aanroep naar een handeling een dubbelklik vereist is.

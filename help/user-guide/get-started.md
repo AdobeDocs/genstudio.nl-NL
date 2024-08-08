@@ -3,9 +3,9 @@ title: Aan de slag met GenStudio
 description: Leer hoe u uw GenStudio instelt voor het genereren van nieuwe marketinginhoud die is afgestemd op het merk.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 2501d1e36f76d1534a735b9147fb42f762a665e8
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1049'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ In de volgende tabel worden de standaardmachtigingen voor GenStudio-medewerkers 
 
 ### Beheerders
 
-Admin-gebruikers maken rollen die door GenStudio worden ondersteund en wijzen deze toe aan gebruikers. Zij kunnen nieuwe toestemmingen aan individuele creators of medewerkers toewijzen zoals vereist. Hun belangrijkste taak is het voltooien van de eerste instaptaken die uw organisatie voorbereiden op de implementatie van GenStudio.
+**Beheerders** creëren en wijzen gebruikers aan om het even welke GenStudio gesteunde rollen toe. Zij kunnen nieuwe toestemmingen aan individuele creators of medewerkers toewijzen zoals vereist. Hun belangrijkste taak is het voltooien van de eerste instaptaken die uw organisatie voorbereiden op de implementatie van GenStudio.
 
 In de volgende tabel worden de standaardmachtigingen van de GenStudio-systeembeheerder weergegeven:
 
@@ -93,7 +93,7 @@ In de volgende tabel worden de standaardmachtigingen van de GenStudio-systeembeh
 
 Systeembeheerders bereiden de GenStudio-omgeving van hun organisatie voor zodat ontwerpers en medewerkers campagnemiddelen kunnen maken. Deze voorbereidende taken omvatten:
 
-1. [ de richtlijnen van de Opstelling ](./guidelines/overview.md) voor [!DNL Brands], [!DNL Products], en [!DNL Personas]. Vestiging de belangrijkste bouwstenen van de markering van uw organisatie **[voegt richtlijnen](./guidelines/overview.md)** ([!DNL Brands], [!DNL Products], en [!DNL Personas]) aan GenStudio toe. Het opzetten van de belangrijkste bouwstenen van de merkidentiteit van uw organisatie is een essentiële voorwaarde voor het werk van de makers en medewerkers van GenStudio. U kunt documenten met brandrichtlijnen uploaden of handmatig merkgegevens invoeren.
+1. [ voegt richtlijnen ](./guidelines/overview.md) voor [!DNL Brands], [!DNL Products], en [!DNL Personas] toe. Het opzetten van de belangrijkste bouwstenen van de merkidentiteit van uw organisatie is een essentiële voorwaarde voor het werk van de makers en medewerkers van GenStudio. U kunt documenten met brandrichtlijnen uploaden of handmatig merkgegevens invoeren.
    * **bereidt uw documenten van richtlijnen** voor. Hoe beschrijvender en uitgebreider uw merkrichtlijnen, hoe beter de GenStudio-uitvoer. Voeg korte voorbeelden toe van functies die u belangrijk vindt voor uw merk en voeg beschrijvingen toe van het gedrag dat u wilt uitsluiten van het maken van GenStudio-inhoud. GenStudio haalt informatie uit deze geüploade documenten en begint uw merk te maken. Informatie zoals de stem van het merk, het kanaal, en beeldrichtlijnen, zijn bevolkt aangezien GenStudio elke richtlijn van uw geüploade documenten assembleert.
    * **geef of volledige gebieden van de merkrichtlijn uit zoals nodig**. Uitgebreide merkrichtlijnen vormen de basis voor GenStudio-begrip van het merk van uw organisatie. Nadat GenStudio de informatie die het nodig heeft, uit de documenten met uw merkenrichtlijnen heeft gehaald, wordt u gevraagd om velden met geëxtraheerde informatie handmatig te bewerken of in te vullen. Afzonderlijke productfocusgebieden voor het maken van inhoud opgeven door een [!DNL Product] toe te voegen. Met de richtlijnen van [!DNL Personas] kunt u de creatie van inhoud voor bepaalde klantsegmenten afstemmen.
 

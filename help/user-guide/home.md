@@ -1,7 +1,7 @@
 ---
 title: Gebruikershandleiding voor Adobe GenStudio
 description: Leer hoe u GenStudio en generatieve AI kunt gebruiken om uw toeleveringsketen voor inhoud aan te passen.
-source-git-commit: f5b353ac807b5676fbeda593a3827c960facda3a
+source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -123,3 +123,4 @@ Met GenStudio kunnen bedrijven generatieve AI gebruiken om het maken van inhoud 
    </p>
 </td>
 </table>
+

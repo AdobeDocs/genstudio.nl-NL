@@ -2,9 +2,9 @@
 title: Effectieve aanwijzingen schrijven
 description: Leer hoe u effectieve herinneringen voor GenStudio schrijft.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 5e17996ee3a86cf664ee468d6b9cf178c8853992
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Communiceren met de generatieve AI is van essentieel belang voor een effectieve werking in GenStudio.
 
-GenStudio biedt een generatieve AI-prompt wanneer er een mogelijkheid is om een element te maken of te wijzigen. De componenten van een efficiënte herinnering zouden beschrijvende taal, voorbeelden, en informatie moeten omvatten niet die door uw gevormde richtlijnen wordt verstrekt.
+GenStudio biedt een generatieve AI-prompt wanneer er een mogelijkheid is om een element te wijzigen. De componenten van een efficiënte herinnering zouden beschrijvende taal, voorbeelden, en informatie moeten omvatten niet die door uw gevormde richtlijnen wordt verstrekt.
 
-Als beste praktijken, leverde GenStudio van uw merkinformatie gebruikend [ richtlijnen ](/help/user-guide/guidelines/overview.md), dan kunt u volledig hefboomwerking generatieve AI om merk-gerichte inhoud te produceren.
+Als beste praktijken, levering GenStudio van uw merkinformatie gebruikend [ richtlijnen ](/help/user-guide/guidelines/overview.md), dan kunt u volledig hefboomwerking generatieve AI om merkgerichte inhoudservaringen te produceren.
 
 ## Beschrijvende taal
 

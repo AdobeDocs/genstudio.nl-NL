@@ -1,18 +1,20 @@
 ---
 title: Gebruikershandleiding voor Adobe GenStudio
-description: Leer hoe u GenStudio en generatieve AI kunt gebruiken om uw toeleveringsketen voor inhoud aan te passen.
-source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
+description: Marketers en superprijsmakers met GenStudio, de AI-eerste toepassing van de Adobe die zelfbedieningstoegang tot on-brand-inhoud biedt met zakelijke begeleiding en bestuur voor hoogwaardige ervaringen.
+source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
 # GenStudio-gebruikershandleiding
 
-GenStudio is een uitgebreide marketingoplossing die wordt aangestuurd door de generatieve AI-technologie van Adobe. Het stelt marketers in staat de toeleveringsketen van inhoud te stroomlijnen, van ideatie tot levering en prestatiemeting.
+Adobe GenStudio is een door AI aangedreven platform dat bedrijven in staat stelt autonoom marketinginhoud te genereren en te beheren die aan hun merknormen voldoet, aan het ondernemingsbeleid voldoet en naadloos een impactvolle marketingstrategie ondersteunt.
 
-Met GenStudio kunnen bedrijven generatieve AI gebruiken om het maken van inhoud te versnellen, eenvoudig inhoud te zoeken en opnieuw te gebruiken en succesvolle omnichannel campagnes te voeren.
+Met GenStudio kunnen marketeers en creatieven het proces voor het maken van content stroomlijnen om marketingcontent te maken die aantrekkelijk, cultureel relevant en toegesneden is op specifieke doelgroepen, en tegelijk hoge kwaliteit en brandintegriteit in stand houdt.
+
+Door gebruik te maken van AI-technologie biedt GenStudio een uitgebreid pakket hulpmiddelen die de complexiteit van het maken en beheren van content vereenvoudigen, zodat creatieve mensen zich kunnen richten op innovatie.
 
 ## Ontdek de GenStudio-mogelijkheden
 
@@ -28,7 +30,7 @@ Met GenStudio kunnen bedrijven generatieve AI gebruiken om het maken van inhoud 
          </a>
       </div>
       <p>
-         {de herinneringen van 0} Craft met beschrijvende taal, merkactiva, en andere criteria.</em><em>
+         <em> de beschrijvende herinneringen van het ambt die digitale ervaringen op merk produceren.</em>
       </p>
    </td>
    <td valign="top">
@@ -41,7 +43,7 @@ Met GenStudio kunnen bedrijven generatieve AI gebruiken om het maken van inhoud 
          </a>
       </div>
       <p>
-         <em> creeer prestaties, beelden en inhoud on-brand.</em>
+         <em> creeer prestaties, e-mails van het merk en de advertenties van Meta.</em>
       </p>
    </td>
    <td valign="top">
@@ -54,7 +56,7 @@ Met GenStudio kunnen bedrijven generatieve AI gebruiken om het maken van inhoud 
          </a>
       </div>
       <p>
-         <em> herzie en keur campagnecomponenten en merkactiva goed.</em>
+         <em> ordent de gestroomlijnde overzicht en goedkeuring van marketing activa.</em>
       </p>
    </td>
    <td valign="top">
@@ -80,7 +82,7 @@ Met GenStudio kunnen bedrijven generatieve AI gebruiken om het maken van inhoud 
          </a>
       </div>
       <p>
-         <em> optimaliseer inhoudsprestaties die op gebruik in real time worden gebaseerd.</em>
+         <em> analyseer inhoudsdoeltreffendheid van betaalde media kanalen.</em>
       </p>
    </td>
 </tr>
@@ -97,7 +99,7 @@ Met GenStudio kunnen bedrijven generatieve AI gebruiken om het maken van inhoud 
       </a>
    </div>
    <p>
-      <em> leer hoe te om richtlijnen aan GenStudio toe te voegen.</em>
+      <em> leer hoe te om richtlijnen-merken, Producten, en personas-aan GenStudio toe te voegen.</em>
    </p>
 </td>
 <td valign="top">

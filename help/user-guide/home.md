@@ -1,7 +1,7 @@
 ---
 title: Gebruikershandleiding voor Adobe GenStudio
 description: Marketers en superprijsmakers met GenStudio, de AI-eerste toepassing van de Adobe die zelfbedieningstoegang tot on-brand-inhoud biedt met zakelijke begeleiding en bestuur voor hoogwaardige ervaringen.
-source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
+source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -125,4 +125,3 @@ Door gebruik te maken van AI-technologie biedt GenStudio een uitgebreid pakket h
    </p>
 </td>
 </table>
-

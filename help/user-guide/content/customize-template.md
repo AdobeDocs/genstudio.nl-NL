@@ -3,9 +3,9 @@ title: Sjablonen aanpassen
 description: Leer hoe u een aangepaste sjabloon voor GenStudio maakt.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
+source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ De volgende tabel bevat een lijst met de veldnamen die door GenStudio worden her
 | `cta` | Oproep tot actie | e-mail (geadviseerd) <br> Meta ad |
 | `on_image_text` | Op afbeeldingstekst | Meta-advertentie (aanbevolen) |
 | `image` | Afbeelding | e-mail (geadviseerd) <br> Meta en (geadviseerd) |
-| `brand_logo` | Logo van het geselecteerde merk | Meta en |
+| `brand_logo` | Logo van het geselecteerde merk | e-mail <br> Meta-advertentie |
 
 GenStudio vult bepaalde velden automatisch in sjablonen in. Deze velden hoeven dus niet in uw sjabloonontwerpen te worden opgenomen:
 
@@ -76,15 +76,33 @@ GenStudio vult bepaalde velden automatisch in sjablonen in. Deze velden hoeven d
 
 #### Naam merklogo
 
-Als u een merklogo aan uw sjabloon wilt toevoegen, gebruikt u de volgende code om het standaardlogo te renderen:
+Als u een merklogo aan uw sjabloon wilt toevoegen, gebruikt u een van de volgende methoden om het standaardlogo te renderen.
 
-```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+_Voorbeeld_:
+
+```bash
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```
+
+_Voorbeeld_:
+
+```bash
+{{#if brand_logo}}
+
+                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{else}}
+
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{/if}}
+```
 
 #### Handmatige veldnamen
 
 Alle andere veldnamen worden behandeld als handmatig gevulde velden. Als u een sectie bewerkbaar wilt maken, voegt u dubbele haakjes toe rond de sectie die u wilt bewerken.
 
-> Voorbeeld: ``{{customVariable}}`` (customVariable is de handmatig bewerkbare sectie)
+_Voorbeeld_: ``{{customVariable}}`` (`customVariable` is de manueel editable sectie)
 
 ## Secties of groepen
 

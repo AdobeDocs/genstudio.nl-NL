@@ -1,13 +1,13 @@
 ---
-source-git-commit: 135502f6743f2d45860c900a49a8c19a024a58dc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '310'
 ht-degree: 5%
 
 ---
-# GenStudio-documentatie
+# Documentatie over GenStudio for Performance Marketers
 
-Deze site bevat de meest recente documentatie voor het GenStudio-product.
+Deze site bevat de meest recente documentatie voor het GenStudio for Performance Marketers-product.
 
 ## Adobe Open gedragscode van Source
 

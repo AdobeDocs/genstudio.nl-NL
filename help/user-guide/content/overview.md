@@ -1,18 +1,18 @@
 ---
-title: Overzicht van  [!DNL Content]
+title: Overzicht van Adobe GenStudio voor de Marketers van Prestaties  [!DNL Content]
 description: Leer hoe u door uw merk goedgekeurde middelen kunt zoeken, bewerken, hergebruiken en delen in één intuïtieve portal.
 feature: Attributes, Content, Templates
-source-git-commit: 4192f4a34c30267a2556874fed2e5bc5b300c227
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Content]
+# Adobe GenStudio voor prestatiemarkeringen [!DNL Content]
 
-GenStudio [!DNL Content] biedt een centrale locatie voor het opslaan, zoeken en delen van alle door uw merk goedgekeurde middelen, ervaringen en sjablonen. U kunt inhoud bewerken en opnieuw mixen, inzicht krijgen in het gebruik en sentiment van inhoud en bestaande elementen vernieuwen en opnieuw gebruiken met behulp van generatieve AI.
+GenStudio for Performance Marketers [!DNL Content] biedt een centrale locatie voor het opslaan, zoeken en delen van alle door uw merk goedgekeurde middelen, ervaringen en sjablonen. U kunt inhoud bewerken en opnieuw mixen, inzicht krijgen in het gebruik en sentiment van inhoud en bestaande elementen vernieuwen en opnieuw gebruiken met behulp van generatieve AI.
 
 ## [!DNL Content] gebruik gevallen
 
@@ -65,7 +65,7 @@ GenStudio [!DNL Content] biedt een centrale locatie voor het opslaan, zoeken en 
 
 ## [!DNL Content] mogelijkheden
 
-Met GenStudio [!DNL Content] kunt u uw goedgekeurde middelen eenvoudig beheren en de levenscyclus van de inhoud versnellen. In **[!UICONTROL [!DNL Content]]** kunt u zoeken naar en zoeken naar inhoud die presteert en deze opnieuw gebruiken. U kunt ook een middel of ervaring selecteren om te springen met het maken van nieuwe varianten voor een groenere campagne.
+Met GenStudio for Performance Marketers [!DNL Content] kunt u uw goedgekeurde middelen eenvoudig beheren en de levenscyclus van de inhoud versnellen. In **[!UICONTROL [!DNL Content]]** kunt u zoeken naar en zoeken naar inhoud die presteert en deze opnieuw gebruiken. U kunt ook een middel of ervaring selecteren om te springen met het maken van nieuwe varianten voor een groenere campagne.
 
 ### Elementen uploaden
 
@@ -73,7 +73,7 @@ In het deelvenster **[!UICONTROL Add assets]** kunt u bestanden in uw lokale bes
 
 ### Goedgekeurde inhoud zoeken
 
-Wanneer u goedgekeurde elementen opslaat, behoudt [!DNL Content] de rijke metagegevens, de generatiecontext en de auditgeschiedenis. Met de gegevens van elementen kunt u snel de zoekresultaten beperken met filter- en zoektekenreeksen. GenStudio AI identificeert en slaat automatisch bepaalde details op, zoals kleur. Wanneer u naar `blue` zoekt in het zoekveld, wordt de inhoudslijst beperkt tot elementen die zijn gelabeld als blauw.
+Wanneer u goedgekeurde elementen opslaat, behoudt [!DNL Content] de rijke metagegevens, de generatiecontext en de auditgeschiedenis. Met de gegevens van elementen kunt u snel de zoekresultaten beperken met filter- en zoektekenreeksen. In de AI van GenStudio for Performance Marketers worden bepaalde details, zoals kleur, automatisch geïdentificeerd en opgeslagen. Wanneer u naar `blue` zoekt in het zoekveld, wordt de inhoudslijst beperkt tot elementen die zijn gelabeld als blauw.
 
 ### Werken met sjablonen
 

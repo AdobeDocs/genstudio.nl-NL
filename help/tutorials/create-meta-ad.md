@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # Een meta-advertentie maken
 
-In deze zelfstudie wordt uitgelegd hoe u Meta met branding kunt genereren en ervaringen kunt opdoen met GenStudio [[!DNL Create]](/help/user-guide/create/overview.md) (pictogram voor penselen in het linkernavigatiegebied).
+In deze zelfstudie wordt uitgelegd hoe u Meta-advertenties met branding genereert met GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (pictogram voor penselen in het linkernavigatiegebied).
 
-Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [ richtsnoeren ](/help/user-guide/guidelines/add-guidelines.md) in GenStudio op te nemen en vertrouwd te worden met de grondbeginselen van [ het creëren van een herinnering ](/help/user-guide/effective-prompts.md).
+Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [ richtlijnen ](/help/user-guide/guidelines/add-guidelines.md) in GenStudio voor de Marketers van Prestaties op te nemen en vertrouwd te worden met de grondbeginselen van [ het creëren van een herinnering ](/help/user-guide/effective-prompts.md).
 
 ## Een sjabloon kiezen
 
@@ -41,7 +41,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 1. Klik het _pictogram van Parameters_ om het snelle gebied uit te breiden.
 1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
-   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio ](/help/user-guide/guidelines/add-guidelines.md) toe.
+   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketers van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Klik **[!UICONTROL Select content]** om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden.
    * Klik op **[!UICONTROL Select from content]** om elementen (afbeeldingen) te selecteren die al zijn gepubliceerd naar [!DNL Content] . Gebruik de filters om de zoekresultaten verder te verfijnen.
@@ -120,8 +120,8 @@ Als u de gegenereerde metagegevensadvertenties beschikbaar wilt maken voor huidi
 
 Zie [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) voor meer informatie.
 
-## Meta verbinden met GenStudio
+## Connect Meta
 
-U kunt GenStudio met Meta verbinden om geavanceerde analyses en [ inzichten ](/help/user-guide/insights/overview.md) in inhoudsprestaties te ontvangen.
+U kunt GenStudio voor de Marketers van Prestaties met Meta verbinden om geavanceerde analyses en [ inzichten ](/help/user-guide/insights/overview.md) in inhoudsprestaties te ontvangen.
 
 Zie [ Connect kanaalrekening ](/help/user-guide/insights/connect-channel.md) voor meer informatie.

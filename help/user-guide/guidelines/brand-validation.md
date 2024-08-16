@@ -1,10 +1,10 @@
 ---
-title: Merkvalidatie in GenStudio
-description: Leer hoe het ingebouwde merkvalidatiesysteem werkt in GenStudio.
+title: Merkwaardvalidatie in Adobe GenStudio voor prestatie-markeertekens
+description: Leer hoe het ingebouwde systeem voor merkvalidatie werkt in GenStudio for Performance Marketers.
 feature: Brands Service, Guidelines
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Merkwaardvalidatie
 
-In GenStudio is merkvalidatie een essentieel onderdeel dat samenwerkt met de generatieve AI-functionaliteit en -richtlijnen— [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) . Zo weet u zeker dat al uw inhoud wordt uitgelijnd op uw merkidentiteit.
+In GenStudio for Performance Marketers is merkvalidatie een essentieel onderdeel dat samenwerkt met de generatieve AI-functionaliteit en -richtlijnen— [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) . Zo weet u zeker dat al uw inhoud wordt uitgelijnd op uw merkidentiteit.
 
-GenStudio voert de validatie van merken uit op verschillende aspecten, waaronder:
+GenStudio for Performance Marketers voert de merkvalidatie uit op verschillende aspecten, zoals:
 
 * Merk richtlijnen specifiek voor elke klant
 * Richtlijnen kopiëren voor verschillende kanaalplatforms

@@ -1,11 +1,11 @@
 ---
 title: Sjablonen aanpassen
-description: Leer hoe u een aangepaste sjabloon voor GenStudio maakt.
+description: Leer hoe u een aangepaste sjabloon maakt voor Adobe GenStudio voor Performance Marketers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9cf7da078e84cf7696f32ca2278aa71b7b1b7cc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Sjablonen aanpassen
 
-Pas uw malplaatjes van HTML voor GenStudio aan door de _het malplaatjetaal te gebruiken 0} Handlebars {._ De syntaxis Handlebars gebruikt regelmatige tekst met dubbele steunen als inhoudplaceholders. Zie [`What is Handlebars?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
+Pas uw malplaatjes van HTML voor Adobe GenStudio voor de Marketers van Prestaties aan door de _het malplaatjetaal te gebruiken 0} Handlebars {._ De syntaxis Handlebars gebruikt regelmatige tekst met dubbele steunen als inhoudplaceholders. Zie [`What is Handlebars?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+-->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,11 +35,11 @@ Zie [ voorbeelden van het Malplaatje ](#template-examples).
 
 >[!TIP]
 >
->Voeg in de volgende secties plaatsaanduidingen voor inhoud toe voor e-mailvelden, zie voorbeeldsjablonen, verberg overbodige elementen uit de voorvertoning en beheer koppelingen naar statische inhoud. Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
+>Voeg in de volgende secties plaatsaanduidingen voor inhoud toe voor e-mailvelden, zie voorbeeldsjablonen, verberg overbodige elementen uit de voorvertoning en beheer koppelingen naar statische inhoud. Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio voor de Marketers van Prestaties ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
 
 ## Plaatsaanduidingen voor inhoud
 
-Binnen de kop of de hoofdtekst van een sjabloon kunt u de syntaxis Handlebars gebruiken om plaatsaanduidingen voor inhoud in te voegen op plaatsen waar GenStudio de sjabloon moet vullen met werkelijke inhoud. GenStudio herkent en interpreteert automatisch de plaatsaanduidingen voor inhoud op basis van de veldnaam.
+Binnen de kop of de hoofdtekst van een sjabloon kunt u de syntaxis Handlebars gebruiken om plaatsaanduidingen voor inhoud in te voegen op plaatsen waar u GenStudio for Performance Marketers nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketers herkent en interpreteert de plaatsaanduidingen voor inhoud automatisch op basis van de veldnaam.
 
 Met `{{ headline }}` kunt u bijvoorbeeld aangeven waar de kop van het e-mailbericht moet worden geplaatst:
 
@@ -53,7 +53,7 @@ Het maximumaantal velden dat in een aangepaste sjabloon is toegestaan, is twinti
 
 #### Erkende veldnamen
 
-De volgende tabel bevat een lijst met de veldnamen die door GenStudio worden herkend voor populatie in sjablonen.
+In de volgende tabel worden de veldnamen weergegeven die door GenStudio for Performance Marketers voor populaties worden herkend in sjablonen.
 
 | Veld | Rol | Kanaalsjabloon |
 | -------------- | ---------------------- | -------------------- |
@@ -65,7 +65,7 @@ De volgende tabel bevat een lijst met de veldnamen die door GenStudio worden her
 | `image` | Afbeelding | e-mail (geadviseerd) <br> Meta en (geadviseerd) |
 | `brand_logo` | Logo van het geselecteerde merk | e-mail <br> Meta-advertentie |
 
-GenStudio vult bepaalde velden automatisch in sjablonen in. Deze velden hoeven dus niet in uw sjabloonontwerpen te worden opgenomen:
+GenStudio for Performance Marketers vult automatisch bepaalde velden in sjablonen in. Deze velden hoeven dus niet in uw sjabloonontwerpen te worden opgenomen:
 
 * `subject` (e-mailsjabloon)
 * `headline` -, `body` - en `CTA` -velden (metagegevens en sjabloon)
@@ -106,7 +106,7 @@ _Voorbeeld_: ``{{customVariable}}`` (`customVariable` is de manueel editable sec
 
 ## Secties of groepen
 
-_Secties_ informeren GenStudio dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
+_secties_ informeren GenStudio voor de Marketers van Prestaties dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
 
 Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld deel uitmaakt van een sectie of groep.
 
@@ -126,13 +126,13 @@ Een sjabloon kan maximaal drie secties bevatten:
 * `news_headline`
 * `news_body`
 
-GenStudio begrijpt dat `spotlight_headline` nauwer verwant is aan `spotlight_body` dan aan `news_body` .
+GenStudio for Performance Marketers begrijpt dat `spotlight_headline` nauwer verwant is aan `spotlight_body` dan aan `news_body` .
 
 ## Sjabloonvoorbeelden
 
 +++Voorbeeld: E-mailsjabloon met één sectie
 
-Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor een e-mailbericht dat één sectie bevat. De kop bevat eenvoudige inline CSS voor opmaak. Het lichaam bevat a `pre-header`, `headline`, en `image` [ placeholder ](#content-placeholders) voor gebruik door GenStudio om inhoud tijdens het proces van de e-mailgeneratie te injecteren.
+Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor een e-mailbericht dat één sectie bevat. De kop bevat eenvoudige inline CSS voor opmaak. Het lichaam bevat a `pre-header`, `headline`, en `image` [ placeholder ](#content-placeholders) voor gebruik door GenStudio voor de Marketers van Prestaties om inhoud tijdens het e-mailgeneratieproces te injecteren.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -293,9 +293,9 @@ Een ander voorbeeld kan zijn om het gebruik van volgcodes te verhinderen wanneer
 
 ## Statische inhoud
 
-E-mail- en metasjablonen zijn vaak gekoppeld aan afbeeldingen en CSS-bestanden die buiten GenStudio worden gehost. Wanneer GenStudio miniaturen voor deze sjablonen of de ervaringen die hiervan zijn afgeleid genereert, kunnen deze externe bronnen worden genegeerd als ze niet de juiste koppen CORS (Cross-Origin Resource Sharing) hebben.
+E-mailsjablonen en meta-sjablonen zijn vaak gekoppeld aan afbeeldingen en CSS-bestanden die buiten GenStudio for Performance Marketers worden gehost. Wanneer GenStudio for Performance Marketers miniaturen voor deze sjablonen of de ervaringen die hiervan zijn afgeleid, genereert, kunnen deze externe bronnen worden genegeerd als ze niet de juiste koppen CORS (Cross-Origin Resource Sharing) hebben.
 
 Houd rekening met twee opties om ervoor te zorgen dat deze bronnen beschikbaar zijn tijdens het genereren van miniaturen:
 
-1. **de Kopballen van CORS van het Gebruik**: De gastheerserver moet reacties met een `Access-Control-Allow-Origin` kopbal verzenden die aan `https://experience.adobe.com` waarde voor productiemilieu&#39;s wordt geplaatst. Met deze methode kan GenStudio toegang krijgen tot de bronnen en deze opnemen.
+1. **de Kopballen van CORS van het Gebruik**: De gastheerserver moet reacties met een `Access-Control-Allow-Origin` kopbal verzenden die aan `https://experience.adobe.com` waarde voor productiemilieu&#39;s wordt geplaatst. Met deze methode kunnen GenStudio for Performance Marketers toegang krijgen tot de bronnen en deze opnemen.
 1. **Gegevens URLs van het Gebruik**: Sluit direct de externe middelen in het malplaatje in gebruikend Gegevens URLs. Deze methode omzeilt de beperkingen van CORS en zorgt ervoor dat de middelen tijdens duimnagelgeneratie beschikbaar zijn.

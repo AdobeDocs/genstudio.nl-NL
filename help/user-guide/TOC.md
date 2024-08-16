@@ -1,23 +1,23 @@
 ---
-user-guide-title: Gebruikershandleiding voor Adobe GenStudio
+user-guide-title: Gebruikershandleiding voor Adobe GenStudio voor prestatiemarkeringen
 breadcrumb-title: Gebruikershandleiding
 user-guide-description: Leer hoe u snel online middelen kunt vinden en genereren, variaties kunt maken en ervaringen kunt optimaliseren op basis van real-time inzichten in de prestaties van content.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 3283f1ff0ddbc8825e084add893b322dd20066d0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 3%
 
 ---
 
 
-# Handleiding Adobe GenStudio {#user-guide}
+# Adobe GenStudio voor de handleiding voor de prestatiemarkeringen {#user-guide}
 
-+ [GenStudio Guide](home.md)
++ [Handleiding GenStudio for Performance Marketers](home.md)
 + [Aan de slag](get-started.md)
 + Inleiding {#intro}
-   + [GenStudio-concepten](concepts.md)
+   + [Concepten](concepts.md)
    + [Effectieve aanwijzingen](effective-prompts.md)
    + [ Tutorials ](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
 + Richtlijnen {#guidelines}

@@ -1,9 +1,9 @@
 ---
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
-source-git-commit: cbae3aeb1b8282fb64f2a6405a7ad9e07a48dbbd
+source-git-commit: 75d966e8474687e8e88ccec6fe6a96fda030dbcf
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 
-Deze nota&#39;s benadrukken significante correcties en verhogingen van de Adobe GenStudio voor de week die 16 augustus beëindigt.
+Deze nota&#39;s benadrukken significante Adobe GenStudio voor de fixes en de verhogingen van de Marketers van Prestaties voor de week die 16 augustus beëindigt.
 
 ## Hooglichten
 
@@ -26,8 +26,6 @@ Het validatievenster van [!DNL Brand] is uitgebreid om de gebruikerservaring te 
 * **bijgewerkte de extractieinterface van het Merk**: De extractie van het merk toont nu voltooiing van het extractieproces als percentage.
 
 * **Incrementele merklading tijdens extractie**: De richtlijnen van het merk worden nu incrementeel geladen in het gebruikersinterface.
-
-* **Vereenvoudiging van het schema van de Richtsnoer van het Exemplaar**: Het `unique attributes` en `frequent keywords` gebied zijn verwijderd uit het schema van de Richtsnoer van het Exemplaar, dat het richtsnoer op proces vereenvoudigt.
 
 ### [!DNL Create]
 
@@ -57,19 +55,8 @@ Deze release bevat de volgende aanvullende oplossingen.
 
 De volgende bekende problemen worden opgelost door de GenStudio for Performance Marketers GA-release.
 
-### Analyse
-
-* Acties die door de knoppen **[!UICONTROL Add templates]** en **[!UICONTROL Upload]** worden geactiveerd, worden momenteel niet bijgehouden. <!-- GS-3505 -->
-
 ### [!DNL Insights]
 
 * De video&#39;s kunnen niet van _Assets_ worden gespeeld. <!-- GS-3846 -->
 
 * Gebruikers moeten zich twee keer aanmelden wanneer ze zich ook bij Facebook hebben aangemeld. **Oplossing**: logout van Facebook alvorens het programma te openen [!DNL Insights].
-
-* **uitgaven op het niveau van de Campagne** waarden zijn niet nauwkeurig. De gegevens zijn momenteel niet consistent tussen Facebook Ads Manager en het datumpigment. <!-- GS-3202 -->
-
-### [!DNL Reviews and Approvals]
-
-* Maker kan elementen na goedkeuring vóór publicatie wijzigen. De fiatteurs worden niet van deze wijzigingen in kennis gesteld.
-

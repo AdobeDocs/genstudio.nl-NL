@@ -1,10 +1,10 @@
 ---
 title: Gegevens van element
-description: GenStudio slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
+description: Adobe GenStudio voor de Marketers van Prestaties slaat goedgekeurde inhoud met rijke meta-gegevens op voor doorzoekbaarheid en prestaties het volgen.
 feature: Attributes, Assets
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Gegevens van element
 
-GenStudio slaat goedgekeurde inhoud op met rijke metagegevens voor ontdekkingsmogelijkheden en het bijhouden van prestaties.
+Adobe GenStudio voor de Marketers van Prestaties slaat goedgekeurde inhoud met rijke meta-gegevens voor ontdekkingsmogelijkheden en prestaties het volgen op.
 
 Elk element (met inbegrip van ervaringen en malplaatjes) heeft _details_ (meta-gegevens) geassocieerd die helpen zich identificeren, volgen, gebruiken, en van inhoudsprestaties leren.
 
@@ -26,7 +26,7 @@ Standaardmetagegevens die voor een element zijn opgeslagen en vastgelegd, zijn o
 
 ### Gegenereerde tags
 
-Wanneer middelen worden goedgekeurd en opgeslagen in [!DNL Content], gebruikt GenStudio de AI- en computerleermogelijkheden van Adobe om tags te genereren op basis van de functies van elementen, zoals kleur en toon, of trefwoorden die de functies van elementen identificeren. U kunt labels niet bewerken.
+Wanneer middelen worden goedgekeurd en opgeslagen in [!DNL Content], gebruikt GenStudio for Performance Marketers de AI- en Machine Learning-mogelijkheden van Adobe om tags te genereren op basis van de elementen, zoals kleur en toon, of trefwoorden die de functies van elementen identificeren. U kunt labels niet bewerken.
 
 ### Metagegevens over gegenereerde inhoud
 
@@ -36,7 +36,7 @@ De informatie die wordt gebruikt om een nieuw middel of een nieuwe ervaring te p
 
 Door de gebruiker gedefinieerde metagegevens voegen marketingcontext toe aan de inhoud van het element, zodat marketers beter kunnen begrijpen hoe het middel moet worden gebruikt en ermee kunnen werken.
 
-Wanneer u [ activa ](/help/user-guide/content/manage-assets.md#add-assets) uploadt, kunt u een reeks facultatieve activadetails bepalen die in GenStudio als meta-gegevens bestaan.
+Wanneer u [ activa ](/help/user-guide/content/manage-assets.md#add-assets) uploadt, kunt u een reeks facultatieve activadetails bepalen die in GenStudio voor de Marketers van Prestaties als meta-gegevens bestaan.
 
 ### Metagegevens
 
@@ -45,10 +45,10 @@ De volgende tabel bevat metagegevens (elementdetails) die u kunt definiëren wan
 | Veld | Beschrijving | Bewerkbaar | Vereist |
 | ------------- | ----------- | -------- | -------- |
 | Campagnenaam (projectnaam) | Standaardmetagegevens die zijn vastgelegd en opgeslagen met element | Y | N |
-| Merknaam | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) toegevoegd aan GenStudio en gepubliceerd voor gebruik | Y | N |
-| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) toegevoegd aan GenStudio voor gebruik | Y | N |
-| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) toegevoegd aan GenStudio voor gebruik | Y | N |
-| Kanalen | Inhoudstypen in GenStudio waarvoor het element wordt gebruikt, zoals e-mail- en Meta-advertenties | Y | N |
+| Merknaam | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) toegevoegd aan GenStudio for Performance Marketers en gepubliceerd voor gebruik | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) toegevoegd aan GenStudio for Performance Marketers voor gebruik | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) toegevoegd aan GenStudio for Performance Marketers voor gebruik | Y | N |
+| Kanalen | Inhoudstypen in GenStudio for Performance Marketers waarvoor het element wordt gebruikt, zoals e-mail- en Meta-advertenties | Y | N |
 | Tijdschema | Tijdschema waarvoor het gebruikte activum, zoals kwartaal, seizoen, jaar, enz. Voorbeeld: `Winter 2023` | Y | N |
 | Regio | Regio’s waarvoor het actief wordt gebruikt. Voorbeelden: `North America` , `APAC` , `Italy` | Y | N |
 | Taal | Talen waarvoor het middel wordt gebruikt. Voorbeeld: `Spanish` | Y | N |

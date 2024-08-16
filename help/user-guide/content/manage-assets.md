@@ -2,9 +2,9 @@
 title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Middelen en ervaringen beheren
 
-GenStudio [!DNL Content] vereenvoudigt en verbetert het beheer van merkgoedgekeurde middelen voor gebruik en hergebruik in uw digitale marketingreis.
+Adobe GenStudio voor prestatiemarkeringen [!DNL Content] vereenvoudigt en verbetert het beheer van merkgoedgekeurde middelen voor gebruik en hergebruik in uw digitale marketing reis.
 
 ## Elementen toevoegen
 
@@ -26,11 +26,11 @@ GenStudio [!DNL Content] vereenvoudigt en verbetert het beheer van merkgoedgekeu
 
 1. Om ontdekkingscapaciteit te verbeteren, voeg facultatieve details zoals _,_ Naam van het Merk _,_ Gebied _en_ Trefwoorden _in de **Meer details**sectie toe._
 
-   Hoe meer details u verstrekt, hoe meer u de robuuste mogelijkheden van GenStudio ervaart. Selecteer een of meer details in de lijst of voer een nieuwe in, indien van toepassing, bijvoorbeeld met trefwoorden. Elk detail dat u toevoegt, wordt onder de lijst weergegeven. Klik op **`x`** om een detail te verwijderen.
+   Hoe meer details u verstrekt, des te meer u de robuuste mogelijkheden van GenStudio for Performance Marketers ervaart. Selecteer een of meer details in de lijst of voer een nieuwe in, indien van toepassing, bijvoorbeeld met trefwoorden. Elk detail dat u toevoegt, wordt onder de lijst weergegeven. Klik op **`x`** om een detail te verwijderen.
 
    Alle details die u toevoegt, worden toegepast op alle elementen die in deze handeling worden toegevoegd.
 
-   Zie [ details van Meta-gegevens ](/help/user-guide/content/asset-details.md#genstudio-metadata).
+   Zie [ details van Meta-gegevens ](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Klik op **[!UICONTROL Add assets]**.
 1. Wanneer de activa uploaden wordt voltooid, klik **Gedaan**.
@@ -59,7 +59,3 @@ Pas filters toe en gebruik metagegevenstags van elementdetails om de zoekresulta
 1. Selecteer een element voor een volledige weergave en een lijst met details.
 
    Klik op **[!UICONTROL Download]** (pijl-omlaag) om het element in uw lokale werkstation te gebruiken.
-
-<!-- 
-There is more here, but not ready yet.
--->

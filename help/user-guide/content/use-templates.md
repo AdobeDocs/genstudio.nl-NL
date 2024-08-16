@@ -1,10 +1,10 @@
 ---
 title: Werken met sjablonen
-description: Leer hoe u met sjablonen aantrekkelijke ervaringen in GenStudio kunt creëren.
+description: Leer hoe u sjablonen kunt gebruiken om aantrekkelijke ervaringen te creëren in de Adobe GenStudio voor prestatie-keters.
 feature: Templates, Content
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ GenStudio-sjablonen zijn van essentieel belang om makers van inhoud in staat te 
 Deze handleiding bevat gedetailleerde informatie over hoe u:
 
 * Bereid een [ e-mailmalplaatje ](email-template.md) of Meta advertentiemalplaatje voor
-* [ pas malplaatjes ](customize-template.md) voor GenStudio aan
-* [ upload malplaatjes ](#upload-a-template) in GenStudio
+* [ pas malplaatjes ](customize-template.md) voor GenStudio voor de Marketerstudio van Prestaties aan
+* [ upload malplaatjes ](#upload-a-template) in GenStudio voor de Marketers van Prestaties
 * [Met sjablonen kunt u ervaringen creëren](#use-a-template)
 
 ## Anatomie van een sjabloon
@@ -38,11 +38,11 @@ Het basissjabloonontwerp bevat de volgende elementen:
 
 >[!NOTE]
 > 
->Het wordt aanbevolen specifieke velden op te nemen in de inhoud van elk kanaal, zodat GenStudio tekst kan genereren voor plaatsaanduidingen voor inhoud. Zie [ Erkende gebiedsnamen ](customize-template.md#recognized-field-names) om te zien welke gebieden voor opneming worden geadviseerd.
+>Het wordt aanbevolen specifieke velden op te nemen in de inhoud van elk kanaal, zodat GenStudio for Performance Marketers tekst kan genereren voor plaatsaanduidingen voor inhoud. Zie [ Erkende gebiedsnamen ](customize-template.md#recognized-field-names) om te zien welke gebieden voor opneming worden geadviseerd.
 
 ## Een sjabloon uploaden
 
-GenStudio accepteert sjablonen in de HTML-indeling.
+GenStudio for Performance Marketers accepteert sjablonen in de HTML-indeling.
 
 **om een malplaatje** toe te voegen:
 
@@ -80,7 +80,6 @@ Een bestaande sjabloon zoeken en gebruiken om ervaringen te creëren.
 >[!TIP]
 >
 >Zie [[!DNL Create]  een e-mailervaring ](/help/tutorials/create-email-experience.md) of [[!DNL Create]  a Meta en ervaring ](/help/tutorials/create-meta-ad.md) voor volledige leerprogramma&#39;s die malplaatjes gebruiken.
-
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 -->

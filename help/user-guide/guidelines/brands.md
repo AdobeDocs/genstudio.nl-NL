@@ -1,20 +1,20 @@
 ---
-title: GenStudio [!DNL Brands]
-description: GenStudio  [!DNL Brands]  is een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud in GenStudio te informeren.
+title: GenStudio for Performance Marketers  [!DNL Brands]
+description: GenStudio voor de Marketers van Prestaties  [!DNL Brands]  is een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud te informeren.
 feature: Brands Service, Guidelines
-source-git-commit: c90cec72bd4cad505b7374e0ae81bafc383102e9
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '792'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Brands]
+# GenStudio for Performance Marketers [!DNL Brands]
 
 Een merk onderscheidt een organisatie, product, service of concept van anderen. Sommige aspecten van een merk zijn objectief, zoals een logo, terwijl andere subjectief zijn, zoals de toon van stem.
 
-GenStudio gebruikt de schat aan merkinformatie van uw merk, koppelt deze aan [!DNL Product] - en [!DNL Persona] -informatie en bouwt een uitgebreide merkidentiteit uit. Deze merkidentiteit wordt gebruikt om de creatie van on-brand-inhoud met behulp van de generatieve AI-technologie van Adobe te informeren.
+GenStudio for Performance Marketers gebruikt de rijkdom aan merkinformatie van uw merk, voegt deze samen met [!DNL Product] - en [!DNL Persona] -informatie en bouwt een uitgebreide merkidentiteit uit. Deze merkidentiteit wordt gebruikt om de creatie van on-brand-inhoud met behulp van de generatieve AI-technologie van Adobe te informeren.
 
 **om een merk** te bekijken of te wijzigen:
 
@@ -22,11 +22,11 @@ GenStudio gebruikt de schat aan merkinformatie van uw merk, koppelt deze aan [!D
 1. Als u de overzichtsinformatie van een merk wilt bekijken, klikt u om een bepaald merk te openen.
 1. Als u afzonderlijke details wilt weergeven of een merk wilt wijzigen, klikt u boven in het scherm op **[!UICONTROL Brand voice guidelines]** , **[!UICONTROL Channel guidelines]** , **[!UICONTROL Image guidelines]** of **[!UICONTROL Logos]** .
 
-U kunt documenten met brandrichtlijnen (maximaal drie PDF- of DOC-bestanden) uploaden naar GenStudio om automatisch een merk te maken. Zie [ richtsnoeren ](add-guidelines.md) toevoegen om te leren hoe te om een merk aan GenStudio toe te voegen, het te wijzigen, het te publiceren, en meer.
+U kunt documenten met richtlijnen voor het merk (maximaal drie PDF- of DOC-bestanden) uploaden naar GenStudio for Performance Marketers om automatisch een merk te maken. Zie [ richtsnoeren ](add-guidelines.md) toevoegen om te leren hoe te om een merk aan GenStudio voor de Marketers van Prestaties toe te voegen, het te wijzigen, het te publiceren, en meer.
 
 ## [!DNL Brands] richtlijnen
 
-De richtlijnen geven GenStudio een duidelijk beeld van uw merkspecifieke benadering, toon, visueel gevoel, en meer.
+De richtlijnen geven GenStudio for Performance Marketers een duidelijk beeld van uw merkspecifieke benadering, toon, visueel gevoel, en meer.
 
 In de volgende gedeelten van de richtlijnen worden elke categorie richtlijnen, voorbeeldrichtlijnen en mogelijke resultaten beschreven. De leidraad voorbeelden zijn steekproefinput die de resultaatoutput (resultaatvoorbeelden hieronder) vormen - gebruik hen om uw eigen merkrichtlijnen te informeren.
 
@@ -72,16 +72,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## Merkwaardvalidatie
 
-In GenStudio speelt merkvalidatie een cruciale rol in combinatie met de generatieve AI-functionaliteit van [!DNL Brands] , [!DNL Products] en [!DNL Personas] . Hierdoor blijft al uw inhoud consistent met uw merkidentiteit.
+In GenStudio for Performance Marketers speelt merkvalidatie een cruciale rol in combinatie met de generatieve AI-functionaliteit van [!DNL Brands] , [!DNL Products] en [!DNL Personas] . Hierdoor blijft al uw inhoud consistent met uw merkidentiteit.
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).

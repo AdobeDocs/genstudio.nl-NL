@@ -1,22 +1,22 @@
 ---
-title: GenStudio [!DNL Products]
-description: GenStudio  [!DNL Products]  neemt alle aspecten van uw product-beelden, beschrijvingen, en waardevoorstellen-op om relevante inhoud tot stand te brengen die productsterke punten benadrukt en consistentie in productoverseinen handhaaft.
+title: GenStudio for Performance Marketers  [!DNL Products]
+description: GenStudio voor de Marketers van Prestaties  [!DNL Products]  neemt alle aspecten van uw product-beelden, beschrijvingen, en waardevoorstellen-op om relevante inhoud tot stand te brengen die productsterke punten benadrukt en consistentie in productoverseinen handhaaft.
 feature: Products Service, Guidelines
-source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Products]
+# GenStudio for Performance Marketers [!DNL Products]
 
-GenStudio [!DNL Products] maakt gebruik van een diepgaand inzicht in productspecificaties, voordelen en differentiatiefactoren om effectvolle inhoud te genereren.
+GenStudio for Performance Marketers [!DNL Products] maakt gebruik van een diepgaand begrip van productspecificaties, voordelen en differentiatiefactoren om effectvolle inhoud te genereren.
 
-[!DNL Products] omvat alle elementen van een specifiek product, zoals beelden, beschrijvingen, en waardevoorstellen, om een samenhangende merkvertegenwoordiging tot stand te brengen. De geavanceerde technologie van AI van de hefboomwerking van de Adobe, de richtlijnen van GenStudio - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](/help/user-guide/guidelines/overview.md) - werk samen om dwingende inhoud te produceren die de sterke punten van uw producten toont en consistentie over al overseinen verzekert.
+[!DNL Products] omvat alle elementen van een specifiek product, zoals beelden, beschrijvingen, en waardevoorstellen, om een samenhangende merkvertegenwoordiging tot stand te brengen. De geavanceerde technologie van AI van de hefboomwerking, GenStudio voor de richtlijnen van de Marketers van Prestaties - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](/help/user-guide/guidelines/overview.md) - werk samen om dwingende inhoud te produceren die de sterke punten van uw producten toont en consistentie over al overseinen verzekert.
 
-![[!DNL Products] Richtlijnen in GenStudio ](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Products] Richtlijnen in GenStudio for Performance Marketers ](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **om een product** te bekijken of te wijzigen:
 
@@ -24,11 +24,11 @@ GenStudio [!DNL Products] maakt gebruik van een diepgaand inzicht in productspec
 1. Om [ individuele details te bekijken of een product ](add-guidelines.md#manage-products) te wijzigen, klik het _[!DNL Products]_actiemenu en selecteer **[!UICONTROL Open]**.
 1. Wijzig de productrichtlijnen door in het tekstveld voor de categorie Richtlijnen te klikken.
 
-Zie [ richtlijnen ](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio toe te voegen of te wijzigen.
+Zie [ richtlijnen ](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio voor de Marketers van Prestaties toe te voegen of te wijzigen.
 
 ## [!DNL Products] richtlijnen
 
-Individuele productrichtlijnen geven GenStudio een duidelijk beeld van je producten.
+Afzonderlijke productrichtlijnen geven GenStudio for Performance Marketers een duidelijk beeld van je producten.
 
 In deze richtlijnen worden elke categorie richtlijnen en verwante voorbeelden nader beschreven. De voorbeelden zijn voorbeeldinvoer die vorm geven aan de uitvoer van gegenereerde inhoud. Gebruik deze om uw [!DNL Products] -richtlijnen op de hoogte te brengen.
 

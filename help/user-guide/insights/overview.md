@@ -2,17 +2,17 @@
 title: Overzicht van  [!DNL Insights]
 description: Leer hoe u ervaringen kunt optimaliseren op basis van real-time waarden voor inhoudsprestaties.
 feature: Attributes, Insights, Experiences, Assets
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Insights]
+# Adobe GenStudio voor prestatiemarkeringen [!DNL Insights]
 
-GenStudio [!DNL Insights] biedt geavanceerde analyses en inzichten in de prestaties van inhoud die u kunnen helpen gegevensgestuurde beslissingen te nemen.
+Adobe GenStudio voor prestatiemarkeringen [!DNL Insights] biedt geavanceerde analyses en inzichten in de prestaties van inhoud die u kunnen helpen gegevensgestuurde beslissingen te nemen.
 
 Vanuit het dashboard van [!DNL Insights] kunt u:
 
@@ -22,7 +22,7 @@ Vanuit het dashboard van [!DNL Insights] kunt u:
 
 >[!TIP]
 >
->Zie [ Connect kanaalrekening ](connect-channel.md) voor stappen om GenStudio toe te laten om gegevens van uw huidige marketing campagnes, activa, en ervaringen te ontvangen.
+>Zie [ Connect kanaalrekening ](connect-channel.md) voor stappen om GenStudio voor de Marketers van Prestaties toe te laten om gegevens van uw huidige marketing campagnes, activa, en ervaringen te ontvangen.
 
 ## Dashboard
 

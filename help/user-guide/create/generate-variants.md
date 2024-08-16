@@ -1,12 +1,12 @@
 ---
-title: Varianten van GenStudio-inhoud genereren
-description: Leer hoe te om varianten van gecreeerde inhoud in Adobe  [!DNL GenStudio] te produceren.
+title: Varianten van Adobe GenStudio genereren voor de inhoud van krachtige markeertekens
+description: Leer hoe u varianten van gemaakte inhoud kunt genereren in Adobe GenStudio voor prestatie-keters.
 feature: Content, Brands Service, Variant Generation, Content Generation
 role: User
 level: Beginner
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Wanneer het produceren van varianten, hebt u de optie om nieuwe [ richtlijnen ](
 
 ## E-mail
 
-GenStudio genereert standaard vier e-mailvariaties. Zij kunnen manueel worden gewijzigd of worden opnieuw geproduceerd gebruikend een mengeling van nieuwe herinneringen en _Parameters_ om stilistische doelstellingen of merkgehechtheid te bereiken.
+GenStudio for Performance Marketers genereert standaard vier e-mailvariaties. Zij kunnen manueel worden gewijzigd of worden opnieuw geproduceerd gebruikend een mengeling van nieuwe herinneringen en _Parameters_ om stilistische doelstellingen of merkgehechtheid te bereiken.
 
 **om geproduceerde e-mailvarianten te wijzigen:**
 

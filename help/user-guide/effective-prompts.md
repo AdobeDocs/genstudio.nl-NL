@@ -1,10 +1,10 @@
 ---
 title: Effectieve aanwijzingen schrijven
-description: Leer hoe u effectieve herinneringen voor GenStudio schrijft.
+description: Leer hoe u effectieve herinneringen voor Adobe GenStudio voor de Marketers van Prestaties schrijft.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: 5e17996ee3a86cf664ee468d6b9cf178c8853992
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Effectieve aanwijzingen schrijven
 
-Communiceren met de generatieve AI is van essentieel belang voor een effectieve werking in GenStudio.
+Communiceren met de generatieve AI is van essentieel belang om effectief te kunnen werken in de Adobe GenStudio voor de markten van de Prestaties.
 
-GenStudio biedt een generatieve AI-prompt wanneer er een mogelijkheid is om een element te wijzigen. De componenten van een efficiënte herinnering zouden beschrijvende taal, voorbeelden, en informatie moeten omvatten niet die door uw gevormde richtlijnen wordt verstrekt.
+GenStudio for Performance Marketers geeft elke keer dat er een mogelijkheid is om een element te wijzigen, een generatieve AI-prompt. De componenten van een efficiënte herinnering zouden beschrijvende taal, voorbeelden, en informatie moeten omvatten niet die door uw gevormde richtlijnen wordt verstrekt.
 
-Als beste praktijken, levering GenStudio van uw merkinformatie gebruikend [ richtlijnen ](/help/user-guide/guidelines/overview.md), dan kunt u volledig hefboomwerking generatieve AI om merkgerichte inhoudservaringen te produceren.
+Als beste praktijken, levering GenStudio voor de Marketers van Prestaties van uw merkinformatie gebruikend [ richtlijnen ](/help/user-guide/guidelines/overview.md), dan kunt u volledig hefboomwerking generatieve AI om merkgerichte inhoudservaringen te produceren.
 
 ## Beschrijvende taal
 
@@ -39,21 +39,21 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Vrachtcriteria
 
-In GenStudio [[!DNL Create]](/help/user-guide/create/overview.md), kunt u **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) en een herinnering) in het snelle gebied gebruiken om details door selectie toe te voegen om de AI interpretatie te verbeteren.
+In GenStudio voor de Marketers van Prestaties [[!DNL Create]](/help/user-guide/create/overview.md), kunt u **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) en een herinnering) in het snelle gebied gebruiken om details door selectie toe te voegen om de AI interpretatie te verbeteren.
 
-Voor [ e-mails ](/help/tutorials/create-email-experience.md), zouden de snelle criteria het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [ Meta en ](/help/tutorials/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand activa, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [ vormend de richtlijnen van GenStudio ](/help/user-guide/guidelines/add-guidelines.md).
+Voor [ e-mails ](/help/tutorials/create-email-experience.md), zouden de snelle criteria het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [ Meta en ](/help/tutorials/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand activa, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [ vormende richtlijnen ](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
->Als de richtsnoeren in _Parameters_ in het snelle gebied worden toegevoegd, te hoeven u niet om verwijzing naar die in uw herinnering te omvatten. GenStudio maakt gebruik van [!DNL Brands] , [!DNL Products] en [!DNL Personas] bij het genereren van inhoud.
+>Als de richtsnoeren in _Parameters_ in het snelle gebied worden toegevoegd, te hoeven u niet om verwijzing naar die in uw herinnering te omvatten. GenStudio for Performance Marketers zullen deze [!DNL Brands] , [!DNL Products] en [!DNL Personas] gebruiken bij het genereren van inhoud.
 
 ### Richtsnoeren
 
-De GenStudio-richtlijnen helpen de generatieve AI bij het personaliseren van uw GenStudio-assetensamenstelling. Wanneer u snelle criteria ziet, kunt u een [[!DNL Brand]](/help/user-guide/guidelines/brands.md) , een [[!DNL Persona]](/help/user-guide/guidelines/personas.md) en een [[!DNL Product]](/help/user-guide/guidelines/products.md) optie kiezen in de geconfigureerde richtlijnen.
+De richtlijnen van GenStudio for Performance Marketers helpen de generatieve AI bij het aanpassen van uw assetensamenstelling. Wanneer u snelle criteria ziet, kunt u een [[!DNL Brand]](/help/user-guide/guidelines/brands.md) , een [[!DNL Persona]](/help/user-guide/guidelines/personas.md) en een [[!DNL Product]](/help/user-guide/guidelines/products.md) optie kiezen in de geconfigureerde richtlijnen.
 
 >[!TIP]
 >
->U bepaalt hoe en wanneer GenStudio de [!DNL Brand] -richtlijnen gebruikt. Zie [ Richtlijnen ](/help/user-guide/guidelines/overview.md) leren hoe te om uw merkrichtlijnen te vormen en te beheren.
+>U bepaalt hoe en wanneer GenStudio for Performance Marketers uw [!DNL Brand] -richtlijnen gebruikt. Zie [ Richtlijnen ](/help/user-guide/guidelines/overview.md) leren hoe te om uw merkrichtlijnen te vormen en te beheren.
 
 ## Opnieuw proberen
 
@@ -65,15 +65,15 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
 ```
 
-Of u kunt in secties plakken uit een campagneremap. U kunt GenStudio zelfs vragen bepaalde woorden, elementen of thema&#39;s te vermijden.
+Of u kunt in secties plakken uit een campagneremap. U kunt zelfs vragen dat GenStudio for Performance Marketers bepaalde woorden, elementen of thema&#39;s vermijdt.
 
 ## Aanbevolen procedures
 
-Enkele eenvoudige aanbevolen procedures voor het maken van effectieve aanwijzingen in GenStudio:
+Sommige eenvoudige beste praktijken voor het ontwerpen van efficiënte herinneringen:
 
 - Wees specifiek en geef details over wat je moet doen en niet.
 - Zorg voor context met externe referenties.
-- Gebruik GenStudio-richtlijnen.
+- Gebruik GenStudio for Performance Marketers-richtlijnen.
 - Richtlijnen regelmatig controleren en aanpassen.
 - Herhalen en verfijnen.
 - Leer door te experimenteren.

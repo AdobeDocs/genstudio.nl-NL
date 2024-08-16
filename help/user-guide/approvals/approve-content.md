@@ -2,9 +2,9 @@
 title: Inhoud goedkeuren
 description: Leer hoe u inhoud goedkeurt.
 feature: Approval
-source-git-commit: 0d6eff35e66d3657aa4f5fda65f91f0caab4a7e1
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ Als het inhoudsconcept voldoet aan de normen van uw organisatie en aan uw verwac
 
 1. Het ontwerpstatus van de verandering van **het werk van Behoeften** aan **Goedgekeurd**.
 
-Uw werk als fiatteur is voltooid. GenStudio waarschuwt de maker van het concept dat je goedkeuring hebt verleend. Zie {de inhoud van 0} Publish ](./publish-content.md) voor een overzicht van het proces om aan [!DNL Content] te bewaren, of _het publiceren_.[
+Uw werk als fiatteur is voltooid. GenStudio for Performance Marketers waarschuwt de maker van het concept dat u goedkeurt. Zie {de inhoud van 0} Publish ](./publish-content.md) voor een overzicht van het proces om aan [!DNL Content] te bewaren, of _het publiceren_.[
 

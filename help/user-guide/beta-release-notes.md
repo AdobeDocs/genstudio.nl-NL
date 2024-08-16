@@ -1,9 +1,9 @@
 ---
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Leer meer over de nieuwste functies en verbeteringen op het gebied van Adobe GenStudio.
-source-git-commit: 382026b07e123a1e49813b766f69496f6a8f38eb
+source-git-commit: 5505e3fdc78e217dd1eb73ed5bffa5e43d4f3084
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,6 @@ Het deelvenster Merkvalidatie is uitgebreid om de gebruikerservaring te verbeter
 * _Incrementele merklading tijdens extractie_: De richtlijnen van het merk worden nu incrementeel geladen in het gebruikersinterface.
 
 * _Vereenvoudiging van het schema van de Richtsnoer van het Exemplaar_: Het `unique attributes` en `frequent keywords` gebied zijn verwijderd uit het schema van de Richtsnoer van het Exemplaar, dat het richtsnoer op proces vereenvoudigt.
-
-* _de Generatie van het Beeld: De Selectie van de categorie_: De gebruikers kunnen de beeldrichtlijnen nu selecteren die voor hun behoeften van de beeldregeneratie specifiek zijn.
 
 ### Maken
 
@@ -63,22 +61,15 @@ De volgende bekende problemen worden opgelost door de GenStudio for Performance 
 
 * Acties die door de knoppen **[!UICONTROL Add templates]** en **[!UICONTROL Upload]** worden geactiveerd, worden momenteel niet bijgehouden. <!-- GS-3505 -->
 
-### Merk
-
-* Een maker kan een merk succesvol publiceren, maar organisatieleden kunnen het merk niet zien. <!-- XI-2197 -->
-
-### Maken
-
-* Uitsnijden van afbeeldingen in metaadvertenties is inconsistent. <!-- GS-3739 -->
-
-* Sjablonen die uit meerdere groepen pagina-elementen bestaan, kunnen niet worden gevalideerd als merk. <!-- GS-4037 -->
-
 ### Inzichten
 
-* Toegangsfouten die worden geweigerd, treden op met het `/admin/addOffer` eindpunt (inrichtingsservice). **Resolved 8/12**. <!-- GS-4047 -->
+* De video&#39;s kunnen niet van _Assets_ worden gespeeld. <!-- GS-3846 -->
+
+* Gebruikers moeten zich twee keer aanmelden wanneer ze zich ook bij Facebook hebben aangemeld. **Oplossing**: logout van Facebook alvorens het programma te openen in Inzichten.
 
 * **uitgaven op het niveau van de Campagne** waarden zijn niet nauwkeurig. De gegevens zijn momenteel niet consistent tussen Facebook Ads Manager en het datumpigment. <!-- GS-3202 -->
 
 ### Revisies en goedkeuringen
 
-* Maker kan na goedkeuring elementen wijzigen voordat deze worden gepubliceerd. De fiatteurs worden niet van deze wijzigingen in kennis gesteld.
+* Maker kan elementen na goedkeuring vóór publicatie wijzigen. De fiatteurs worden niet van deze wijzigingen in kennis gesteld.
+

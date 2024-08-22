@@ -3,9 +3,9 @@ title: Sjablonen aanpassen
 description: Leer hoe u een aangepaste sjabloon maakt voor Adobe GenStudio voor Performance Marketers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 Pas uw malplaatjes van HTML voor Adobe GenStudio voor de Marketers van Prestaties aan door de _het malplaatjetaal te gebruiken 0} Handlebars {._ De syntaxis Handlebars gebruikt regelmatige tekst met dubbele steunen als inhoudplaceholders. Zie [`What is Handlebars?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
 
-<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+Als u geen HTML-sjabloon voor gebruik in GenStudio for Performance Marketers hebt, kunt u eerst de structuur van de sjabloon definiëren met behulp van HTML-tags: `DOCTYPE`, `html`, `head` en `body` . Hieronder volgt een standaard-e-mailsjabloon met CSS-stijlen waarmee de weergave kan worden aangepast:
 
 ```html
 <!DOCTYPE html>
@@ -30,8 +29,6 @@ Pas uw malplaatjes van HTML voor Adobe GenStudio voor de Marketers van Prestatie
 </body>
 </html>
 ```
-
-Zie [ voorbeelden van het Malplaatje ](#template-examples).
 
 >[!TIP]
 >
@@ -47,11 +44,9 @@ Met `{{ headline }}` kunt u bijvoorbeeld aangeven waar de kop van het e-mailberi
 <div>{{ headline }}</div>
 ```
 
-### Veldnamen
+### Erkende veldnamen
 
 Het maximumaantal velden dat in een aangepaste sjabloon is toegestaan, is twintig.
-
-#### Erkende veldnamen
 
 In de volgende tabel worden de veldnamen weergegeven die door GenStudio for Performance Marketers voor populaties worden herkend in sjablonen.
 
@@ -63,12 +58,12 @@ In de volgende tabel worden de veldnamen weergegeven die door GenStudio for Perf
 | `cta` | Oproep tot actie | e-mail (geadviseerd) <br> Meta ad |
 | `on_image_text` | Op afbeeldingstekst | Meta-advertentie (aanbevolen) |
 | `image` | Afbeelding | e-mail (geadviseerd) <br> Meta en (geadviseerd) |
-| `brand_logo` | Logo van het geselecteerde merk | e-mail <br> Meta-advertentie |
+| `brand_logo` | Logo van geselecteerd merk <br> zie [ gebiedsnaam ](#brand-logo-field-name) voor geadviseerd gebruik. | e-mail <br> Meta-advertentie |
 
 GenStudio for Performance Marketers vult automatisch bepaalde velden in sjablonen in. Deze velden hoeven dus niet in uw sjabloonontwerpen te worden opgenomen:
 
-* `subject` (e-mailsjabloon)
-* `headline` -, `body` - en `CTA` -velden (metagegevens en sjabloon)
+- `subject` (e-mailsjabloon)
+- `headline` -, `body` - en `CTA` -velden (metagegevens en sjabloon)
 
 >[!WARNING]
 >
@@ -76,33 +71,31 @@ GenStudio for Performance Marketers vult automatisch bepaalde velden in sjablone
 
 #### Naam merklogo
 
-Als u een merklogo aan uw sjabloon wilt toevoegen, gebruikt u een van de volgende methoden om het standaardlogo te renderen.
+In de volgende voorbeelden worden twee methoden getoond die het merklogo voorwaardelijk weergeven, de bron verifiëren, een standaardlogo of een alternatief logo aanbieden voor het geval het merklogo niet beschikbaar is, en een stijl toepassen:
 
-_Voorbeeld_:
+_Voorbeeld_: in de HTML `img src` definitie
 
-```bash
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
 ```
 
-_Voorbeeld_:
+_Voorbeeld_: in een voorwaarde Handlebars
 
-```bash
+```handlebars
 {{#if brand_logo}}
-
-                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{else}}
-
-                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{/if}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
 ```
 
 #### Handmatige veldnamen
 
-Alle andere veldnamen worden behandeld als handmatig gevulde velden. Als u een sectie bewerkbaar wilt maken, voegt u dubbele haakjes toe rond de sectie die u wilt bewerken.
+Alle andere veldnamen worden behandeld als handmatig gevulde velden. Als u een bewerkbare sectie wilt maken, voegt u dubbele haakjes toe rond de sectienaam:
 
-_Voorbeeld_: ``{{customVariable}}`` (`customVariable` is de manueel editable sectie)
+```handlebars
+{{customVariable}}
+```
 
 ## Secties of groepen
 
@@ -112,19 +105,19 @@ Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld
 
 U kunt bijvoorbeeld de inhoud van een gemarkeerd gebied als spotlight instellen:
 
-* `spotlight_headline`
-* `spotlight_body`
+- `spotlight_headline`
+- `spotlight_body`
 
 Elke sectie kan slechts één van elk gebiedstype hebben. In het bovenstaande voorbeeld kan het voorvoegsel `spotlight` slechts één veld `spotlight_headline` hebben.
 
 Een sjabloon kan maximaal drie secties bevatten:
 
-* `headline`
-* `body`
-* `spotlight_headline`
-* `spotlight_body`
-* `news_headline`
-* `news_body`
+- `headline`
+- `body`
+- `spotlight_headline`
+- `spotlight_body`
+- `news_headline`
+- `news_body`
 
 GenStudio for Performance Marketers begrijpt dat `spotlight_headline` nauwer verwant is aan `spotlight_body` dan aan `news_body` .
 
@@ -263,7 +256,6 @@ Hier volgt een eenvoudig voorbeeld van een advertentiesjabloon van Meta. De kop 
     <div class="ad-body">"{{ body }}"</div>
     <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
 </div>
-
 </body>
 </html>
 ```

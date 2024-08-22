@@ -3,9 +3,9 @@ title: Een advertentiesjabloon voor meta voorbereiden voor Adobe GenStudio voor 
 description: Leer hoe u een aangepaste Meta-advertentiesjabloon voor Adobe GenStudio voor Performance Marketers maakt.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -52,18 +52,18 @@ Definieer de gebieden in uw e-mailsjabloon die dynamisch moeten worden gevuld me
 gegenereerde inhoudsgebieden definiëren:
 
 * Identificeer de tekstelementen in het malplaatje dat GenStudio for Performance Marketers zou moeten auto-produceren, zoals de titel of CTA.
-* Pas de HTML-sjabloon aan door er plaatsaanduidingen in op te nemen met behulp van de syntaxis Handblebars.
+* Pas de HTML-sjabloon aan door er plaatsaanduidingen in op te nemen met behulp van de syntaxis Handlebars.
 
 Zie [ placeholders van de Inhoud ](/help/user-guide/content/customize-template.md#content-placeholders).
 
 ## Een voorbeeld van de sjabloon bekijken
 
-U kunt de zichtbaarheid van bepaalde inhoudsgebieden bepalen met behulp van ingebouwde hulpmiddelen. U kunt bijvoorbeeld parameters voor het bijhouden van koppelingen opnemen in een geëxporteerde sjabloon terwijl er geen voorvertoningskoppelingen zijn.
+De zichtbaarheid van specifieke inhoudsgebieden bepalen met ingebouwde hulp. Neem bijvoorbeeld parameters voor het bijhouden van koppelingen op in een geëxporteerde sjabloon, terwijl er geen voorvertoningskoppelingen worden gewijzigd.
 
 Zie [ de voorproef van het Malplaatje ](/help/user-guide/content/customize-template.md#template-preview).
 
 ## Sjabloon uploaden en gebruiken
 
-Nadat uw sjabloon is ontworpen, gecodeerd, getest en bekeken, kunt u deze uploaden naar GenStudio for Performance Marketers voor gebruik bij het genereren van gloednieuwe marketinginhoud.
+Nadat uw sjabloon is ontworpen, gecodeerd, getest en bekeken, uploadt u deze naar GenStudio for Performance Marketers voor gebruik bij het genereren van gloednieuwe marketinginhoud.
 
 Zie [ Werkend met malplaatjes ](use-templates.md).

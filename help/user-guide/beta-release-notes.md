@@ -1,7 +1,7 @@
 ---
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
-source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
+source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -27,11 +27,11 @@ De volgende bekende problemen zullen worden opgelost in de GenStudio for Perform
 
 ### Bekende problemen opgelost
 
-* In het vervolgkeuzemenu Vragen ( [!DNL Brands] ) wordt een spinner weergegeven aan het einde van de lijst ( [!DNL Brands] tijdens het maken van een e-mail. (vast 8/22) <!-- GS-4077 -->
+* In het vervolgkeuzemenu Vragen ( [!DNL Brands] ) wordt een spinner aan het einde van de lijst ( [!DNL Brands] ) weergegeven tijdens het maken van een e-mail. (vast 8/22) <!-- GS-4077 -->
 
-## Eerdere bètareleases
+## Vorige Beta-releases
 
-Eerdere bètareleases bevatten de volgende markeringen en oplossingen.
+In vorige Beta-releases waren de volgende markeringen en oplossingen opgenomen.
 
 ### Hooglichten
 

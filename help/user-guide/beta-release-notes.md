@@ -1,9 +1,9 @@
 ---
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
-source-git-commit: 72103c750a7708d97be87bed144bfe053ceeaa0f
+source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ De volgende bekende problemen zullen worden opgelost in de GenStudio for Perform
 * De video&#39;s kunnen niet van _Assets_ worden gespeeld. <!-- GS-3846 -->
 
 * Gebruikers moeten zich twee keer aanmelden bij een kanaal voor Meta Ads-account wanneer zij zich ook bij Facebook hebben aangemeld. **Oplossing**: Logout van Facebook alvorens het programma te openen in een rekening van de Advertentie van het kanaal Meta.
+
+### Bekende problemen opgelost
+
+* In het vervolgkeuzemenu Vragen ( [!DNL Brands] ) wordt een spinner weergegeven aan het einde van de lijst ( [!DNL Brands] tijdens het maken van een e-mail. (vast 8/22) <!-- GS-4077 -->
 
 ## Eerdere bètareleases
 

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,8 @@ Wanneer u een Meta-advertentie genereert, kunt u kiezen tussen Facebook- of Inst
 
 Wissel de optie van het Meta-advertentiekanaal in de hoogste menubar aan **Facebook** of **Instagram** om de geproduceerde concepten van elk kanaal te beheren.
 
+Wanneer [ het herzien van de advertenties van Meta ](#revise-generated-meta-ads), kunt u de aspectverhouding van de advertenties van Facebook en van Instagram veranderen.
+
 ## Gegenereerde metagegevensadvertenties reviseren
 
 Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u de metagegevensadvertenties bewerken of een variant uit de set gegenereerde advertenties verwijderen.
@@ -81,6 +83,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
   Voor het bewerken van de onderwerpregel en de voorheader is slechts één klik nodig, terwijl voor de koptekst en de hoofdtekst een dubbelklik vereist is.
 
 * **om de vraag aan actie** te veranderen of te selecteren, klik de vraag aan actieknoop en selecteer van een beschikbare knoop.
+* **om de grootte en aspectverhouding** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
 * **om een advertentie van Meta** te schrappen, klik om de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
 
 ## De uitlijning van merken controleren

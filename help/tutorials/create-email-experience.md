@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '795'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Om een efficiënte e-mailervaring tot stand te brengen, adviseert men dat u [ ri
 
 ## Een sjabloon kiezen
 
-Als u een nieuwe e-mailervaring wilt gaan maken, gebruikt u een beschikbare sjabloon om het framework voor uw inhoud te bieden.
+Als u een nieuwe e-mailervaring wilt maken, gebruikt u een beschikbare sjabloon om het framework voor uw inhoud te bieden.
 
 **om een e-mailmalplaatje** te kiezen:
 
@@ -47,6 +47,10 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
    * Klik op **[!UICONTROL Select from content]** om elementen (afbeeldingen) te selecteren die al zijn gepubliceerd naar [!DNL Content] . Gebruik de filters om de zoekresultaten verder te verfijnen.
    * Klik op **[!UICONTROL Upload]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. U kunt uw apparaat ook importeren vanuit Microsoft OneDrive of Dropbox.
    * De belemmering en laat vallen activa in de _Inhoud_ sectie.
+
+>[!NOTE]
+>
+>Als uw e-mailmalplaatje veelvoudige secties heeft, selecteer [!DNL Products] en inhoud (visuele activa) voor elke e-mailsectie in _multi-sectiemails_. E-mailberichten met meerdere secties ondersteunen één visueel middel per sectie.
 
 Wanneer u wordt gebeëindigd toevoegend parameters, kunt u het snelle gebied doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
 

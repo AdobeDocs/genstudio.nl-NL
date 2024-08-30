@@ -2,9 +2,9 @@
 title: Overzicht van Adobe GenStudio voor de Marketers van Prestaties  [!DNL Content]
 description: Leer hoe u door uw merk goedgekeurde middelen kunt zoeken, bewerken, hergebruiken en delen in één intuïtieve portal.
 feature: Attributes, Content, Templates
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -20,45 +20,43 @@ GenStudio for Performance Marketers [!DNL Content] biedt een centrale locatie vo
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-      <img alt="vergrootglas" src="../../assets/icons/icon-search.svg" width="35">
+         <img alt="vergrootglas" src="../../assets/icons/icon-search-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md#search">
          <strong> vind inhoud </strong>
          </a>
-      </div>
+      </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-      <img alt="afbeeldingen met plusteken" src="../../assets/icons/icon-addContent.svg" width="35">
+         <img alt="afbeeldingen met plusteken" src="../../assets/icons/icon-addContent-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md">
          <strong> voegt activa </strong> toe
          </a>
-      </div>
+      </p>
    </td>
-<!--
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#search">
-      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <a href="../content/customize-template.md">
+         <img alt="bliksemschicht op middel" src="../../assets/icons/icon-template-35.svg" width="35">
       </a>
-      <div>
-         <a href="../content/manage-assets.md#search">
-         <strong>Refresh content</strong>
+      <p>
+         <a href="../content/customize-template.md">
+         <strong> pas een malplaatje </strong> aan
          </a>
-      </div>
+      </p>
    </td>
--->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-      <img alt="bliksemschicht op middel" src="../../assets/icons/icon-template.svg" width="35">
+         <img alt="bliksemschicht op middel met plusteken" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong> uploadt malplaatje </strong>
          </a>
-      </div>
+      </p>
    </td>
 </tr>
 </table>
@@ -77,4 +75,4 @@ Wanneer u goedgekeurde elementen opslaat, behoudt [!DNL Content] de rijke metage
 
 ### Werken met sjablonen
 
-Sjablonen versnellen het ontwerpproces, zodat u consistente inhoud op meerdere kanalen kunt genereren. Sjablonen bieden een beginpunt in het ontwerpproces met vooraf geconfigureerde lay-outs en ontwerpelementen.
+Sjablonen versnellen het ontwerpproces, zodat u consistente inhoud op meerdere kanalen kunt genereren. Upload uw aangepaste sjabloon voor gebruik als beginpunt in het ontwerpproces met vooraf geconfigureerde lay-outs en ontwerpelementen.

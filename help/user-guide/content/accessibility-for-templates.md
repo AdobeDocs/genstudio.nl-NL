@@ -1,10 +1,10 @@
 ---
 title: Toegankelijke sjablonen maken
-description: Bouw malplaatjes die alle publiek voor gebruik in Adobe GenStudio voor de Marketers van Prestaties kunnen bereiken.
+description: Bouw malplaatjes in Adobe GenStudio voor de Marketers van Prestaties die meer van uw publiek kunnen bereiken en een optimale ervaring verstrekken.
 feature: Templates, Content
-source-git-commit: 26d1b9c7b392e93e87ffcd9444f391c2980d1c3c
+source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---

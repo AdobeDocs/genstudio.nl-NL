@@ -3,9 +3,9 @@ title: Een advertentiesjabloon voor meta voorbereiden voor Adobe GenStudio voor 
 description: Leer hoe u een aangepaste Meta-advertentiesjabloon voor Adobe GenStudio voor Performance Marketers maakt.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Als er geen richtlijnen worden toegevoegd aan GenStudio for Performance Marketer
 
 Doorgaans maakt een ontwerper het visuele ontwerp van een sjabloon in een ontwerpprogramma zoals Adobe XD.
 
-Zie [ Anatomie van een malplaatje ](/help/user-guide/content/use-templates.md#anatomy-of-a-template) en [ voorbeelden van het Malplaatje ](/help/user-guide/content/customize-template.md#template-examples).
+Zie [ elementen van het Malplaatje ](use-templates.md#template-elements) en [ voorbeelden van het Malplaatje ](/help/user-guide/content/customize-template.md#template-examples).
 
 ### Advertentiespecificaties
 

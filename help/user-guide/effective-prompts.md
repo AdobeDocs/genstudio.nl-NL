@@ -2,9 +2,9 @@
 title: Effectieve aanwijzingen schrijven
 description: Leer hoe u effectieve herinneringen voor Adobe GenStudio voor de Marketers van Prestaties schrijft.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Voor [ e-mails ](/help/tutorials/create-email-experience.md), zouden de snelle c
 
 >[!NOTE]
 >
->Als de richtsnoeren in _Parameters_ in het snelle gebied worden toegevoegd, te hoeven u niet om verwijzing naar die in uw herinnering te omvatten. GenStudio for Performance Marketers zullen deze [!DNL Brands] , [!DNL Products] en [!DNL Personas] gebruiken bij het genereren van inhoud.
+>Als de richtsnoeren in _Parameters_ in het snelle gebied worden toegevoegd, te hoeven u niet om verwijzing naar hen in uw herinnering te omvatten. GenStudio for Performance Marketers maakt gebruik van [!DNL Brands] , [!DNL Products] en [!DNL Personas] bij het genereren van inhoud.
 
 ### Richtsnoeren
 
@@ -57,15 +57,7 @@ De richtlijnen van GenStudio for Performance Marketers helpen de generatieve AI 
 
 ## Opnieuw proberen
 
-Vragen is een herhalend proces. Als de resultaten niet aan uw verwachtingen voldoen, herzie uw herinnering en breng sommige veranderingen aan of voeg meer details toe. U kunt uw vraag verfijnen door een URL als voorbeeld of een bron voor meer informatie op te geven.
-
-```bash
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
-
-Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
-```
-
-Of u kunt in secties plakken uit een campagneremap. U kunt zelfs vragen dat GenStudio for Performance Marketers bepaalde woorden, elementen of thema&#39;s vermijdt.
+Vragen is een herhalend proces. Als de resultaten niet aan uw verwachtingen voldoen, herzie uw herinnering en breng sommige veranderingen aan of voeg meer details toe. Of u kunt in secties plakken uit een campagneremap. U kunt zelfs vragen dat GenStudio for Performance Marketers bepaalde woorden, elementen of thema&#39;s vermijdt.
 
 ## Aanbevolen procedures
 

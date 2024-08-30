@@ -2,7 +2,7 @@
 title: Overzicht van Adobe GenStudio voor de Marketers van Prestaties  [!DNL Content]
 description: Leer hoe u door uw merk goedgekeurde middelen kunt zoeken, bewerken, hergebruiken en delen in één intuïtieve portal.
 feature: Attributes, Content, Templates
-source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
+source-git-commit: 6ee651ab67a92e2eca9929c3cfc6c66fb90d785e
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -20,7 +20,7 @@ GenStudio for Performance Marketers [!DNL Content] biedt een centrale locatie vo
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-         <img alt="vergrootglas" src="../../assets/icons/icon-search-35.svg" width="35">
+         <img alt="vergrootglas" src="../../assets/icons/icon-search.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md#search">
@@ -30,7 +30,7 @@ GenStudio for Performance Marketers [!DNL Content] biedt een centrale locatie vo
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-         <img alt="afbeeldingen met plusteken" src="../../assets/icons/icon-addContent-35.svg" width="35">
+         <img alt="afbeeldingen met plusteken" src="../../assets/icons/icon-addContent.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md">
@@ -40,7 +40,7 @@ GenStudio for Performance Marketers [!DNL Content] biedt een centrale locatie vo
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
-         <img alt="bliksemschicht op middel" src="../../assets/icons/icon-template-35.svg" width="35">
+         <img alt="bliksemschicht op middel" src="../../assets/icons/icon-template.png" width="35">
       </a>
       <p>
          <a href="../content/customize-template.md">
@@ -50,7 +50,7 @@ GenStudio for Performance Marketers [!DNL Content] biedt een centrale locatie vo
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="bliksemschicht op middel met plusteken" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
+         <img alt="bliksemschicht op middel met plusteken" src="../../assets/icons/icon-addTemplate.png" width="35">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">

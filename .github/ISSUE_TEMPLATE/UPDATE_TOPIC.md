@@ -1,13 +1,17 @@
 ---
 name: Topic update or clarification
 about: Request to clarify or correct a documentation topic
-source-git-commit: 4a73d0c55fc664c4c046f361c33be776ba2fd7b7
+source-git-commit: 5637f43a059fd747f7d656852d5428784525771a
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '23'
 ht-degree: 0%
 
 ---
 
+
+# Onderwerpupdate
+
+<!-- Add link to topic. -->
 
 ## Beschrijf het probleem
 
@@ -15,15 +19,12 @@ ht-degree: 0%
 
 Zorg ervoor dat:
 
-- [ ] Koppelingen naar de desbetreffende inhoud opgeven
 - [ ] Screenshots toevoegen
 - [ ] Beschrijf de onjuiste of ontbrekende informatie
 - [ ] Koppelingen naar bronnen opgeven
 
 ## Een oplossing voorstellen
 
-<!-- (OPTIONAL) What would a solution for this issue look like? -->
-
-## Aanvullende informatie
+<!-- (OPTIONAL) Describe your solution for this issue. -->
 
 <!-- Thank you for taking the time to report the issue. -->

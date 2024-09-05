@@ -4,9 +4,9 @@ breadcrumb-title: Gebruikershandleiding
 user-guide-description: Leer hoe u snel online middelen kunt vinden en genereren, variaties kunt maken en ervaringen kunt optimaliseren op basis van real-time inzichten in de prestaties van content.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
+source-git-commit: a7981565b23ea007b2634d8e050e921718bb1dcd
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 3%
 
 ---
@@ -52,6 +52,7 @@ ht-degree: 3%
 + Inzichten {#insights}
    + [Overzicht van inzichten](insights/overview.md)
    + [Connect-kanaalaccount](insights/connect-channel.md)
+   + [Kanalen](insights/channels.md)
    + [Gegevenskolommen](insights/data-columns.md)
 + Opmerkingen bij de release {#release-notes}
    + [Opmerkingen bij de release van Beta](beta-release-notes.md)

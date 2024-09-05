@@ -1,14 +1,14 @@
 ---
 title: Overzicht van  [!DNL Insights]
 description: Leer hoe u ervaringen kunt optimaliseren op basis van real-time waarden voor inhoudsprestaties.
-feature: Attributes, Insights, Experiences, Assets
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+feature: Attributes, Insights, Experiences, Assets, Channels
+exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
+source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
-
 
 # Adobe GenStudio voor prestatiemarkeringen [!DNL Insights]
 
@@ -26,21 +26,23 @@ Vanuit het dashboard van [!DNL Insights] kunt u:
 
 ## Dashboard
 
-Het dashboard van [!DNL Insights] heeft een configureerbaar raster voor elk inhoudstype: Kanalen, Ervaringen, Assets, en Attributen.
+Het dashboard van [!DNL Insights] heeft een configureerbare tabel voor elk inhoudstype: [!UICONTROL Channels] , [!UICONTROL Experiences] , [!UICONTROL Assets] en [!UICONTROL Attributes] .
 
 ![[!DNL Insights] dashboard ](/help/assets/insights-dashboard.png)
 
-In elke weergave wordt een overeenkomstig raster weergegeven, waarin u kunt zoeken op trefwoorden, filters en datumbereik. U kunt op het cogopictogram boven de rechterkant van de tabel klikken om de zichtbare kolomtypen in en uit te schakelen. In de rij _[!UICONTROL Summary]_kunnen totalen of gemiddelden van een kolom worden weergegeven.
+In elke weergave wordt een bijbehorende tabel weergegeven die u kunt zoeken op trefwoorden, filters en datumbereik. U kunt op het pictogram Instellingen (cog) boven de rechterkant van de tabel klikken om de zichtbare kolomtypen in en uit te schakelen. In de rij _[!UICONTROL Summary]_kunnen totalen of gemiddelden van een kolom worden weergegeven.
 
-Zie [ kolommen van Gegevens voor  [!DNL Insights]](data-columns.md) voor een beschrijving van elk kolomtype in het net.
+Zie [ kolommen van Gegevens voor  [!DNL Insights]](data-columns.md) voor een beschrijving van elk kolomtype in de lijst.
+
+[!UICONTROL Experiences] , [!UICONTROL Assets] en [!UICONTROL Attributes] bevatten een galerieweergave waarmee u elementen kunt scannen en sorteren met kaarten met een afbeeldings- of videominiatuur. Er is een optie om een van de drie belangrijkste meetgegevens op elke kaart weer te geven: `Click-through rate`, `Cost per click` en `Spend` .
 
 ### Kanalen
 
-De weergave [!DNL Insights] _[!UICONTROL Channels]_is de standaardweergave en geeft een lijst weer met actieve campagnedetails, zoals doelstellingen, budget, startdatum en activiteit.
+De weergave [!DNL Insights] _[!UICONTROL Channels]_is de standaardweergave en geeft een lijst weer met actieve campagnedetails, zoals doelstellingen, budget, startdatum en activiteit. Zie [ Overzicht van Kanalen ](channels.md).
 
 ### Ervaringen
 
-De weergave [!DNL Insights] _[!UICONTROL Experiences]_is vooral gericht op het evalueren van de doeltreffendheid van een ervaring. In deze weergave kunt u de maatstaven van een ervaring analyseren op basis van de advertentie-plaatsing binnen een opgegeven datumbereik. Als u op **[!UICONTROL View asset performance]**klikt, kunt u een lijst openen met elementen die in de geselecteerde ervaring worden gebruikt, zodat u kunt zien welke componenten hebben bijgedragen aan het algehele succes.
+De weergave [!DNL Insights] _[!UICONTROL Experiences]_is vooral gericht op het evalueren van de doeltreffendheid van een ervaring. In de weergave [!UICONTROL Experiences] kunt u de metriek van een ervaring analyseren op basis van de advertentie-plaatsing binnen een opgegeven datumbereik. Door op een_[!UICONTROL Ad name]_ te klikken, kunt u tot een lijst van activa toegang hebben die in de geselecteerde ervaring worden gebruikt, toelatend u om te identificeren welke componenten aan zijn algemeen succes hebben bijgedragen.
 
 ### Assets
 
@@ -50,10 +52,10 @@ Als u op een element klikt, krijgt u meer inzicht in de prestaties van het midde
 
 ![ mening van Activa ](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
 
-In de middelenweergave ziet u aan de linkerkant een close-up van het element en een lijst met kenmerken. Er zijn drie gemarkeerde metriek: `Click-through rate` , `Cost per click` en `Spend` . De prestatie laat zien hoe werkelijke waarden (effen lijn) worden vergeleken met de gemiddelde waarde (stippellijn) over de geselecteerde tijdsperiode (de standaardwaarde is `Last 30 days` ).
+In de middelenweergave ziet u links een miniatuur van het element en een lijst met kenmerken. Er zijn drie gemarkeerde metriek: `Click-through rate` , `Cost per click` en `Spend` . De prestatie laat zien hoe werkelijke waarden (effen lijn) worden vergeleken met de gemiddelde waarde (stippellijn) over de geselecteerde tijdsperiode (de standaardwaarde is `Last 30 days` ).
 
 ### Attributen
 
-Inhoud _attributen_ hulp om activa door inherente details, zoals kleur, toon, samenstelling (onderwerp, doopvonten, visuele elementen), en andere zeer belangrijke componenten te identificeren. Kenmerken zijn vaak de minst gemeten en geanalyseerde verzameling met inhoudsgegevens.
+Inhoud _attributen_ hulp om activa door inherente details, zoals kleur, toon, samenstelling (zoals onderwerp, doopvonten, visuele elementen), en andere zeer belangrijke componenten te identificeren. Kenmerken zijn vaak de minst gemeten en geanalyseerde verzameling met inhoudsgegevens.
 
-In de weergave [!DNL Insights] _[!UICONTROL Attributes]_kunt u nagaan welke kenmerken beter presteren bij bepaalde doelgroepen, kanalen, gebieden en seizoensgebonden trends. Met deze inzichten, kunt u prestatiesattributen gebruiken om varianten tot stand te brengen, een specifiek publiek te richten, of met verschillende campagnestrategieën te experimenteren.
+In de weergave [!DNL Insights] _[!UICONTROL Attributes]_kunt u nagaan welke kenmerken beter presteren bij bepaalde soorten publiek, kanalen en regio&#39;s en kunt u seizoensgebonden trends markeren. Met deze inzichten, kunt u prestatiesattributen gebruiken om varianten tot stand te brengen, een specifiek publiek te richten, of met verschillende campagnestrategieën te experimenteren.

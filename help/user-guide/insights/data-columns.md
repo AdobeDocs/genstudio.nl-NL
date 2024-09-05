@@ -1,26 +1,26 @@
 ---
 title: Gegevenskolommen voor  [!DNL Insights]
-description: Begrijp wat elke kolom in a  [!DNL Insights]  net vertegenwoordigt.
+description: Begrijp wat elke kolom in een  [!DNL Insights]  lijst in GenStudio voor de Marketers van Prestaties vertegenwoordigt.
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
+exl-id: 138ad192-b178-45c9-9293-96d89ed7f2aa
+source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-
 # Gegevenskolommen voor [!DNL Insights]
 
-[!DNL Insights] geeft aanpasbare rasters voor elke weergave weer: kanalen, ervaringen, Assets en kenmerken.
+[!DNL Insights] geeft aanpasbare tabellen voor elke weergave weer: kanalen, ervaringen, Assets en kenmerken.
 
-Het raster aanpassen:
+De tabel aanpassen:
 
-- Klik op een kolomkop om het snelmenu te openen met opties voor vergroten, verkleinen en sorteren.
-- Klik op het cogapictogram boven de rechterkant van het raster en open het menu _[!UICONTROL Configure table]_om de weergegeven kolommen in en uit te schakelen.
+- Klik een kolomrubriek om tot het kortere wegmenu met _toegang te hebben vergroot_ en _sorteer_ opties.
+- Klik op het pictogram Instellingen (cog) rechts boven de tabel en open het menu _[!UICONTROL Configure table]_om te schakelen tussen de kolommen die kunnen worden weergegeven.
 
-Beschikbare kolommen zijn:
+## Kanalen, tabelweergave
 
 | Kolom | Beschrijving |
 | ----------- | ------------ |
@@ -32,5 +32,7 @@ Beschikbare kolommen zijn:
 | CTR | Klik op Thru Rate wordt gemeten wanneer iedereen op de advertentie klikt |
 | Conversie | Gebeurtenissen die waardevolle acties van de klant tegen het eind van de klantenreis, zoals aankopen, abonnementen, of lood vertegenwoordigen. |
 | Impressies | Het aantal keren dat campagneadvertenties werden weergegeven aan de kijkers via geregistreerde indrukken. |
+| Starten | Startdatum voor de campagne. |
 | Doelstelling | Het doel van een campagne of project. Stel het doel in bij het maken van de campagne of het project.<br> Objecttypen zijn: `Awareness` , `Traffic` , `Engagement` , `Leads` , `App promotion` , `Sales` |
 | Draaien | Het totale bedrag dat in USD is uitgegeven voor alle advertenties binnen een campagne. |
+| Video wordt afgespeeld | Het aantal keren dat een video begint met afspelen wanneer erop wordt geklikt of door automatisch afspelen. |

@@ -1,9 +1,9 @@
 ---
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
-source-git-commit: 21b81ab6776d504656ba8c3017f8b2897dc173ea
+source-git-commit: 16f44baf646d696da3572ac2c17a5efb7c8f7fc6
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -11,36 +11,21 @@ ht-degree: 0%
 
 # Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 
-Deze nota&#39;s benadrukken significante Adobe GenStudio voor de fixes en de verhogingen van de Marketers van Prestaties voor de week die 30 augustus beëindigt.
-
-## Hooglichten
-
-* De richtlijnen voor instagram en Facebook Channel zijn gecombineerd tot de merkrichtlijnen voor Meta.
-
-* Canvasnavigatie-elementen maken is gestroomlijnd. Op de landingspagina van [!DNL Create] wordt het navigatievenster links weergegeven, maar gebruikers gebruiken nu een **[!UICONTROL Back]** -knop om vanuit andere [!DNL Create] werkgebieden naar deze ruimte te navigeren.  <!-- GS-1189 -->
-
-* Navigatie-elementen zijn verbeterd om de aandacht van de gebruiker te ondersteunen bij het uitvoeren van taken in het gehele product, waaronder de volgende productgebieden:
-
-   * Informatie over middelen, ervaring en sjablonen in [!DNL Content]
-   * Ervaring, element, kenmerkdetails in [!DNL Insights]
-   * Merk details in [!DNL Brands]
-   * Product- en Persondetails in [!DNL Products] en [!DNL Personas] <!-- GS-1189 -->
-
-* Gebruikers hoeven niet meer op de knop **[!UICONTROL Refresh]** te klikken om updates van Ervaringen te bekijken in [!DNL Content] . <!-- GS-4218 -->
-
-* De _pagina van de Details van de Ervaring_ geeft nu externe activaduimnagels als HTML terug. <!-- GS-3092 -->
-
-* De vertraging van de gebruikersinterface na het toevoegen of verwijderen van Assets en Ervaringen is verbeterd. <!-- GS-3389 -->
-
-* Sjabloonvoorvertoningen bevatten nu beschrijvende standaardtekst. <!-- GS-4028 -->
+Deze nota&#39;s benadrukken significante Adobe GenStudio voor de fixes en de verhogingen van de Marketers van Prestaties voor de week die 6 september beëindigt.
 
 ## Bekende problemen
 
 De volgende bekende problemen zullen worden opgelost in de GenStudio for Performance Marketers GA-release.
 
+* Editors krijgen soms een foutbericht &#39;Er is iets fout gegaan&#39; op de [!DNL Create Canvas] tijdens het genereren van de afbeelding. **Oplossing**: Als de fout zich herhaalt, kan de gebruiker logout, dan login aan GenStudio en regenerate het beeld.  <!-- GS-4813 -->
+
+* De [!DNL Create Canvas] rendert afbeeldingen in Meta-advertenties onjuist. <!-- GS-4864 -->
+
+* Assets zonder campagnes kan worden geüpload naar [!DNL Content] , maar is mogelijk niet zichtbaar voor gebruikers. <!-- GS-4815 -->
+
 * Er is een verschil tussen voorvertoningen van MetaAds Canvas en geëxporteerde weergaven. <!-- GS-4492 4401 -->
 
-* Campagneminiaturen ontbreken in de weergave [!DNL Insights] . <!-- GS-4648 -->
+* Campagneminiaturen ontbreken in [!DNL Insights] . <!-- GS-4648 -->
 
 * Gebruikers kunnen momenteel kleine elementen selecteren waarvan het formaat moet worden gewijzigd, maar het vergroten van deze elementen wordt niet ondersteund. <!-- GS-3131 -->
 

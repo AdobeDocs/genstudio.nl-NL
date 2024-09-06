@@ -1,17 +1,23 @@
 ---
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
-source-git-commit: 16f44baf646d696da3572ac2c17a5efb7c8f7fc6
+exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
+source-git-commit: ca5e746850925252679facc321d7522b251cd57a
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 
 Deze nota&#39;s benadrukken significante Adobe GenStudio voor de fixes en de verhogingen van de Marketers van Prestaties voor de week die 6 september beëindigt.
+
+## Nieuwe functies
+
+* GenStudio ondersteunt nu de optie om media-elementen voor te vertonen in [!DNL Insights] . De videoduimnagels omvatten a **Spel** knoop met een dempingsoptie. <!-- GS-4398 -->
+
+* Assets kan nu in [!DNL Insights] worden gefilterd op type `video` . <!-- GS-4398 -->
 
 ## Bekende problemen
 
@@ -31,15 +37,48 @@ De volgende bekende problemen zullen worden opgelost in de GenStudio for Perform
 
 * Gebruikers moeten zich twee keer aanmelden bij een kanaal voor Meta Ads-account wanneer zij zich ook bij Facebook hebben aangemeld. **Oplossing**: Logout van Facebook alvorens het programma te openen in een rekening van de Advertentie van het kanaal Meta.
 
-### Bekende problemen opgelost
+* Geüploade afbeeldingen bevatten niet altijd de verwachte slimme tags. <!-- GS-4856 -->
 
-* GenStudio geeft een fout weer wanneer een gebruiker referenties probeert in te voeren in de weergave [!DNL Insights] . (vast 8/29) <!-- GS-4689 -->
+### Extra verbeteringen en vaste problemen
+
+* _voeg Assets_ popup toe wordt nu gelokaliseerd zoals verwacht. <!-- GS-3834 -->
+
+* Problemen met het schalen van de ervaringssjabloon Meta-advertenties zijn opgelost. <!-- GS-4174 -->
+
+* Inhoudsfragmentmodellen die voor sjablonen zijn gemaakt, kunnen nu op de juiste wijze in AEM worden weergegeven. <!-- GS-4716 -->
+
+* De tekstvelden in het CSV-exportbestand voor e-mails met meerdere onderdelen worden nu op de verwachte manier geordend. <!-- GS-4013 -->
+
+* Het [!DNL Content] onderzoeksgebied verdwijnt niet meer wanneer een gebruiker herhaaldelijk op de **Backspace** sleutel duwt om de tekst van het onderzoeksgebied te wissen.  <!-- GS-4543 -->
+
+* GenStudio laadt nu gebruikers zoals verwacht wanneer een medewerker een @-vermelding toevoegt aan een opmerking. Eerder heeft GenStudio geen gebruikers geladen en deze fout weergegeven: `Unable to load users. Refresh the page` . <!-- GS-4113 -->
+
+* GenStudio toont niet meer het **Iets ging fout** bericht wanneer een redacteur **Uitgezochte inhoud** tijdens e-mailverwezenlijking in het snelle gebied klikt. <!-- GS-4879 -->
 
 ## Vorige Beta-releases
 
 In vorige Beta-releases waren de volgende markeringen en oplossingen opgenomen.
 
 ### Hooglichten
+
+* De richtlijnen voor instagram en Facebook Channel zijn gecombineerd tot de merkrichtlijnen voor Meta.
+
+* [!DNL Create] Canvasnavigatie-elementen zijn gestroomlijnd. Op de landingspagina van [!DNL Create] wordt het navigatievenster links weergegeven, maar gebruikers gebruiken nu een **[!UICONTROL Back]** -knop om vanuit andere [!DNL Create] werkgebieden naar deze ruimte te navigeren.
+
+* Navigatie-elementen zijn verbeterd om de aandacht van de gebruiker te ondersteunen bij het uitvoeren van taken in het gehele product, waaronder de volgende productgebieden:
+
+   * Informatie over middelen, ervaring en sjablonen in [!DNL Content]
+   * Ervaring, element, kenmerkdetails in [!DNL Insights]
+   * Merk details in [!DNL Brands]
+   * Productgegevens en persoonlijke gegevens in producten en personen
+
+* Gebruikers hoeven niet meer op de knop **[!UICONTROL Refresh]** te klikken om updates van Ervaringen in [!DNL Content] weer te geven.
+
+* De _pagina van de Details van de Ervaring_ geeft nu externe activaduimnagels als HTML terug.
+
+* De vertraging van de gebruikersinterface na het toevoegen of verwijderen van Assets en Ervaringen is verbeterd.
+
+* Sjabloonvoorvertoningen bevatten nu beschrijvende standaardtekst. Zie [ een malplaatje ](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview) aanpassen.
 
 * **op percentage-gebaseerde bevestigingsscore**: De bevestiging van het merk toont nu de score van de brandbevestiging als percentage eerder dan een pas/ontbreekt waarde. (vaste 8/16)
 
@@ -51,7 +90,7 @@ In vorige Beta-releases waren de volgende markeringen en oplossingen opgenomen.
 
 * **Meta Adds Resize**: De redacteurs kunnen Meta en aspectverhoudingen resize. (vaste 8/16)
 
-* **Beperkte Inzicht login rekeningen**: Inzicht login steunt nu slechts één rekening per klant. (vaste 8/16)
+* **Beperkte [!DNL Insights] login rekeningen**: [!DNL Insights] login steunt nu slechts één rekening per klant. (vaste 8/16)
 
 ### Extra verbeteringen en vaste problemen
 
@@ -65,7 +104,8 @@ In vorige Beta-releases waren de volgende markeringen en oplossingen opgenomen.
 
 ### Bekende problemen opgelost in eerdere Beta-releases
 
+* GenStudio geeft een fout weer wanneer een gebruiker referenties probeert in te voeren in de weergave [!DNL Insights] . (vast 8/29) <!-- GS-4689 -->
+
 * Het uploaden van merkrichtlijnen mislukt vanwege problemen met het ACS-opslagplatform. (vast 8/22) <!-- GS-4369 -->
 
 * In het vervolgkeuzemenu Vragen [!DNL Brands] wordt een spinner aan het einde van de lijst in [!DNL Brands] weergegeven tijdens het maken van e-mail. (vast 8/22) <!-- GS-4077 -->
-

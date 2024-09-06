@@ -2,9 +2,9 @@
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca5e746850925252679facc321d7522b251cd57a
+source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '728'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ Deze nota&#39;s benadrukken significante Adobe GenStudio voor de fixes en de ver
 
 ## Nieuwe functies
 
-* GenStudio ondersteunt nu de optie om media-elementen voor te vertonen in [!DNL Insights] . De videoduimnagels omvatten a **Spel** knoop met een dempingsoptie. <!-- GS-4398 -->
-
-* Assets kan nu in [!DNL Insights] worden gefilterd op type `video` . <!-- GS-4398 -->
+* GenStudio biedt nu ondersteuning voor de optie om een voorvertoning van media-elementen weer te geven in tabel- en galerieweergaven van [!DNL Insights] . De videoduimnagels omvatten a **Spel** knoop met een dempingsoptie. <!-- GS-4398 -->
 
 ## Bekende problemen
 

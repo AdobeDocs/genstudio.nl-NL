@@ -2,9 +2,9 @@
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
+source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,6 @@ De volgende bekende problemen zullen worden opgelost in de GenStudio for Perform
 * _voeg Assets_ popup toe wordt nu gelokaliseerd zoals verwacht. <!-- GS-3834 -->
 
 * Problemen met het schalen van de ervaringssjabloon Meta-advertenties zijn opgelost. <!-- GS-4174 -->
-
-* Inhoudsfragmentmodellen die voor sjablonen zijn gemaakt, kunnen nu op de juiste wijze in AEM worden weergegeven. <!-- GS-4716 -->
 
 * De tekstvelden in het CSV-exportbestand voor e-mails met meerdere onderdelen worden nu op de verwachte manier geordend. <!-- GS-4013 -->
 

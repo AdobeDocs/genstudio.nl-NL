@@ -2,9 +2,9 @@
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
+source-git-commit: 2861dd76dde9428e0c39af18c1d5e21dc2b32b91
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ De volgende bekende problemen zullen worden opgelost in de GenStudio for Perform
 
 * De [!DNL Create Canvas] rendert afbeeldingen in Meta-advertenties onjuist. <!-- GS-4864 -->
 
-* Assets zonder campagnes kan worden geüpload naar [!DNL Content] , maar is mogelijk niet zichtbaar voor gebruikers. <!-- GS-4815 -->
+* Sjablonen kunnen worden geüpload, maar niet worden weergegeven. <!-- GS-4815 -->
 
 * Er is een verschil tussen voorvertoningen van MetaAds Canvas en geëxporteerde weergaven. <!-- GS-4492 4401 -->
 

@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
+exl-id: 34446202-da98-45ff-869a-b43496a477f8
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
 source-wordcount: '795'
 ht-degree: 0%
 
 ---
-
 
 # Een e-mailervaring maken
 
@@ -69,16 +69,14 @@ Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd doo
 
 ## Gegenereerde e-mails reviseren
 
-Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u e-mailfragmenten bewerken of een variant uit de set gegenereerde e-mailberichten verwijderen.
+Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u e-mailsecties bewerken of een variant uit de set gegenereerde e-mailberichten verwijderen.
 
 **om geproduceerde varianten** te herzien:
 
-* **om de naam van het e-mailontwerp** uit te geven, klik in de _Naamloze titel van het Ontwerp_ bij de bovenkant van het Canvas en ga een nieuwe titel in.
-* **om een e-mail** manueel uit te geven, klik in om het even welke e-mailfragmenten (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
-
-  Voor de onderwerpregel en de voorheader hoeft u slechts één klik te bewerken, terwijl voor de koptekst, hoofdtekst en aanroep naar een handeling een dubbelklik vereist is.
-
-* **om een e-mail** te schrappen, klik om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
+* **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
+* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
+* **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
 
 ## De uitlijning van merken controleren
 
@@ -87,7 +85,7 @@ Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkiden
 **om brandgroepering** te verifiëren:
 
 1. Klik op het pictogram [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) voor een variant en bekijk een overzicht van de prestaties van die variant wanneer deze wordt gecontroleerd op uw merk.
-1. Om de details van de fragmenten en de richtlijnen te krijgen die verbetering vereisen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
+1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
 
 1. U kunt elke e-mail doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat deze meer op het merk wordt afgestemd.
 1. [ herziet manueel e-mail ](#revise-generated-emails) om ervoor te zorgen uw e-mails nauw met uw merk worden gericht.

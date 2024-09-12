@@ -4,9 +4,9 @@ breadcrumb-title: Gebruikershandleiding
 user-guide-description: Leer hoe u snel online middelen kunt vinden en genereren, variaties kunt maken en ervaringen kunt optimaliseren op basis van real-time inzichten in de prestaties van content.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: a7981565b23ea007b2634d8e050e921718bb1dcd
+source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 3%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 3%
    + [Merkwaardvalidatie](guidelines/brand-validation.md)
 + Maken {#create}
    + [[!DNL Create]-overzicht](create/overview.md)
+   + [Varianten beheren](create/manage-variants.md)
 + Revisies en goedkeuringen {#approve}
    + [Overzicht van revisie en goedkeuring](approvals/overview.md)
    + [Revisie en goedkeuring van inhoud aanvragen](approvals/request-review.md)

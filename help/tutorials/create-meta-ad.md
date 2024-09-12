@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
+exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
+source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
-
 
 # Een meta-advertentie maken
 
@@ -77,14 +77,16 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
-* **om Meta uit te geven en ontwerp naam**, klik in de _Naamloze titel van het Ontwerp_ bij de bovenkant van het Canvas en ga een nieuwe titel in.
-* **om een Meta-advertentie** manueel uit te geven, klik in om het even welke advertentiefragmenten (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
+* **[ om Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **om [ manueel uit te geven Meta en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
 
   Voor het bewerken van de onderwerpregel en de voorheader is slechts één klik nodig, terwijl voor de koptekst en de hoofdtekst een dubbelklik vereist is.
 
-* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag aan actieknoop en selecteer van een beschikbare knoop.
-* **om de grootte en aspectverhouding** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
-* **om een advertentie van Meta** te schrappen, klik om de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
+* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag aan actieknoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_een koppeling in voor de aanroepingstekst.
+* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
+* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
+* **[ om beelden](/help/user-guide/create/manage-variants.md#crop-assets)** te bebouwen of van plaats te veranderen over een beeld, **[!UICONTROL Apply Crop]** te klikken, en de beeldgrootte en plaatsing aan te passen.
+* **om [ een advertentie van Meta te schrappen](/help/user-guide/create/manage-variants.md#delete-variant)**, klik om de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
 
 ## De uitlijning van merken controleren
 
@@ -93,7 +95,7 @@ Om de geproduceerde advertenties te optimaliseren en strikte gehechtheid aan mer
 **om brandgroepering** te verifiëren:
 
 1. Klik op het pictogram [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) voor een variant en bekijk een overzicht van de prestaties van die variant wanneer deze wordt gecontroleerd op uw merk.
-1. Om de details van de fragmenten en de richtlijnen te krijgen die verbetering vereisen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
+1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
 
 1. U kunt elke advertentie doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat de inhoud meer op het merk wordt afgestemd.
 1. [ herzien manueel advertenties ](#revise-generated-meta-ads) om uw advertenties te verzekeren dicht met uw merk wordt gericht.

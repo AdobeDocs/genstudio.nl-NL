@@ -2,13 +2,13 @@
 title: GenStudio for Performance Marketers  [!DNL Brands]
 description: GenStudio voor de Marketers van Prestaties  [!DNL Brands]  is een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud te informeren.
 feature: Brands Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
 source-wordcount: '792'
 ht-degree: 0%
 
 ---
-
 
 # GenStudio for Performance Marketers [!DNL Brands]
 
@@ -45,9 +45,9 @@ In de volgende tabel wordt elke categorie van de taalrichtlijnen en voorbeelden 
 
 Elk kanaal heeft bepaalde inherente richtlijnen die de samenstelling van kanaalactiva beïnvloeden.
 
-In de volgende tabel ziet u elk kanaalfragment, kanalen waarvoor het beschikbaar is, een beschrijving van het fragment, voorbeelden van hulplijnen en voorbeeldresultaten.
+In de volgende tabel worden de kanaalsecties weergegeven, de kanalen waarvoor deze beschikbaar is, een beschrijving van de sectie, voorbeelden van hulplijnen en voorbeeldresultaten.
 
-| Fragmenten | Kanalen | Beschrijving | Aanbevolen procedures |
+| Secties | Kanalen | Beschrijving | Aanbevolen procedures |
 | ------------------| --------- | --------- | -------- |
 | Algemeen | email, sociale advertenties | Een tweede onderwerpregel of e-mailvoorbeeldtekst | Bepaal algemene toon/emotie om consistent te zijn door e-mail (2-5 richtlijnen).<br>_Voorbeelden_: &quot;handhaaf een vriendschappelijke en behandelbare toon&quot;, &quot;vermijd overdreven formele taal&quot;<br><br> |
 | Onderwerp | email | Een boeiende en interessante titel om de inhoud van een e-mail samen te vatten | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, lengte, enz. Voeg eerder succesvolle onderwerplijnen in _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeeld_: &quot;Richt onderwerp met e-maillichaam&quot; |

@@ -2,9 +2,9 @@
 title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Content, Assets, Experiences
-source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
+source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -38,24 +38,24 @@ U kunt de tekstvelden in gegenereerde varianten bewerken. Verfijn de tekst voor 
 1. Voer nieuwe tekst in.
 1. Klik buiten het tekstveld om het op te slaan.
 
-## Secties opnieuw genereren
+<!-- ## Re-generate sections
 
-GenStudio for Performance Marketers beschikt over de ingebouwde functionaliteit waarmee afzonderlijke secties van gegenereerde varianten opnieuw kunnen worden gegenereerd met _[!UICONTROL Suggested edits]_en nieuwe aanwijzingen.
+GenStudio for Performance Marketers has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
-U kunt bijvoorbeeld de koptekstsectie van een meta-variant opnieuw genereren om te zien hoe deze er uitziet met een bepaald achtergrondelement met behulp van de _[!UICONTROL Suggested edits]_-opties_[!UICONTROL Rephrase]_ , _[!UICONTROL Shorten]_of_[!UICONTROL Lengthen]_ en een nieuwe vraag in te voeren.
+For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 
-**om individuele variantsecties** opnieuw te produceren:
+**To re-generate individual variant sections**:
 
-1. Nadat u een set varianten hebt gegenereerd, klikt u met één klik op bewerkbare tekst in een variant.
-1. (_Facultatieve_) ga een nieuwe herinnering in om de nadruk van de opnieuw geproduceerde inhoud te veranderen.
-1. Selecteer een _[!UICONTROL Suggested edits]_optie—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, of_[!UICONTROL Lengthen]_.
-1. Klik op **[!UICONTROL Generate]**.
-1. Als u resultaten opnieuw wilt produceren, klik het regenerate pictogram naast _Resultaten_.
-1. Van de _Resultaten_ die verschijnen, selecteer de gewenste optie en klik **[!UICONTROL Replace]**.
+1. After generating a set of variants, single-click editable text in a variant.
+1. (_Optional_) Enter a new prompt to change the focus of the regenerated content.
+1. Select a _[!UICONTROL Suggested edits]_ option—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
+1. Click **[!UICONTROL Generate]**.
+1. If you want to regenerate results again, click the regenerate icon adjacent to _Results_.
+1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   De variant wordt bijgewerkt met de herziene tekst.
+   The variant is updated with the revised text.
 
-<!-- ## Crop assets
+## Crop assets
 
 You can manually crop and reposition image assets in individual generated variants.
 

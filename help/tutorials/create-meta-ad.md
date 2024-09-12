@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
+source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -86,8 +86,8 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 * **om de vraag aan actie** te veranderen of te selecteren, klik de vraag aan actieknoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_een koppeling in voor de aanroepingstekst.
 * **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
-* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
-<!-- * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **om [ een advertentie van Meta te schrappen](/help/user-guide/create/manage-variants.md#delete-variant)**, klik om de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
 
 ## De uitlijning van merken controleren

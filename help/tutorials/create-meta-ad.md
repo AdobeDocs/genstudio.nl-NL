@@ -1,15 +1,15 @@
 ---
 title: Een meta-advertentie maken
-description: Leer hoe u een nieuwe on-brand Meta-advertentie maakt—voor Facebook of Instagram—met generatieve AI.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Leer hoe u een nieuwe on-brand Meta-advertentie-ervaring-voor Facebook of Instagram-met Adobe GenStudio voor de Marketers van Prestaties creeert.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '980'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
    * Klik op **[!UICONTROL Select from content]** om elementen (afbeeldingen) te selecteren die al zijn gepubliceerd naar [!DNL Content] . Gebruik de filters om de zoekresultaten verder te verfijnen.
    * Klik op **[!UICONTROL Upload]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. U kunt uw apparaat ook importeren vanuit Microsoft OneDrive of Dropbox.
    * De belemmering en laat vallen activa in de _Inhoud_ sectie.
+1. Klik op **[!UICONTROL Use]**.
 
 Wanneer u klaar bent toevoegend parameters, kunt u het snelle gebied doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
 
@@ -67,7 +68,7 @@ Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd doo
 
 Wanneer u een Meta-advertentie genereert, kunt u kiezen tussen Facebook- of Instagram-advertenties.
 
-Wissel de optie van het Meta-advertentiekanaal in de hoogste menubar aan **Facebook** of **Instagram** om de geproduceerde concepten van elk kanaal te beheren.
+Wissel het kanaal van Meta-advertenties optie-tussen **Facebook** en **Instagram**-in de juiste menubar (de pictogrammen van Facebook en van Instagram) om varianten voor elk kanaal te zien en te beheren.
 
 Wanneer [ het herzien van de advertenties van Meta ](#revise-generated-meta-ads), kunt u de aspectverhouding van de advertenties van Facebook en van Instagram veranderen.
 
@@ -77,6 +78,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
+
 * **[ om Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **om [ manueel uit te geven Meta en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
 
@@ -85,7 +87,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 * **om de vraag aan actie** te veranderen of te selecteren, klik de vraag aan actieknoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_een koppeling in voor de aanroepingstekst.
 * **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
-* **[ om beelden](/help/user-guide/create/manage-variants.md#crop-assets)** te bebouwen of van plaats te veranderen over een beeld, **[!UICONTROL Apply Crop]** te klikken, en de beeldgrootte en plaatsing aan te passen.
+<!-- * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **om [ een advertentie van Meta te schrappen](/help/user-guide/create/manage-variants.md#delete-variant)**, klik om de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
 
 ## De uitlijning van merken controleren

@@ -2,9 +2,9 @@
 title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Content, Assets, Experiences
-source-git-commit: a6cf07179e888599860bc699ec17a3e8e4167e7b
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -55,30 +55,35 @@ U kunt bijvoorbeeld de koptekstsectie van een meta-variant opnieuw genereren om 
 
    De variant wordt bijgewerkt met de herziene tekst.
 
-## Elementen uitsnijden
+<!-- ## Crop assets
 
-U kunt afbeeldingselementen handmatig uitsnijden en verplaatsen in afzonderlijke gegenereerde varianten.
+You can manually crop and reposition image assets in individual generated variants.
 
-**om beelden in varianten uit te snijden en te verplaatsen**:
+**To crop and reposition images in variants**:
 
-1. Nadat u een set varianten hebt gegenereerd, plaatst u de muisaanwijzer boven een afbeelding binnen een variant.
-1. Klik op **[!UICONTROL Apply Crop]**.
-1. Zoom in en uit en sleep de afbeelding naar de gewenste positie.
-1. Klik op **[!UICONTROL Apply]**.
+1. After generating a set of variants, hover over an image within a variant.
+1. Click **[!UICONTROL Apply Crop]**.
+1. Zoom in and out and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]**.
 
-   De uitgesneden afbeelding wordt automatisch opgeslagen en zichtbaar voor de variant.
+   The cropped image is automatically saved and visible for the variant. -->
 
 ## Hoogte-breedteverhouding wijzigen
 
 U kunt de hoogte-breedteverhouding van Meta-advertenties snel aanpassen aan de gewenste grootte.
 
-Beschikbare hoogte-breedteverhoudingen zijn:
+Beschikbare formaten/hoogte-breedteverhoudingen zijn:
 
-* 1:1 vierkant
-* 4:5 verticaal
-* 9:16 verticaal
+* 1:1 vierkant (meta)
+* 4:5 verticaal (meta)
+* 9:16 verticaal (meta)
+* 250 x 980 (advertentie voor beeldscherm)
 
-**om de aspectverhouding van geproduceerde Metaadvertenties te veranderen**:
+>[!NOTE]
+>
+>Andere hoogte-breedteverhoudingen en -grootten zijn mogelijk beschikbaar op basis van beschikbare sjablonen.
+
+**om de aspectverhouding van geproduceerde varianten** te veranderen:
 
 1. Nadat u een set varianten hebt gegenereerd, selecteert u het pictogram voor de hoogte-breedteverhouding vergroten/verkleinen (pijl die naar de hoek van het vak wijst) aan de linkerkant van het canvas.
 

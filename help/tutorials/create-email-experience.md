@@ -1,15 +1,15 @@
 ---
 title: Een e-mailervaring maken
-description: Leer hoe te om e-mailervaringen in Adobe  [!DNL GenStudio] tot stand te brengen.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Leer hoe te om e-mailervaringen in Adobe  [!DNL GenStudio]  voor de Marketers van Prestaties tot stand te brengen.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 9624429977e21af614173c5078c6b470c8b5a147
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
    * Klik op **[!UICONTROL Select from content]** om elementen (afbeeldingen) te selecteren die al zijn gepubliceerd naar [!DNL Content] . Gebruik de filters om de zoekresultaten verder te verfijnen.
    * Klik op **[!UICONTROL Upload]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. U kunt uw apparaat ook importeren vanuit Microsoft OneDrive of Dropbox.
    * De belemmering en laat vallen activa in de _Inhoud_ sectie.
+1. Klik op **[!UICONTROL Use]**.
 
 >[!NOTE]
 >
@@ -77,6 +78,12 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 * **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
 * **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
+
+## Voorvertoning voor apparaat
+
+Bij het herzien en voorbereiden van e-mailervaringen kunt u schakelen tussen voorvertoningen voor desktop- en mobiele weergaven om de coherentie en visuele aantrekkingskracht van ontwerpvarianten te garanderen.
+
+**aan voorproefvarianten voor Desktop en mobiele apparaten** knevel de apparatenvoorproef optie-tussen **Desktop** en **mobiel**-in de juiste menubar (computer en telefoonpictogrammen) om te bekijken hoe de varianten verschijnen.
 
 ## De uitlijning van merken controleren
 

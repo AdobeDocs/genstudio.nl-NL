@@ -3,9 +3,9 @@ title: Overzicht van  [!DNL Insights]
 description: Leer hoe u ervaringen kunt optimaliseren op basis van real-time waarden voor inhoudsprestaties.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
+source-git-commit: 0713b18ed1ca5a0b695fdcef4bd488cf87bf2040
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ De weergave [!DNL Insights] _[!UICONTROL Channels]_is de standaardweergave en ge
 
 ### Ervaringen
 
-De weergave [!DNL Insights] _[!UICONTROL Experiences]_is vooral gericht op het evalueren van de doeltreffendheid van een ervaring. In de weergave [!UICONTROL Experiences] kunt u de metriek van een ervaring analyseren op basis van de advertentie-plaatsing binnen een opgegeven datumbereik. Door op een_[!UICONTROL Ad name]_ te klikken, kunt u tot een lijst van activa toegang hebben die in de geselecteerde ervaring worden gebruikt, toelatend u om te identificeren welke componenten aan zijn algemeen succes hebben bijgedragen.
+De weergave [!DNL Insights] _[!UICONTROL Experiences]_is vooral gericht op het evalueren van de doeltreffendheid van een ervaring. In de weergave [!UICONTROL Experiences] kunt u de metriek van een ervaring analyseren op basis van de advertentie-plaatsing binnen een opgegeven datumbereik. Als u op een_[!UICONTROL Ad name]_ klikt, kunt u de maatstaven voor de prestaties en prestaties van de advertentie bekijken door plaatsing en kenmerken toe te voegen.
 
 ### Assets
 

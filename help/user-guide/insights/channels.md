@@ -2,13 +2,13 @@
 title: Overzicht van kanalen
 description: Bekijk een overzicht van de betrokkenheid, prestaties, budget en uitgaven van klanten voor marketingcampagnes in Adobe GenStudio voor de markten voor prestaties.
 feature: Insights, Channels
-source-git-commit: 2e76eadcc3281ea935dca383eb3db8c41b83e679
+exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
+source-git-commit: 13e49dd7bd36e842513baa6311373671da827926
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van kanalen
 
@@ -20,9 +20,9 @@ In de weergave [!DNL Insights] _[!UICONTROL Channels]_wordt een lijst met campag
 
 De tabel [!UICONTROL Channels] wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]** , waarin u een keuze kunt maken uit de lijsten [!UICONTROL Account] , [!UICONTROL Status] en [!UICONTROL Objective] om de campagnes in de tabel te filteren.
 
-![ de filter en lijst van het Kanaal ](../../assets/insights-channel-filter.png)
+![ de filter en lijst van Kanalen ](../../assets/insights-channels-filter.png)
 
-Wanneer u een campagne selecteert, wordt het tabblad [!UICONTROL Experiences] geopend met een lijst met advertentienamen die aan die campagne zijn gekoppeld.
+Wanneer u een campagne selecteert, opent [[!UICONTROL Experiences] lusje ](experiences.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke ervaringen aan zijn algemeen succes hebben bijgedragen.
 
 ## Doelstellingen
 

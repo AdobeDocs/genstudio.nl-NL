@@ -4,9 +4,9 @@ breadcrumb-title: Tutorials
 user-guide-description: De zelfstudies van het Experience League van de mening op Adobe  [!DNL GenStudio], een oplossing van begin tot eind om uw ketting van de inhoudslevering met generatieve AI en intelligente automatisering te versnellen en te vereenvoudigen.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 22222bfb4f04d31f3220f3ce2f28349c38138131
+source-git-commit: 1e61dfc03ea70ca1f1eb31610c8d486ab6a44611
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '41'
 ht-degree: 4%
 
 ---
@@ -17,5 +17,4 @@ ht-degree: 4%
 + [[!DNL GenStudio] Tutorials](tutorials.md)
 + [Een e-mailervaring maken](create-email-experience.md)
 + [Een meta-advertentie maken](create-meta-ad.md)
-+ [Een weergave en ervaring maken](create-display-ad.md)
 + [[!DNL GenStudio]  Gids van de Gebruiker ](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)

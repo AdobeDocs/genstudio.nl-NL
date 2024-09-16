@@ -3,9 +3,9 @@ title: Overzicht van GenStudio for Performance Marketers  [!DNL Create]
 description: Snel krachtige, on-brand inhoud met generatieve AI in Adobe GenStudio voor de Marketers van Prestaties  [!DNL Create] produceren.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,8 @@ Met [!DNL Create] kunt u inhoud voor de volgende kanalen genereren:
 
 * E-mails
 * Metaadvertenties
-* Advertenties weergeven
+<!-- * Social media images and ads
+* Display ads -->
 
 Samen met de macht van [ richtlijnen ](/help/user-guide/guidelines/overview.md) - [!DNL Brands], [!DNL Products], en [!DNL Personas] - [ Inhoud ](/help/user-guide/content/overview.md), [ Reviews en Goedkeuringen ](/help/user-guide/approvals/overview.md), en [ Inzichten ](/help/user-guide/insights/overview.md), [!DNL Create] vergemakkelijkt de verwezenlijking van oneigenlijke merkgebonden marketing inhoud.
 
@@ -103,17 +104,10 @@ De wettelijke overzichten, de commentaren van het spooroverzicht, en verkrijgen 
 
 Nadat u klaar bent met het genereren van variaties in de inhoud, stuurt u uw concepten ter goedkeuring naar de belanghebbenden zodat deze kunnen worden opgeslagen in [!DNL Content] en geïmplementeerd bij marketingactiviteiten.
 
-### Varianten beheren
-
-GenStudio voor de Marketers van Prestaties staat [ uitvoerige controle over secties van individuele varianten ](/help/user-guide/create/manage-variants.md) toe.
-
-U kunt secties van één enkele variant herzien, de inhoud van individuele secties opnieuw produceren en gesuggereerde uitgeeft gebruiken om het bericht, de grootte activa, en meer, allen binnen het Canvas te verbeteren.
-
 ## Tutorials
 
 * [Een e-mailervaring maken](/help/tutorials/create-email-experience.md)
 * [Een meta-advertentie maken](/help/tutorials/create-meta-ad.md)
-* [Een weergave en ervaring maken](/help/tutorials/create-display-ad.md)
 
 <!-- ### Anatomy of an email experience
 

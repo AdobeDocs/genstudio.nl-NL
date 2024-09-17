@@ -2,9 +2,9 @@
 title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
 description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 5f729070a3a4c162ebac0fde9814c649c9984b4d
+source-git-commit: d1904bfe6e5775f71290c2fc7aa185ac2a4a4668
 workflow-type: tm+mt
-source-wordcount: '875'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -33,13 +33,13 @@ De volgende bekende problemen zullen worden opgelost in de GenStudio for Perform
 
 ### Aanvullende verbeteringen en opgeloste problemen
 
-* Met het canvas [!DNL Create] worden afbeeldingen in Metaadvertenties onjuist weergegeven. <!-- GS-4864 -->
+* Met het canvas van [!DNL Create] worden afbeeldingen nu correct weergegeven in Metaadvertenties. <!-- GS-4864 -->
 
 * Hoewel er verschillen kunnen bestaan tussen voorvertoningen van Meta Ads Canvas en geëxporteerde weergaven, werken geëxporteerde ervaringen goed. <!-- GS-4492 4401 -->
 
-* Geüploade afbeeldingen bevatten niet altijd de verwachte slimme tags. <!-- GS-4856 -->
+* Geüploade afbeeldingen bevatten nu de verwachte slimme tags. <!-- GS-4856 -->
 
-* Het CSV-bestand voor metagegevens en exporteren bevat nu naar behoren afbeeldingen. Eerder bevatte het ZIP-bestand het CSV-exportbestand en NULL-bestanden in plaats van afbeeldingen.  <!-- GS-5107 -->
+* Het CSV-bestand voor het exporteren van metagegevens bevat nu naar behoren afbeeldingen. Eerder bevatte het ZIP-bestand het CSV-exportbestand en NULL-bestanden in plaats van afbeeldingen.  <!-- GS-5107 -->
 
 * Gebruikers kunnen nu naar behoren tekst invoeren in het veld Sjabloondetailweergave **[!UICONTROL Uploaded by]** . Voorheen kon het ladingspictogram gebruikers geen tekst invoeren. <!-- GS-4887 -->
 

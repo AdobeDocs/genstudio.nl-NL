@@ -4,7 +4,7 @@ breadcrumb-title: Gebruikershandleiding
 user-guide-description: Leer hoe u snel online middelen kunt vinden en genereren, variaties kunt maken en ervaringen kunt optimaliseren op basis van real-time inzichten in de prestaties van content.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 3%
@@ -15,6 +15,8 @@ ht-degree: 3%
 # Adobe GenStudio voor de handleiding voor de prestatiemarkeringen {#user-guide}
 
 + [Handleiding GenStudio for Performance Marketers](home.md)
++ Opmerkingen bij de release {#release-notes}
+   + [Opmerkingen bij de release van Beta](beta-release-notes.md)
 + [Aan de slag](get-started.md)
 + Inleiding {#intro}
    + [Concepten](concepts.md)
@@ -55,5 +57,3 @@ ht-degree: 3%
    + [Kanalen](insights/channels.md)
    + [Ervaringen](insights/experiences.md)
    + [Gegevenskolommen](insights/data-columns.md)
-+ Opmerkingen bij de release {#release-notes}
-   + [Opmerkingen bij de release van Beta](beta-release-notes.md)

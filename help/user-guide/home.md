@@ -1,20 +1,24 @@
 ---
 title: Gebruikershandleiding voor Adobe GenStudio
 description: Laat marketers en superprijscreatieven met GenStudio for Performance Marketers, de AI-Eerste toepassing van de Adobe die zelfbedieningstoegang tot on-brand inhoud met bedrijfsgaranties en bestuur voor krachtige ervaringen verleent.
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # Gebruikershandleiding voor Adobe GenStudio voor prestatiemarkeringen
 
-Adobe GenStudio voor de Marketers van Prestaties is een AI-gedreven platform dat bedrijven toelaat om autonoom marketing inhoud te produceren en te beheren die aan hun merknormen voldoet, aan ondernemingsbeleid voldoet, en naadloos een impactful marketing strategie steunt.
+Adobe GenStudio voor de Marketers van Prestaties is een AI-gedreven platform dat u machtigt om marketing inhoud te produceren en te beheren die aan uw merknormen voldoet en aan uw ondernemingsbeleid voldoet.
 
-Met GenStudio for Performance Marketers kunnen marketers en creatives het proces voor het maken van inhoud stroomlijnen om marketinginhoud te maken die aantrekkelijk, cultureel relevant en toegesneden is op specifieke doelgroepen, en tegelijk een hoge kwaliteit en brandintegriteit in stand houdt.
+Door gebruik te maken van Adobe AI-technologie, biedt GenStudio for Performance Marketers een uitgebreide reeks tools die de complexiteit van het maken en beheren van content vereenvoudigen, zodat creatieve mensen zich kunnen richten op innovatie.
 
-Door gebruik te maken van AI-technologie, biedt GenStudio for Performance Marketers een uitgebreide reeks hulpmiddelen die de complexiteit van het maken en beheren van content vereenvoudigen, zodat creatieve mensen zich kunnen richten op innovatie.
+## Nieuwe functies
+
+- [[!DNL Insights Channels]](insights/channels.md) — Nieuw overzicht van de betrokkenheid van klanten, prestaties, budget en uitgaven voor marketingcampagnes.
+- [[!DNL Insights Experiences]](insights/experiences.md) — Nieuw overzicht van inzichten met betrekking tot ervaringen en prestaties.
 
 ## Mogelijkheden verkennen
 
@@ -82,7 +86,7 @@ Door gebruik te maken van AI-technologie, biedt GenStudio for Performance Market
          </a>
       </div>
       <p>
-         <em> analyseer inhoudsdoeltreffendheid van betaalde media kanalen.</em>
+         <em> analyseer de inhoudsdoeltreffendheid van betaalde media kanalen.</em>
       </p>
    </td>
 </tr>

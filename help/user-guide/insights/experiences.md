@@ -1,8 +1,8 @@
 ---
 title: Overzicht van ervaringen
-description: Bekijk een overzicht van de betrokkenheid van klanten, het budget en de uitgaven voor ervaringen en prestaties van bedrijfsmiddelen in Adobe GenStudio voor de markten voor prestaties.
+description: Bekijk een overzicht van de betrokkenheid van klanten, het budget en de uitgaven voor ervaringen en prestaties in de Adobe GenStudio voor de markten voor prestaties.
 feature: Insights, Experiences
-source-git-commit: ed0ddb10ee65c2691f8ecbfe23533508e9174bf9
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 0%

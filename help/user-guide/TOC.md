@@ -4,9 +4,9 @@ breadcrumb-title: Gebruikershandleiding
 user-guide-description: Leer hoe u snel online middelen kunt vinden en genereren, variaties kunt maken en ervaringen kunt optimaliseren op basis van real-time inzichten in de prestaties van content.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 476d36dd64607221be0b16f38f251db40e2cf907
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 3%
 
 ---
@@ -39,8 +39,9 @@ ht-degree: 3%
    + [Door Publish goedgekeurde inhoud](approvals/publish-content.md)
 + Inhoud {#content}
    + [Overzicht van inhoud](content/overview.md)
-   + [Gegevens van element](content/asset-details.md)
    + [Elementen beheren](content/manage-assets.md)
+   + [Een AEM maken](content/connect-aem-repo.md)
+   + [Gegevens van element](content/asset-details.md)
    + Sjablonen {#templates}
       + [Werken met sjablonen](content/use-templates.md)
       + [Een sjabloon aanpassen](content/customize-template.md)

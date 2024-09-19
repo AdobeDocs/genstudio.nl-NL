@@ -2,13 +2,13 @@
 title: Toegankelijke sjablonen maken
 description: Bouw malplaatjes in Adobe GenStudio voor de Marketers van Prestaties die meer van uw publiek kunnen bereiken en een optimale ervaring verstrekken.
 feature: Templates, Content
-source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
+exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
+source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
-
 
 # Toegankelijke sjablonen maken
 
@@ -27,6 +27,13 @@ Maak tekstalternatieven voor niet-tekstuele inhoud, zoals afbeeldingen.
 ```
 
 ![ Collage van ideeën, boeken, man die reuzenpotlood, computer ](../../assets/card-create-assets.png){width="400"} houden
+
+## Contrastverhoudingen
+
+Zorg voor een passend contrast tussen tekst en achtergrond. Gebruik de volgende minimale contrastverhoudingen:
+
+- Tekst en afbeeldingen van tekst: contrastverhouding van ten minste 4,5:1
+- Grote tekst en afbeeldingen van grootschalige tekst: contrastverhouding van ten minste 3:1
 
 ## Koppelingsdoel (alleen koppeling)
 

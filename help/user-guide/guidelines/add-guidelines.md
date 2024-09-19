@@ -4,13 +4,13 @@ description: Leer hoe te om richtlijnen toe te voegen - [!DNL Brands],  [!DNL Pr
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
+exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
+source-git-commit: 7fd93bae4d81021d328e941710152e7d3aa20b76
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
-
 
 # Richtlijnen toevoegen
 
@@ -25,6 +25,9 @@ Het toevoegen van richtlijnen aan GenStudio for Performance Marketers is een bel
 Om een merk aan GenStudio voor de Marketers van Prestaties toe te voegen, kunt u [ een merkgids ](#upload-brand-guidelines) uploaden of [ manueel tot een merk ](#manually-add-brand) leiden door richtlijnen te selecteren en uw merkdetails in te gaan. [ Publish a merk ](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
 
 Klik in het linkernavigatiegebied op **[!DNL Brands]** . In het _[!DNL Brands]_paneel, uitgezochte **voeg merk**toe.
+
+>[!TIP]
+>Elk merk werkt onafhankelijk zonder hiërarchische relaties. Als u submerken onder een bovenliggend merk wilt maken, neemt u tijdens het ontwerpproces de informatie van het bovenliggende merk op.
 
 ### Merk toevoegen via uploaden
 

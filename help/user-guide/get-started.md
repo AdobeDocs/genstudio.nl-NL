@@ -4,7 +4,7 @@ description: Leer hoe u GenStudio for Performance Marketers instelt om nieuwe ma
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
 workflow-type: tm+mt
 source-wordcount: '1106'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Drie soorten GenStudio for Performance Marketers-gebruikersrollen ondersteunen d
 
 ### GenStudio-editors
 
-**Editors** hebben de kerntoestemmingen nodig om GenStudio voor de Marketers van Prestaties [!DNL Brands], [!DNL Campaigns], en [!DNL Content] activa tot stand te brengen. Ze kunnen ook elementen die ze hebben gemaakt bewerken en verwijderen. GenStudio for Performance Marketers ondersteunt het snel maken van honderden stukken inhoud. Deze gebruikers kunnen inhoudsfragmenten of hele ervaringen genereren die afzonderlijke goedgekeurde inhoud ordenen om aan de behoeften van specifieke marketingcampagnes te voldoen.
+**Editors** hebben de kerntoestemmingen nodig om GenStudio voor de Marketers van Prestaties [!DNL Brands], [!DNL Campaigns], en [!DNL Content] activa tot stand te brengen. Ze kunnen ook elementen die ze hebben gemaakt bewerken en verwijderen. GenStudio for Performance Marketers ondersteunt het snel maken van honderden stukken inhoud. Deze gebruikers kunnen inhoudssecties of hele ervaringen genereren die afzonderlijke stukken goedgekeurde inhoud ordenen om aan de behoeften van specifieke marketingcampagnes te voldoen.
 
 De redacteurs staan met GenStudio voor de generatieve technologieën van AI van de Marketers van Prestaties door _het veroorzaken_ in wisselwerking. Het snelle gebied op het canvas verstrekt hulpmiddelen om herinneringen in de context van een specifieke campagnerichtlijnen te plaatsen. Als gevolg hiervan is de kwaliteit en het succes van gegenereerde inhoud gedeeltelijk afhankelijk van de kwaliteit van de merkrichtlijnen die uw organisatie heeft geüpload en de specificiteit van uw vraag.
 

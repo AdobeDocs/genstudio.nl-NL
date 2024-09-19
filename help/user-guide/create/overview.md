@@ -3,9 +3,9 @@ title: Overzicht van GenStudio for Performance Marketers  [!DNL Create]
 description: Snel krachtige, on-brand inhoud met generatieve AI in Adobe GenStudio voor de Marketers van Prestaties  [!DNL Create] produceren.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -103,6 +103,12 @@ GenStudio voor de Marketers van Prestaties leidt merkbevestiging op diverse aspe
 De wettelijke overzichten, de commentaren van het spooroverzicht, en verkrijgen goedkeuringen tijdens het creatieproces met ingebouwde [ Herzieningen en goedkeuringen ](/help/user-guide/approvals/overview.md) functionaliteit.
 
 Nadat u klaar bent met het genereren van variaties in de inhoud, stuurt u uw concepten ter goedkeuring naar de belanghebbenden zodat deze kunnen worden opgeslagen in [!DNL Content] en geïmplementeerd bij marketingactiviteiten.
+
+### Varianten beheren
+
+GenStudio voor de Marketers van Prestaties staat [ uitvoerige controle over secties van individuele varianten ](/help/user-guide/create/manage-variants.md) toe.
+
+U kunt secties van één enkele variant herzien, de inhoud van individuele secties opnieuw produceren en gesuggereerde uitgeeft gebruiken om het bericht, de grootte activa, en meer, allen binnen het Canvas te verbeteren.
 
 ## Tutorials
 

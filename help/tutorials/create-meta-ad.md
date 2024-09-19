@@ -1,15 +1,15 @@
 ---
 title: Een meta-advertentie maken
-description: Leer hoe u een nieuwe on-brand Meta-advertentie maakt—voor Facebook of Instagram—met generatieve AI.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Leer hoe u onmerkbare metagegevens maakt—voor Facebook of Instagram—met Adobe GenStudio voor Performance Marketers.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: c102556fb1c95b70dc724252e4ecdc9ce10c89e7
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '930'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
    * Klik op **[!UICONTROL Select from content]** om elementen (afbeeldingen) te selecteren die al zijn gepubliceerd naar [!DNL Content] . Gebruik de filters om de zoekresultaten verder te verfijnen.
    * Klik op **[!UICONTROL Upload]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. U kunt uw apparaat ook importeren vanuit Microsoft OneDrive of Dropbox.
    * De belemmering en laat vallen activa in de _Inhoud_ sectie.
+1. Klik op **[!UICONTROL Use]**.
 
 Wanneer u klaar bent toevoegend parameters, kunt u het snelle gebied doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
 
@@ -67,7 +68,7 @@ Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd doo
 
 Wanneer u een Meta-advertentie genereert, kunt u kiezen tussen Facebook- of Instagram-advertenties.
 
-Wissel de optie van het Meta-advertentiekanaal in de hoogste menubar aan **Facebook** of **Instagram** om de geproduceerde concepten van elk kanaal te beheren.
+Wissel het kanaal van Meta-advertenties optie-tussen **Facebook** en **Instagram**-in de juiste menubar (de pictogrammen van Facebook en van Instagram) om varianten voor elk kanaal te zien en te beheren.
 
 Wanneer [ het herzien van de advertenties van Meta ](#revise-generated-meta-ads), kunt u de aspectverhouding van de advertenties van Facebook en van Instagram veranderen.
 
@@ -77,14 +78,13 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
-* **om Meta uit te geven en ontwerp naam**, klik in de _Naamloze titel van het Ontwerp_ bij de bovenkant van het Canvas en ga een nieuwe titel in.
-* **om een Meta-advertentie** manueel uit te geven, klik in om het even welke advertentiefragmenten (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
-
-  Voor het bewerken van de onderwerpregel en de voorheader is slechts één klik nodig, terwijl voor de koptekst en de hoofdtekst een dubbelklik vereist is.
-
-* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag aan actieknoop en selecteer van een beschikbare knoop.
-* **om de grootte en aspectverhouding** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
-* **om een advertentie van Meta** te schrappen, klik om de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
+* **[ om Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **om [ manueel uit te geven een Meta advertentie](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
+* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_een URL in voor de aanroepingstekst.
+* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+* **[ om aMeta te schrappen advertentie](/help/user-guide/create/manage-variants.md#delete-variant)**, de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te klikken en **[!UICONTROL Delete variant]** te klikken.
 
 ## De uitlijning van merken controleren
 
@@ -93,7 +93,7 @@ Om de geproduceerde advertenties te optimaliseren en strikte gehechtheid aan mer
 **om brandgroepering** te verifiëren:
 
 1. Klik op het pictogram [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) voor een variant en bekijk een overzicht van de prestaties van die variant wanneer deze wordt gecontroleerd op uw merk.
-1. Om de details van de fragmenten en de richtlijnen te krijgen die verbetering vereisen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
+1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
 
 1. U kunt elke advertentie doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat de inhoud meer op het merk wordt afgestemd.
 1. [ herzien manueel advertenties ](#revise-generated-meta-ads) om uw advertenties te verzekeren dicht met uw merk wordt gericht.

@@ -3,9 +3,9 @@ title: Merkwaardvalidatie in Adobe GenStudio voor prestatie-markeertekens
 description: Leer hoe het ingebouwde systeem voor merkvalidatie werkt in GenStudio for Performance Marketers.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -32,22 +32,22 @@ Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
 ## Deelvenster Handtekeningvalidatie
 
-Het _paneel van de Bevestiging van de Merk_ verstrekt gedetailleerde informatie van de brandbevestiging en belicht kansen voor verbetering voor elk variantfragment.
+Het _paneel van de Bevestiging van de Merk_ verstrekt gedetailleerde informatie van de brandbevestiging en illumineert kansen voor verbetering voor elke variantsectie.
 
 Het _paneel van de Bevestiging van de Merk_ toont informatie voor:
 
 * **E-mail**:
-   * Fragment onderwerpregel
-   * Preheader-fragment
-   * Koptekstfragment
-   * Tekstfragment
-   * CTA-fragment (call to action)
+   * Onderwerpsectie
+   * Sectie Preheader
+   * Sectie Koptekst
+   * Hoofdgedeelte
+   * CTA-sectie (oproepen tot actie)
    * Richtlijnen voor spraak van merken
 * **Meta en**:
-   * Koptekstfragment
-   * Fragment voor bodykopie
-   * CTA-fragment (call to action)
-   * Tekstfragment in afbeelding
+   * Sectie Titel
+   * Sectie Hoofdtekst
+   * CTA-sectie (oproepen tot actie)
+   * Tekstsectie Op afbeelding
 
 Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
@@ -66,7 +66,7 @@ In het _paneel van de Bevestiging van de Merk_ kunt u filteren welke richtlijnen
 
 ## De uitlijning van merken verbeteren
 
-Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _controle van de richtlijnen van het Merk_ en het _paneel van de Bevestiging van het Merk_. U kunt specifieke fragmenten manueel wijzigen om met uw [ merkrichtlijnen ](brands.md) te richten.
+Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _controle van de richtlijnen van het Merk_ en het _paneel van de Bevestiging van het Merk_. U kunt specifieke secties manueel wijzigen om met uw [ merkrichtlijnen ](brands.md) te richten.
 
 **om merkgroepering voor geproduceerde inhoudsvarianten te verbeteren**:
 
@@ -74,24 +74,24 @@ Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare mer
 
    Zie een samenvatting van hoe die specifieke variant presteert-richtlijnen die merkbevestiging en die overgaan die revisie-wanneer gecontroleerd tegen uw merk.
 
-1. Om de details van de fragmenten en de richtlijnen te krijgen die verbetering vereisen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het _paneel van de Bevestiging van het Merk_ te openen.
+1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ het pictogram van de Bevestiging van het Merk in hoogste menubar om het _paneel van de Bevestiging van het Merk_ te openen.
 
-   Bekijk alle fragmenten en merkrichtlijnen die uw aandacht nodig hebben. Het in het deelvenster gemarkeerde fragment komt overeen met het fragment dat is gemarkeerd in de gegenereerde variant op het canvas.
+   Zie alle secties en merkrichtlijnen die u aandacht behoeven. De sectie die in het deelvenster wordt gemarkeerd, komt overeen met de sectie die is gemarkeerd in de gegenereerde variant op het canvas.
 
    >[!NOTE]
    >
-   > De _stem van het Merk_ richtlijn die in het _wordt genoteerd het bevestigingspaneel van het Merk_ is op de volledige variant, niet een individueel fragment van toepassing. De volledige inhoudvariant wordt gemarkeerd voor een voorgestelde verbetering.
+   > De _stem van het Merk_ richtlijn die in het _wordt genoteerd paneel van de Bevestiging van het Merk_ is op de volledige variant, niet een individuele sectie van toepassing. De volledige inhoudvariant wordt gemarkeerd voor een voorgestelde verbetering.
 
-1. Corrigeer handmatig de variantfragmenten om deze zo sterk mogelijk op uw merk af te stemmen.
+1. Wijzig handmatig de variantsecties om deze zo sterk mogelijk aan te passen aan uw merk.
 
 1. Nadat u de wijzigingen hebt aangebracht, klikt u op **[!UICONTROL Re-check]** om uw wijzigingen te valideren en ervoor te zorgen dat deze meer op uw merkidentiteit zijn afgestemd.
 
-   Het merkvalidatieproces wordt opnieuw uitgevoerd. Als het fragment/de richtlijn bevestiging overgaat, verschijnt een groen controleteken voor dat fragment in het _paneel van de Bevestiging van de Merk_. Het percentage in de _pictogram van de de richtingcontrole van het Merk_ voor de herziene variant toont ook uw vooruitgang.
+   Het merkvalidatieproces wordt opnieuw uitgevoerd. Als de sectie/de richtlijn bevestiging overgaat, verschijnt een groen controleteken voor die sectie in het _paneel van de Bevestiging van de Merk_. Het percentage in de _pictogram van de de richtingcontrole van het Merk_ voor de herziene variant toont ook uw vooruitgang.
 
-1. Ga door met het reviseren van fragmenten om ervoor te zorgen dat de hele variant de validatie van het merk doorgeeft.
+1. Ga door met het reviseren van secties om ervoor te zorgen dat de hele variant de validatie van het merk doorgeeft.
 
    Navigeer tussen richtlijnen in het _paneel van de Bevestiging van de Merk_ gebruikend de **[!UICONTROL Next]** en **[!UICONTROL Previous]** knopen.
 
-1. Bij de bovenkant van het _paneel van de Bevestiging van de Merk_, navigeer door elke variant gebruikend de pijlen (bijvoorbeeld, gebruik de pijl om zich van `Email 1` aan `Email 2` te bewegen) en verder reviserend fragmenten aan uw merk beter te houden.
+1. Bij de bovenkant van het _paneel van de Bevestiging van de Merk_, navigeer door elke variant gebruikend de pijlen (bijvoorbeeld, gebruik de pijl om zich van `Email 1` aan `Email 2` te bewegen) en verder het herzien secties aan uw merk beter te houden.
 
    Zie [ de stemrichtlijnen van het Merk ](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) voor meer informatie over overwogen richtlijnen.

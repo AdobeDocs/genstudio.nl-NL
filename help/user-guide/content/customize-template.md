@@ -3,13 +3,13 @@ title: Een sjabloon aanpassen
 description: Leer hoe u uw sjabloon kunt aanpassen en optimaliseren voor Adobe GenStudio voor Performance Marketers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
+exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
+source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
 
 ---
-
 
 # Een sjabloon aanpassen
 
@@ -98,21 +98,21 @@ _secties_ informeren GenStudio voor de Marketers van Prestaties dat de gebieden 
 
 Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld deel uitmaakt van een sectie of groep. U kunt bijvoorbeeld de inhoud van een gemarkeerd gebied als spotlight instellen:
 
-- `spotlight_headline`
-- `spotlight_body`
+- `pod1_headline`
+- `pod1_body`
 
-Elke sectie kan slechts één van elk gebiedstype gebruiken. In het bovenstaande voorbeeld kan de sectie `spotlight` slechts één `spotlight_headline` -veld gebruiken.
+Elke sectie kan slechts één van elk gebiedstype gebruiken. In het bovenstaande voorbeeld kan de sectie `pod1` slechts één `pod1_headline` -veld gebruiken.
 
 Een sjabloon kan maximaal drie secties bevatten:
 
 - `headline`
 - `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
+- `pod1_headline`
+- `pod1_body`
+- `pod2_headline`
+- `pod2_body`
 
-GenStudio for Performance Marketers begrijpt dat `spotlight_headline` nauwer verwant is aan `spotlight_body` dan aan `news_body` .
+GenStudio for Performance Marketers begrijpt dat `pod1_headline` nauwer verwant is aan `pod1_body` dan aan `pod2_body` .
 
 ## Sjabloonvoorbeeld
 
@@ -224,14 +224,18 @@ In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee s
                 width="600" height="600"
                 border="0"/></p>
         <p>{{ body }}</p>
+    <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_headline }}</h2>
-            <p>This is Pod 1 content.</p>
+            <h2>{{ pod1_header }}</h2>
+            <p>{{ pod1_body }}</p>
         </div>
+        <!-- End of Pod1 -->
+    <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_headline }}</h2>
-            <p>This is Pod 2 content.</p>
+            <h2>{{ pod2_header }}</h2>
+            <p>{{ pod2_body }}</p>
         </div>
+        <!-- End of Pod2 -->
     </div>
 </body>
 </html>
@@ -293,4 +297,3 @@ Hier volgt een eenvoudig voorbeeld van een advertentiesjabloon van Meta. De kop 
 ```
 
 +++
-

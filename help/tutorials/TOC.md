@@ -1,20 +1,20 @@
 ---
-user-guide-title: Adobe  [!DNL GenStudio]  Tutorials
+user-guide-title: Adobe GenStudio voor zelfstudies voor het op de markt brengen van prestaties
 breadcrumb-title: Tutorials
-user-guide-description: De zelfstudies van het Experience League van de mening op Adobe  [!DNL GenStudio], een oplossing van begin tot eind om uw ketting van de inhoudslevering met generatieve AI en intelligente automatisering te versnellen en te vereenvoudigen.
+user-guide-description: Bekijk zelfstudies voor GenStudio for Performance Marketing, een end-to-end oplossing om de toeleveringsketen van content te versnellen en te vereenvoudigen met behulp van generatieve AI en intelligente automatisering.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 4%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
 
-# Adobe [!DNL GenStudio] Tutorials {#learning}
+# Adobe GenStudio voor Performance Marketing Tutorials {#learning}
 
-+ [[!DNL GenStudio] Tutorials](tutorials.md)
++ [GenStudio for Performance Marketing Tutorials](tutorials.md)
 + [Een e-mailervaring maken](create-email-experience.md)
 + [Een meta-advertentie maken](create-meta-ad.md)
-+ [[!DNL GenStudio]  Gids van de Gebruiker ](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
++ [ GenStudio voor de Gids van de Gebruiker van de Marketing van Prestaties ](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)

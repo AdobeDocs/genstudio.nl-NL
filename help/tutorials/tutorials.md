@@ -1,19 +1,19 @@
 ---
-title: Adobe GenStudio voor krachtige Tutorials
-description: Leer hoe u een end-to-end proces voltooit, zoals het creëren van een e-mailervaring, door de zelfstudies van GenStudio for Performance Marketers te volgen.
+title: Adobe GenStudio voor Performance Marketing Tutorials
+description: Leer hoe u een end-to-end proces voltooit, zoals het creëren van een e-mailervaring, door GenStudio for Performance Marketing-zelfstudies te volgen.
 exl-id: f4afb6c8-67d0-4499-84e8-0ab819543b59
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Zelfstudies voor Adobe GenStudio voor prestatiemarkeringen
+# Adobe GenStudio voor zelfstudies voor het op de markt brengen van prestaties
 
-De Adobe GenStudio voor de Zelfstudies van de Marketers van Prestaties volgt basisgeleidelijke werkschema&#39;s die verbindingen aan diepere concepten in de gebruikersgids bevatten.
+De Adobe GenStudio voor de Marketing van Prestaties leidt tot zelfstudies die basisgeleidelijke werkschema&#39;s volgen die verbindingen aan diepere concepten in de gebruikersgids bevatten.
 
-De zelfstudies in deze handleiding bevatten gedetailleerde concepten, vereisten, aanbevolen procedures en de afzonderlijke stappen die nodig zijn om marketinginhoud van hoge kwaliteit te genereren in GenStudio for Performance Marketers.
+De zelfstudies in deze handleiding bevatten gedetailleerde concepten, vereisten, beste praktijken en de afzonderlijke stappen die nodig zijn om marketinginhoud van hoge kwaliteit te genereren in GenStudio for Performance Marketing.
 
 <table style="table-layout:fixed">
 <td valign="top">

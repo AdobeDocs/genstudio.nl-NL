@@ -1,11 +1,11 @@
 ---
-title: Richtlijnen toevoegen aan de Adobe GenStudio voor prestatiemarkeringen
-description: Leer hoe te om richtlijnen toe te voegen - [!DNL Brands],  [!DNL Products], en  [!DNL Personas] - in Adobe GenStudio voor de Marketers van Prestaties.
+title: Richtlijnen toevoegen aan de Adobe GenStudio voor het op de markt brengen van prestaties
+description: Leer hoe te om richtlijnen toe te voegen - [!DNL Brands],  [!DNL Products], en  [!DNL Personas] - in Adobe GenStudio voor de Marketing van Prestaties.
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 7fd93bae4d81021d328e941710152e7d3aa20b76
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '935'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 # Richtlijnen toevoegen
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md) , [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zijn door de gebruiker gedefinieerde richtlijnen in GenStudio for Performance Marketers die ervoor zorgen dat door AI gegenereerde inhoud wordt aangepast aan de merkidentiteit, waardoor inhoud op effectieve wijze kan worden aangepast.
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md) , [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zijn door de gebruiker gedefinieerde richtlijnen in GenStudio for Performance Marketing die ervoor zorgen dat door AI gegenereerde inhoud wordt aangepast aan de merkidentiteit, waardoor inhoud op effectieve wijze kan worden aangepast.
 
 Zie het [ overzicht van richtlijnen ](/help/user-guide/guidelines/overview.md).
 
-Het toevoegen van richtlijnen aan GenStudio for Performance Marketers is een belangrijke stap in het ontwerpproces. Richtlijnen bepalen het proces voor het maken van inhoud, samen met door de gebruiker gedefinieerde aanwijzingen en Adobe generatieve AI-technologie, voor het maken van onherstelbare elementen.
+Het toevoegen van richtlijnen aan GenStudio for Performance Marketing is een belangrijke stap in het ontwerpproces. Richtlijnen bepalen het proces voor het maken van inhoud, samen met door de gebruiker gedefinieerde aanwijzingen en Adobe generatieve AI-technologie, voor het maken van onherstelbare elementen.
 
 ## Toevoegen [!DNL Brands]
 
-Om een merk aan GenStudio voor de Marketers van Prestaties toe te voegen, kunt u [ een merkgids ](#upload-brand-guidelines) uploaden of [ manueel tot een merk ](#manually-add-brand) leiden door richtlijnen te selecteren en uw merkdetails in te gaan. [ Publish a merk ](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
+Om een merk aan GenStudio voor de Marketing van Prestaties toe te voegen, kunt u [ een merkgids ](#upload-brand-guidelines) uploaden of [ manueel tot een merk ](#manually-add-brand) leiden door richtlijnen te selecteren en uw merkdetails in te gaan. [ Publish a merk ](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
 
 Klik in het linkernavigatiegebied op **[!DNL Brands]** . In het _[!DNL Brands]_paneel, uitgezochte **voeg merk**toe.
 
@@ -31,7 +31,7 @@ Klik in het linkernavigatiegebied op **[!DNL Brands]** . In het _[!DNL Brands]_p
 
 ### Merk toevoegen via uploaden
 
-U kunt uw eigen merkdocumenten uploaden om een nieuw merk te vullen in GenStudio for Performance Marketers.
+U kunt uw eigen merkdocumenten uploaden om een nieuw merk te vullen in GenStudio for Performance Marketing.
 
 Zie [[!DNL Brands]](/help/user-guide/guidelines/brands.md) .
 
@@ -44,13 +44,13 @@ Zie [[!DNL Brands]](/help/user-guide/guidelines/brands.md) .
 
 1. Selecteer **[!UICONTROL Add brand]** .
 
-Met behulp van de generatieve AI-technologie van Adobe haalt GenStudio for Performance Marketers informatie op uit uw geüploade documenten en begint ze uw merk op te bouwen. U ziet merkinformatie, zoals stem van het merk, kanaal, en beeldrichtlijnen bevolken aangezien GenStudio for Performance Marketers elke richtlijn van uw merkdocumenten samenstelt.
+Met behulp van de generatieve AI-technologie van Adobe haalt GenStudio for Performance Marketing informatie uit uw geüploade documenten en begint u uw merk op te bouwen. U ziet merkinformatie, zoals stem van het merk, kanaal, en beeldrichtlijnen bevolken aangezien GenStudio for Performance Marketing elke richtlijn van uw merkdocumenten samenstelt.
 
 Een popup herinnert u eraan om de gehaalde inhoud te herzien alvorens u [ het merk ](#publish-brand) publiceert.
 
 ### Handmatig merk toevoegen
 
-U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande merkdocumenten, om een nieuw [ merk ](brands.md) in GenStudio voor de Marketers van Prestaties te bevolken.
+U kunt merkdetails, in plaats van het uploaden van bestaande merkdocumenten manueel toevoegen, om een nieuw [ merk ](brands.md) in GenStudio voor de Marketing van Prestaties te bevolken.
 
 **om een merk** manueel toe te voegen:
 
@@ -69,7 +69,7 @@ U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande m
 
 Om uw gecreeerde [!DNL Brands] te zien, klik de achterpijl dichtbij de bovenkant van het _Merk_ paneel om terug naar het _[!DNL Brands]_huis te navigeren.
 
-U moet niet [ publiceren ](#publish-brand) uw merk om de informatie toegankelijk te maken. Eventuele handmatig toegevoegde informatie is direct beschikbaar nadat deze is toegevoegd. Anderen in uw organisatie die de merkgegevens in GenStudio for Performance Marketers willen gebruiken, moeten deze publiceren.
+U moet niet [ publiceren ](#publish-brand) uw merk om de informatie toegankelijk te maken. Eventuele handmatig toegevoegde informatie is direct beschikbaar nadat deze is toegevoegd. Anderen in uw organisatie die de merkgegevens in GenStudio for Performance Marketing willen gebruiken, moeten deze publiceren.
 
 ### Publish-merk
 
@@ -97,7 +97,7 @@ In het _[!DNL Brands]_huis, kunt u aan **openen reeds-gecreeerd merk**om het uit
 
 ## Toevoegen [!DNL Products]
 
-U kunt [!DNL Products] toevoegen in GenStudio for Performance Marketers om afzonderlijke productaandachtsgebieden op te geven wanneer u inhoud maakt. <!-- Add Rename, display, reposition functionality -->
+U kunt [!DNL Products] toevoegen in GenStudio for Performance Marketing om afzonderlijke productaandachtsgebieden op te geven wanneer u inhoud maakt. <!-- Add Rename, display, reposition functionality -->
 
 Zie [[!DNL Products]](products.md) .
 
@@ -124,7 +124,7 @@ In _[!DNL Products]_huis, kunt u **openen reeds-gecreeerd[!DNL Product]**om het 
 
 ## Toevoegen [!DNL Personas]
 
-U kunt een [!DNL Persona] in GenStudio for Performance Marketers toevoegen om de inhoud die u maakt, te richten op uw ideale publiek.
+U kunt een [!DNL Persona] in GenStudio for Performance Marketing toevoegen om u te helpen de inhoud die u maakt, te richten op uw ideale publiek.
 
 Zie [[!DNL Personas]](personas.md) .
 

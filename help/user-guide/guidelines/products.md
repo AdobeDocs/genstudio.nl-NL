@@ -1,22 +1,22 @@
 ---
-title: GenStudio for Performance Marketers  [!DNL Products]
-description: GenStudio voor de Marketers van Prestaties  [!DNL Products]  neemt alle aspecten van uw product-beelden, beschrijvingen, en waardevoorstellen-op om relevante inhoud tot stand te brengen die productsterke punten benadrukt en consistentie in productoverseinen handhaaft.
+title: GenStudio for Performance Marketing  [!DNL Products]
+description: GenStudio voor Prestaties die  [!DNL Products]  op de markt brengen neemt alle aspecten van uw product-beelden, beschrijvingen, en waardevoorstellen-op om relevante inhoud tot stand te brengen die productsterke punten benadrukt en consistentie in productoverseinen handhaaft.
 feature: Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
+source-git-commit: 874c6f08b39b6e72d2c3d4ade5a2c78be0fcfa31
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
 
+# GenStudio for Performance Marketing [!DNL Products]
 
-# GenStudio for Performance Marketers [!DNL Products]
+[!DNL Products] in GenStudio for Performance Marketing maakt gebruik van een uitgebreid begrip van productspecificaties, voordelen en differentiatiefactoren om effectvolle inhoud te genereren.
 
-GenStudio for Performance Marketers [!DNL Products] maakt gebruik van een diepgaand begrip van productspecificaties, voordelen en differentiatiefactoren om effectvolle inhoud te genereren.
+[!DNL Products] omvat alle elementen van een specifiek product, zoals beelden, beschrijvingen, en waardevoorstellen, om een samenhangende merkvertegenwoordiging tot stand te brengen. De geavanceerde technologie van AI van de hefboomwerking van de Adobe, GenStudio voor de Marketing van Prestaties - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](/help/user-guide/guidelines/overview.md) - werk samen om dwingende inhoud te produceren die de sterke punten van uw producten toont en consistentie over al overseinen verzekert.
 
-[!DNL Products] omvat alle elementen van een specifiek product, zoals beelden, beschrijvingen, en waardevoorstellen, om een samenhangende merkvertegenwoordiging tot stand te brengen. De geavanceerde technologie van AI van de hefboomwerking, GenStudio voor de richtlijnen van de Marketers van Prestaties - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](/help/user-guide/guidelines/overview.md) - werk samen om dwingende inhoud te produceren die de sterke punten van uw producten toont en consistentie over al overseinen verzekert.
-
-![[!DNL Products] Richtlijnen in GenStudio for Performance Marketers ](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Products] Richtlijnen in GenStudio for Performance Marketing ](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **om een product** te bekijken of te wijzigen:
 
@@ -24,11 +24,11 @@ GenStudio for Performance Marketers [!DNL Products] maakt gebruik van een diepga
 1. Om [ individuele details te bekijken of een product ](add-guidelines.md#manage-products) te wijzigen, klik het _[!DNL Products]_actiemenu en selecteer **[!UICONTROL Open]**.
 1. Wijzig de productrichtlijnen door in het tekstveld voor de categorie Richtlijnen te klikken.
 
-Zie [ richtlijnen ](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio voor de Marketers van Prestaties toe te voegen of te wijzigen.
+Zie [ richtsnoeren ](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio voor de Marketing van Prestaties toe te voegen of te wijzigen.
 
 ## [!DNL Products] richtlijnen
 
-Afzonderlijke productrichtlijnen geven GenStudio for Performance Marketers een duidelijk beeld van je producten.
+GenStudio for Performance Marketing geeft een duidelijk beeld van uw producten met de toevoeging van afzonderlijke productrichtlijnen.
 
 In deze richtlijnen worden elke categorie richtlijnen en verwante voorbeelden nader beschreven. De voorbeelden zijn voorbeeldinvoer die vorm geven aan de uitvoer van gegenereerde inhoud. Gebruik deze om uw [!DNL Products] -richtlijnen op de hoogte te brengen.
 

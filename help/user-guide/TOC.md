@@ -1,13 +1,13 @@
 ---
-user-guide-title: Gebruikershandleiding voor Adobe GenStudio voor prestatiemarkeringen
+user-guide-title: Gebruikershandleiding voor Adobe GenStudio voor prestatiemarketeers
 breadcrumb-title: Gebruikershandleiding
-user-guide-description: Leer hoe u snel online middelen kunt vinden en genereren, variaties kunt maken en ervaringen kunt optimaliseren op basis van real-time inzichten in de prestaties van content.
+user-guide-description: Meer informatie over hoe u snel merkgerichte assets kunt vinden en genereren, variaties kunt creëren en ervaringen kunt optimaliseren op basis van realtime-inzichten in de prestaties van content.
 feature-set: GenStudio
 feature: Generative AI
 source-git-commit: 81cbd495027e50afae2a178d4465703f3df0c950
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 2%
+ht-degree: 23%
 
 ---
 

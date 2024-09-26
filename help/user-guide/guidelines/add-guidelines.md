@@ -5,9 +5,9 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
+source-git-commit: 448c5f9d090d34107199baf23b150447635d1ed5
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '1465'
 ht-degree: 0%
 
 ---
@@ -22,16 +22,16 @@ Het toevoegen van richtlijnen aan GenStudio for Performance Marketing is een bel
 
 ## Toevoegen [!DNL Brands]
 
-Om een merk aan GenStudio voor de Marketing van Prestaties toe te voegen, kunt u [ een merkgids ](#upload-brand-guidelines) uploaden of [ manueel tot een merk ](#manually-add-brand) leiden door richtlijnen te selecteren en uw merkdetails in te gaan. [ Publish a merk ](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
+Om een merk toe te voegen, [ upload een merkgids ](#upload-a-brand) of [ creeer manueel een merk ](#manually-add-brand) door richtlijnen te selecteren en uw merkdetails in te gaan. [ Publish a merk ](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
 
 Klik in het linkernavigatiegebied op **[!DNL Brands]** . In het _[!DNL Brands]_paneel, uitgezochte **voeg merk**toe.
 
 >[!TIP]
 >Elk merk werkt onafhankelijk zonder hiërarchische relaties. Als u submerken onder een bovenliggend merk wilt maken, neemt u tijdens het ontwerpproces de informatie van het bovenliggende merk op.
 
-### Merk toevoegen via uploaden
+### Een merk uploaden
 
-U kunt uw eigen merkdocumenten uploaden om een nieuw merk te vullen in GenStudio for Performance Marketing.
+U kunt uw eigen merkdocumenten uploaden om een nieuw merk te vullen.
 
 Zie [[!DNL Brands]](/help/user-guide/guidelines/brands.md) .
 
@@ -44,13 +44,13 @@ Zie [[!DNL Brands]](/help/user-guide/guidelines/brands.md) .
 
 1. Selecteer **[!UICONTROL Add brand]** .
 
-Met behulp van de generatieve AI-technologie van Adobe haalt GenStudio for Performance Marketing informatie uit uw geüploade documenten en begint u uw merk op te bouwen. U ziet merkinformatie, zoals stem van het merk, kanaal, en beeldrichtlijnen bevolken aangezien GenStudio for Performance Marketing elke richtlijn van uw merkdocumenten samenstelt.
+Met behulp van de generatieve AI-technologie van Adobe haalt GenStudio for Performance Marketing informatie uit uw geüploade documenten en begint u uw merk op te bouwen. U ziet merkinformatie, zoals stem van het merk, kanaal, en beeldrichtlijnen, bevolken aangezien elke richtlijn van uw merkdocumenten wordt samengesteld.
 
 Een popup herinnert u eraan om de gehaalde inhoud te herzien alvorens u [ het merk ](#publish-brand) publiceert.
 
 ### Handmatig merk toevoegen
 
-U kunt merkdetails, in plaats van het uploaden van bestaande merkdocumenten manueel toevoegen, om een nieuw [ merk ](brands.md) in GenStudio voor de Marketing van Prestaties te bevolken.
+U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande merkdocumenten, om een nieuw [ merk ](brands.md) te bevolken.
 
 **om een merk** manueel toe te voegen:
 
@@ -97,23 +97,65 @@ In het _[!DNL Brands]_huis, kunt u aan **openen reeds-gecreeerd merk**om het uit
 
 ## Toevoegen [!DNL Products]
 
+Om een product toe te voegen, [ upload een productgids ](#upload-a-product) of [ creeer manueel een product ](#manually-add-product) door richtlijnen te selecteren en uw productdetails in te gaan.
+
+Klik in het linkernavigatiegebied op **[!DNL Products]** . In het _[!DNL Products]_paneel, uitgezochte **voeg product**toe.
+
 U kunt [!DNL Products] toevoegen in GenStudio for Performance Marketing om afzonderlijke productaandachtsgebieden op te geven wanneer u inhoud maakt. <!-- Add Rename, display, reposition functionality -->
 
 Zie [[!DNL Products]](products.md) .
 
-**om a toe te voegen[!DNL Product]**:
+### Een product uploaden
 
-1. Klik op **[!UICONTROL Create product]**.
-1. Klik op **[!UICONTROL Untitled]** en voer een naam in voor de [!DNL Product] .
-1. Klik in _Beschrijving_ en ga een beschrijving van dit [!DNL Product] in.
+U kunt productdocumenten uploaden om nieuwe producten te vullen.
+
+Zie [[!DNL Products]](/help/user-guide/guidelines/products.md) .
+
+**om productdocumenten** te uploaden:
+
+1. Selecteer de **[!UICONTROL Add product]** knoop en kies **PDF** uploaden.
+1. Klik op **[!UICONTROL Continue]**.
+1. In _voeg uw product_ popup toe, maak of sleep in uw productdocument vast.
+
+   U kunt maximaal vijf PDF-bestanden met maximaal 500 MG aan elkaar koppelen.
+
+1. Selecteer **[!UICONTROL Add products]** .
+
+   Met behulp van de generatieve AI-technologie van Adobe haalt GenStudio for Performance Marketing informatie uit uw geüploade documenten en begint het met het samenstellen van uw producten.
+
+   Er wordt een pop-up weergegeven met de voortgang van het uitnemen van het product uit uw documenten.
+
+1. In _de producten van de Bouw_ popup, schrap onttrokken producten u niet wilt gebruiken of producten anders noemen zoals gewenst.
+1. Als een product ontbreekt, klikt u op **[!UICONTROL Add name]** en voert u de naam van het ontbrekende product in.
+1. Klik op **[!UICONTROL Confirm]**.
+
+   Een pop-up herinnert u om de onttrokken producten te verifiëren en te herzien.
+
+### Product handmatig toevoegen
+
+U kunt productdetails, in plaats van het uploaden van bestaande productdocumenten manueel toevoegen, om een nieuw [ product ](products.md) in GenStudio for Performance Marketing te bevolken.
+
+**om een product** manueel toe te voegen:
+
+1. Selecteer de knop **[!UICONTROL Add brand]** en kies **[!UICONTROL Add manually]** .
+1. Klik op **[!UICONTROL Continue]**.
+
+   U kunt verschillende optionele richtlijnen en afbeeldingen vullen om uw product te ontwikkelen.
+
+1. Klik op **[!UICONTROL New product name]** en voer een naam in voor de [!DNL Product] .
+1. Klik in _Beschrijving_ en ga een beschrijving van dit [!DNL product] in.
 1. Klik in _Voorstelling van de Waarde_ en ga details over de waarde van het product in.
-1. Klik in _Extra details_ en ga details cruciaal voor gepersonaliseerde inhoudsgeneratie in.
+Klik in _voorkeur van het Overseinen_ en ga overseinendetails voor [!DNL product] in.
 1. Als u de miniatuur wilt bewerken, beweegt u de muisaanwijzer over de miniatuur van de afbeelding en kiest u **[!UICONTROL Edit thumbnail]** in het menu Handelingen miniatuur.
    1. Upload een nieuw beeld of verwijder het bestaande geuploade beeld in _uploadt_ tabel.
    1. Kies een beeld van de galerij in de _Galerij_ tabel.
-1. Klik op **[!UICONTROL Use image]**.
+   1. Klik op **[!UICONTROL Use image]**.
+1. Als u de omslagafbeelding wilt bewerken, beweegt u de muisaanwijzer over de omslag en kiest u in het menu Omslagacties de optie **[!UICONTROL Edit cover]** .
+   1. Upload een nieuw beeld of verwijder het bestaande geuploade beeld in _uploadt_ tabel.
+   1. Kies een beeld van de galerij in de _Galerij_ tabel en klik **[!UICONTROL Use image]**.
+   1. Als u de positie van de omslagafbeelding wilt wijzigen, klikt u op **[!UICONTROL Reposition]** , sleept u de afbeelding naar de gewenste positie en klikt u op **[!UICONTROL Save]** .
 
-   Om uw gecreeerde [!DNL Products] te zien, klik de achterpijl dichtbij de bovenkant van de _mening van het Product_ om terug naar het _[!DNL Products]_huis te navigeren.
+   Om uw gecreeerde [!DNL products] te zien, klik de achterpijl dichtbij de bovenkant van de _mening van het Product_ om terug naar het _[!DNL Products]_huis te navigeren.
 
 ### [!DNL Products] beheren
 
@@ -121,30 +163,75 @@ In _[!DNL Products]_huis, kunt u **openen reeds-gecreeerd[!DNL Product]**om het 
 
 * Selecteer **[!UICONTROL Open]** in het actiemenu [!DNL Products] om een bestaand product te reviseren en te bekijken.
 * Selecteer **[!UICONTROL Delete]** van het [!DNL Products] actiemenu **schrapping** een product.
+* 
+   * Selecteer **[!UICONTROL Rename]** van het [!DNL Products] actiemenu **anders noemen** een product.
 
 ## Toevoegen [!DNL Personas]
+
+Om een persona toe te voegen, [ upload een persoonlijke gids ](#upload-a-persona) of [ manueel creeer een persona ](#manually-add-persona) door richtlijnen te selecteren en uw persona details in te gaan.
+
+Klik in het linkernavigatiegebied op **[!DNL Personas]** . In het _[!DNL Personas]_paneel, uitgezocht **voeg persona**toe.
 
 U kunt een [!DNL Persona] in GenStudio for Performance Marketing toevoegen om u te helpen de inhoud die u maakt, te richten op uw ideale publiek.
 
 Zie [[!DNL Personas]](personas.md) .
 
-**om a toe te voegen[!DNL Persona]**:
+### Een persona uploaden
 
-1. Klik op **[!UICONTROL Create persona]**.
-1. Klik op **[!UICONTROL Untitled]** en voer een naam in voor de [!DNL Persona] .
+U kunt uw eigen persoonlijke documenten uploaden om nieuwe personen te vullen.
+
+Zie [[!DNL Personas]](/help/user-guide/guidelines/personas.md) .
+
+**om persona documenten** te uploaden:
+
+1. Selecteer de **[!UICONTROL Add persona]** knoop en kies **PDF** uploaden.
+1. Klik op **[!UICONTROL Continue]**.
+1. In _voeg uw persoonlijke popup toe, maak of sleep in uw persoonlijk document vast.
+
+   U kunt maximaal vijf PDF-bestanden met maximaal 500 MG aan elkaar koppelen.
+
+1. Selecteer **[!UICONTROL Add personas]** .
+
+   Met behulp van de generatieve AI-technologie van Adobe haalt GenStudio for Performance Marketing informatie uit uw geüploade documenten en begint het maken van uw persoonlijke gegevens.
+
+   Er wordt een pop-up weergegeven met de voortgang van de persoonlijke extractie uit uw documenten.
+
+1. In _de persona&#39;s van de Bouw_ popup die verschijnt, schrap onttrokken personas u niet personas gebruiken of wilt anders noemen zoals gewenst.
+1. Als een persoon ontbreekt, klikt u op **[!UICONTROL Add name]** en voert u de naam van de ontbrekende persoon in.
+1. Klik op **[!UICONTROL Confirm]**.
+
+   Nadat de extractie is voltooid, wordt u via een pop-up herinnerd aan de geëxtraheerde personen en worden deze gecontroleerd.
+
+### Handmatig persona toevoegen
+
+U kunt persona details, in plaats van het uploaden van bestaande persona documenten manueel toevoegen, om een nieuwe [ persona ](personas.md) te bevolken.
+
+**om een persona** manueel toe te voegen:
+
+1. Selecteer de knop **[!UICONTROL Add persona]** en kies **[!UICONTROL Add manually]** .
+1. Klik op **[!UICONTROL Continue]**.
+
+   U kunt verschillende optionele richtlijnen en afbeeldingen vullen om uw persona uit te bouwen.
+
+1. Voeg informatie over uw merk in de _sectie van de Beschrijving_ toe.
+1. Klik op **[!UICONTROL New persona name]** en voer een naam in voor de [!DNL Persona] .
 1. Klik in _Beschrijving_ en ga een beschrijving van dit [!DNL Persona] in.
 1. Klik in _voorkeur van het Overseinen_ en ga overseinendetails voor [!DNL Persona] in.
-1. Klik in _Extra details_ en ga details cruciaal voor gepersonaliseerde inhoudsgeneratie in.
-1. Om de duimnagel uit te geven, houd over de beeldduimnagel en van de _acties van de Duimnagel_ uitgezocht menu **[!UICONTROL Edit thumbnail]**.
+1. Als u de miniatuur wilt bewerken, beweegt u de muisaanwijzer over de miniatuur van de afbeelding en kiest u **[!UICONTROL Edit thumbnail]** in het menu Handelingen miniatuur.
    1. Upload een nieuw beeld of verwijder het bestaande geuploade beeld in _uploadt_ tabel.
    1. Kies een beeld van de galerij in de _Galerij_ tabel.
-1. Klik op **[!UICONTROL Use image]**.
+   1. Klik op **[!UICONTROL Use image]**.
+1. Als u de omslagafbeelding wilt bewerken, beweegt u de muisaanwijzer over de omslag en kiest u in het menu Omslagacties de optie **[!UICONTROL Edit cover]** .
+   1. Upload een nieuw beeld of verwijder het bestaande geuploade beeld in _uploadt_ tabel.
+   1. Kies een beeld van de galerij in de _Galerij_ tabel en klik **[!UICONTROL Use image]**.
+   1. Als u de positie van de omslagafbeelding wilt wijzigen, klikt u op **[!UICONTROL Reposition]** , sleept u de afbeelding naar de gewenste positie en klikt u op **[!UICONTROL Save]** .
 
-Om uw gecreeerde [!DNL Personas] te zien, klik de achterpijl dichtbij de bovenkant van de _Persona_ mening om terug naar het _[!DNL Personas]_huis te navigeren.
+   Om uw gecreeerde [!DNL Personas] te zien, klik de achterpijl dichtbij de bovenkant van de _Persona_ mening om terug naar het _[!DNL Personas]_huis te navigeren.
 
 ### [!DNL Personas] beheren
 
-In het _[!DNL Personas]_huis, kunt u **reeds-gecreeerd[!DNL Persona]**openen om het uit te geven of te herzien of **een persoon**van de lijst te schrappen:
+In _[!DNL Personas]_huis, kunt u **openen reeds-gecreeerd[!DNL Persona]**om het uit te geven of te herzien, of **een persoon**van de lijst schrappen:
 
-* Selecteer **[!UICONTROL Open]** in het [!DNL Personas] actiemenu om een bestaand bestand te reviseren en te bekijken [!DNL Persona] .
-* Selecteer **[!UICONTROL Delete]** in het actiemenu [!DNL Personas] om een [!DNL Persona] te verwijderen.
+* Selecteer **[!UICONTROL Open]** in het actiemenu [!DNL Personas] om een bestaande persoon te reviseren en te bekijken.
+* Selecteer **[!UICONTROL Delete]** van het [!DNL Personas] actiemenu aan **Schrapping** een persoon.
+* Selecteer **[!UICONTROL Rename]** van het [!DNL Personas] actiemenu **anders noemen** een persoon.

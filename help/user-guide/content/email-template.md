@@ -3,13 +3,13 @@ title: Een e-mailsjabloon voorbereiden voor Adobe GenStudio voor prestatieverkop
 description: Leer hoe u een aangepaste e-mailsjabloon maakt voor Adobe GenStudio voor prestatieverkopers.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
+exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
+source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
-
 
 # E-mailsjabloon voorbereiden voor Adobe GenStudio voor prestatieverkopers
 
@@ -30,6 +30,14 @@ Als er geen richtlijnen worden toegevoegd aan GenStudio for Performance Marketer
 Nadat een sjabloon is ontworpen, wordt deze gecodeerd met HTML en inline CSS. De code moet schoon zijn en reageren op verschillende apparaten.
 
 Zie [ voorbeelden van het Malplaatje ](/help/user-guide/content/customize-template.md#template-examples).
+
+### E-mails met meerdere secties
+
+U kunt [ gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts) tijdens inhoudsgeneratie gebruiken om GenStudio for Performance Marketing op te dragen om variërende inhoud per sectie van een e-mail te produceren.
+
+Bijvoorbeeld, als de secties in uw e-mailmalplaatje met `Pod` `Pod1` en `Pod2` vooraf worden bepaald, kan de gestructureerde herinnering voor inhoudsgeneratie specifieke richtlijnen voor die e-mailsecties omvatten. GenStudio for Performance Marketing komt overeen met de sectiespecifieke instructie in uw vraag naar de bijbehorende e-mailsectie en genereert inhoud die is uitgelijnd met de instructies.
+
+Zie [ Gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts).
 
 ## Een e-mailsjabloon testen
 

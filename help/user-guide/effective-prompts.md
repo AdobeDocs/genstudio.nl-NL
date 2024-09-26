@@ -2,13 +2,13 @@
 title: Effectieve aanwijzingen schrijven
 description: Leer hoe u effectieve herinneringen voor Adobe GenStudio voor de Marketers van Prestaties schrijft.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
+exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
+source-git-commit: 016cd2b5415651ed3cf157244f868315234330fa
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
-
 
 # Effectieve aanwijzingen schrijven
 
@@ -54,6 +54,44 @@ De richtlijnen van GenStudio for Performance Marketers helpen de generatieve AI 
 >[!TIP]
 >
 >U bepaalt hoe en wanneer GenStudio for Performance Marketers uw [!DNL Brand] -richtlijnen gebruikt. Zie [ Richtlijnen ](/help/user-guide/guidelines/overview.md) leren hoe te om uw merkrichtlijnen te vormen en te beheren.
+
+### Gestructureerde vragen
+
+Voor e-mailberichten met meerdere secties kunt u vragen structureren om sectie-specifieke instructies te verstrekken om variërende inhoud voor elke sectie in een e-mail te produceren. De gestructureerde herinneringen zouden [ sectienamen in het e-mailmalplaatje ](/help/user-guide/content/email-template.md#multi-section-emails) direct van verwijzingen moeten voorzien zodat de geproduceerde inhoud in de overeenkomstige inhoudsplaatsaanduidingen kan worden opgenomen.
+
+U kunt GenStudio for Performance Marketing bijvoorbeeld de instructie geven om in de eerste sectie van een e-mailbericht inhoud te genereren waarmee een nieuw product wordt bevorderd en om inhoud te genereren waarin de kostenbesparende voordelen van het product in de tweede e-mailsectie worden beschreven.
+
+De gestructureerde herinnering moet:
+
+- Gebruik een van de volgende verwijzingen naar de sectienaam in het e-mailmalplaatje:
+   - Pod
+   - Groep
+   - Sectie
+   - Module
+
+  Als uw sjabloon bijvoorbeeld `moduleA` of `Group-3` als sectienaam gebruikt, kunt u naar die sectienamen verwijzen in de vraag.
+
+- Volg de aanbevolen regels/structuur. Als de snelle structuur niet aan het verstrekte formaat aanhoudt, is de herinnering op *alle* e-mailsecties van toepassing en vergemakkelijkt nog inhoudsgeneratie.
+- De sectienamen van het gebruik zoals [ die in uw e-mailmalplaatje ](/help/user-guide/content/email-template.md#code-an-email-template) worden bepaald. Vragen moeten overeenkomen met de sectienamen die in uw e-mailsjabloon zijn gecodeerd.
+- Wees niet hoofdlettergevoelig. U kunt bijvoorbeeld `Pod` of `pod` gebruiken in uw e-mailsjabloon en gestructureerde prompt.
+- Verwijs eerst de generische gebruikersherinnering, en toen de sectie-specifieke richtlijnen.
+- Gebruik een dubbele punt, afbreekstreepje, komma of andere afbakening (`,:;#$!~|@=-%&*^_`) als scheiding tussen de verwijzing van de sectienaam en de richtlijn. U kunt bijvoorbeeld het volgende gebruiken als een sectiespecifieke prompt instructie: `Pod1; Describe how to easily edit text and swap images.`
+
+Hieronder volgt een voorbeeldprompt waarin de aanbevolen snelle structuur wordt uitgelegd en een e-mailsjabloon wordt gebruikt waarin de identificerende term `Pod` wordt gebruikt, zoals in `Pod1` , `Pod2` en `Pod3` .
+
+```properties
+Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.
+
+Encourage customers to convert to Photoshop or use a free Photoshop trial. We want to better educate them about app features.
+
+Pod1: Focus on Adobe Photoshop and its new generative AI tools that enable creators to bring images to life in minutes.
+
+Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Generative Shape Fill, which allows you to quickly fill your vector outline and explore a variety of options that match the look and feel of your own artwork.
+
+Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
+```
+
+Zie [ een e-mailmalplaatje ](/help/user-guide/content/email-template.md#code-an-email-template) voorbereiden.
 
 ## Opnieuw proberen
 

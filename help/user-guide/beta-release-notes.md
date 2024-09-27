@@ -2,9 +2,9 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing Beta
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio for Performance Marketing.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: c95a99d4fa8030a35b7fe3690235102e1827422f
+source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ Deze nota&#39;s benadrukken significante correcties en verbeteringen van Adobe G
 * GenStudio kan nu persona- en productinformatie ophalen uit een geüploade PDF en verwante velden vullen. <!-- GS-3806 -->
 
 * Gebruikers kunnen nu [!DNL Content] elementen en ervaringen filteren op de naam van de gebruiker die het element heeft geüpload. <!-- GS-1808 -->
-
-* De aanmeldstroom voor metagegevens bevat nu een knop **[!UICONTROL Refresh]** waarmee gebruikers popups kunnen ontgrendelen tijdens het aanmelden.
-
-* De sectie [!DNL Additional details] is verwijderd van de detailpagina van [!DNL Persona] . <!-- GS-5133 5134 -->
 
 * De naam van de sectie [!DNL Additional details] is gewijzigd in [!DNL Messaging preferences] op de detailpagina [!DNL Products] . <!-- GS-5133 5134 -->
 

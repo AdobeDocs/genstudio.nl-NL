@@ -1,176 +1,102 @@
 ---
-title: Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
-description: Meer informatie over de nieuwste functies en verbeteringen in de Adobe GenStudio voor Performance Marketers.
+title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing Beta
+description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio for Performance Marketing.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 7085fa5a12a6ed36c9310f8f691969d9c1366d36
+source-git-commit: c95a99d4fa8030a35b7fe3690235102e1827422f
 workflow-type: tm+mt
-source-wordcount: '1341'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release Adobe GenStudio voor Performance Marketers Beta
+# Opmerkingen bij de release van Adobe GenStudio for Performance Marketing Beta
 
-Deze nota&#39;s benadrukken significante Adobe GenStudio voor de fixes en de verhogingen van de Marketers van Prestaties voor de week die 19 september beëindigt.
+Deze nota&#39;s benadrukken significante correcties en verbeteringen van Adobe GenStudio for Performance Marketing voor de week die op 27 september eindigt.
 
 ## Nieuwe en verbeterde functies
 
-* **Integratie met Adobe Experience Manager Assets**. Alleen-lezen toegang tot Adobe Experience Manager Assets is nu beschikbaar. <!-- GS-2432 -->
+* GenStudio kan nu persona- en productinformatie ophalen uit een geüploade PDF en verwante velden vullen. <!-- GS-3806 -->
 
-* **Verbeteringen aan het werkschema van het Malplaatje van de Update**.  Gebruikers die sjablonen bijwerken, selecteren nu het kanaal waarvoor zij de sjabloon willen gebruiken. <!-- GS-4029 -->
+* Gebruikers kunnen nu [!DNL Content] elementen en ervaringen filteren op de naam van de gebruiker die het element heeft geüpload. <!-- GS-1808 -->
 
-* **Verbeterde creeer de prestaties van de paginalading**. Ongebruikte afhankelijkheden zijn verwijderd uit het laadproces van de pagina. <!-- GS-3630 -->
+* De aanmeldstroom voor metagegevens bevat nu een knop **[!UICONTROL Refresh]** waarmee gebruikers popups kunnen ontgrendelen tijdens het aanmelden.
 
-* **multi-sectie e-mailsteun**. Editors kunnen nu e-mailberichten genereren die meerdere secties en afbeeldingen bevatten. Ze kunnen ook specifieke fragmenten van een gegenereerde e-mail opnieuw genereren (bijvoorbeeld een kop). <!-- GS-2436 -->
+* De sectie [!DNL Additional details] is verwijderd van de detailpagina van [!DNL Persona] . <!-- GS-5133 5134 -->
 
-* **knevel tussen Desktop en mobiele mening tijdens verwezenlijking**. Gebruikers kunnen nu schakelen tussen de weergave voor desktops en mobiele apparaten om een voorvertoning van de verschillende e-mailervaringen weer te geven. <!-- GS-4314 -->
+* De naam van de sectie [!DNL Additional details] is gewijzigd in [!DNL Messaging preferences] op de detailpagina [!DNL Products] . <!-- GS-5133 5134 -->
 
-* Met Inhoud worden nu afbeeldingen gegenereerd met uitsnijdafmetingen die relatief zijn ten opzichte van de oorspronkelijke elementafmetingen. <!-- GS-3150 -->
-
-* Gebruikers kunnen nu gegenereerde afbeeldingsvarianten selecteren en deze uitsnijden tijdens de ontwerpworkflow met de functie Uitsnijden aanpassen. <!-- GS-5538 2342 -->
-
-* In de weergave Details van een goedgekeurde ervaring worden nu een miniatuurafbeelding en de status van alle elementen weergegeven waarnaar in die ervaring wordt verwezen. <!-- GS-3783 -->
+* Toegevoegd een [!DNL Add persona] knoop aan _voegt uw eerste persona_ pagina toe. <!-- GS-5132 -->
 
 ## Bekende problemen
 
-De volgende bekende problemen zullen worden opgelost in de GenStudio for Performance Marketers GA-release.
+De volgende bekende problemen zullen worden opgelost in de GenStudio for Performance Marketing GA-release.
 
-* Problemen met intermitterende latentie zijn van invloed op bepaalde Canvasbewerkingen van [!DNL Create] . <!-- GS-5203 -->
+* Sjablonen kunnen worden geüpload, maar niet worden weergegeven. **Oplossing**: Upload activa met het **[!UICONTROL Campaigns]** bevolkte gebied. Vervolgens uploadt u de sjabloon opnieuw. <!-- GS-4815 5650-->
 
-* E-mailgeneratie resulteert in een onvolledig e-mailbericht. **Oplossing**: vernieuw de pagina en regenerate. <!-- GS-5209 -->
+* Gebruikers kunnen Meta-advertenties niet handmatig uitsnijden nadat ze zijn vergroot of verkleind. <!-- GS-5871 -->
 
-* Sjablonen kunnen worden geüpload, maar niet worden weergegeven. **Oplossing**: Upload activa met het **[!UICONTROL Campaigns]** bevolkte gebied. Vervolgens uploadt u de sjabloon opnieuw. <!-- GS-4815 -->
+* Gebruikers kunnen een nieuwe [!DNL Campaign] maken vanuit [!DNL Content] -workflows. <!-- GS-5650 -->
 
-* Gebruikers moeten zich twee keer aanmelden bij een kanaal voor Meta-advertenties wanneer zij zich ook bij Facebook hebben aangemeld. **Oplossing**: Logout van Facebook alvorens het programma te openen in de advertenties van het kanaalMeta. <!-- GS-4806 -->
+* Gebruikers moeten zich twee keer aanmelden bij een kanaal voor Meta-advertenties wanneer zij zich ook bij Facebook hebben aangemeld. Oplossing: log uit Facebook voordat u zich aanmeldt bij een Channel Meta-advertentieaccount. <!-- GS-3009 -->
 
 ### Aanvullende verbeteringen en opgeloste problemen
 
-* Slepen en neerzetten werkt nu zoals u had verwacht in het snelle gebied. <!-- GS-3977 -->
+* Problemen met intermitterende latentie met bepaalde Canvas-bewerkingen van [!DNL Create] zijn opgelost. <!-- GS-5203 -->
 
-* Correctie van problemen met het gebruik van de Tab-toets om door elementen op de linkernavigatiebalk te navigeren. Eerder, waren de veelvoudige kliks nodig om van één element aan het volgende actieve element te navigeren.  <!-- GS-2639 -->
+* Gebruikers hoeven zich niet meer twee keer aan te melden bij een kanaal voor Meta-advertenties wanneer zij zich ook bij Facebook hebben aangemeld. <!-- GS-4806 -->
 
-* GenStudio slaat nu ervaringsnamen op wanneer gebruikers de naam bewerken terwijl de ervaring wordt geladen. <!-- GS-5242 -->
+* E-mailgeneratie leidt nu langer tot een onvolledig e-mailbericht. <!-- GS-5209 -->
 
-* Gebruikers kunnen nu een ervaringstitel bewerken. Eerder werd de titeltekst standaard ingesteld op de originele tekst nadat een gebruiker had geprobeerd deze te bewerken. <!-- GS-5246 -->
-* Geselecteerde afbeeldingen worden nu op het canvas gerenderd zoals u had verwacht tijdens het maken van meerdelige e-mail. <!-- GS-5263 -->
+* Als u een campagne maakt in de sjabloonworkflow, worden de id&#39;s nu opgeslagen zoals u had verwacht.  <!-- GS-4923 -->
 
-* Alle tekenreeksen op de detailpagina [!DNL Content] Ervaring zijn nu gelokaliseerd. <!-- GS-5016 -->
+* De selector met meerdere opslagplaatsen vermeldt nu de opslagruimten in alfabetische volgorde. <!-- GS-5553 -->
 
-* Gebruikers kunnen nu een product verwijderen waarvan de detailweergave wordt geopend in [!DNL Products] . <!-- GS-5057 -->
+* Problemen met CSV-exportbestandsindelingen voor niet-Engelse talen zijn opgelost. <!-- GS-5141 -->
 
-* Het bericht dat GenStudio weergeeft wanneer een zoekopdracht geen overeenkomende resultaten oplevert, is verbeterd. <!-- GS-4544 -->
+* De gebruikers kunnen de [!DNL Create] _Recente het werkgebied_ **[!UICONTROL View all drafts]** knoop nu klikken terwijl de ontwerpen laden. Als u voorheen op deze knop klikte voordat alle concepten waren geladen, werden slechts enkele concepten geladen en was de knop **[!UICONTROL View all drafts]** niet beschikbaar. <!-- GS-3938 -->
 
-* `aria-label` -kenmerkwaarden voor waarden van zoekfilters worden nu naar behoren omgezet. <!-- GS-5388 -->
+* Op het canvas van [!DNL Create] wordt nu de knop **[!UICONTROL View all drafts]** weergegeven zoals u had verwacht wanneer het canvas meer dan vier concepten weergeeft. <!-- GS-5588 -->
 
-* Gebruikers kunnen nu dubbele elementen verwijderen in het gebied met [!DNL Create] Canvas-vragen.  <!-- GS-5233 -->
+* Het onderzoek werkt nu zoals verwacht op het _Attributen_ lusje. <!-- GS-5658 -->
 
-* Het accountfilter werkt nu zoals u had verwacht met ervaringen, elementen en kenmerken. <!-- GS-4812 -->
+* Schitterende animatie wordt nu op de juiste wijze geschaald tijdens het laden. <!-- GS-5574 -->
 
-* Problemen met lettertypen op Meta-advertentiesjablonen zijn opgelost om de leesbaarheid en toegankelijkheid te verbeteren. <!-- GS-5354 -->
+* Miniatuurvoorvertoningen voor e-mails met meerdere onderdelen worden nu weergegeven zoals u had verwacht in [!DNL Content] . <!-- GS-5258 -->
 
-* Wijzigingen in concepttitels blijven nu op de verwachte manier behouden. Eerder werden titels na bewerking teruggezet naar de standaardnaam. <!-- GS-2951 -->
+* Een Workfront-gerelateerd probleem verholpen met de knop **[!UICONTROL Send for approval]** . <!-- GS-5847 -->
 
-#### Sjablooncorrecties
+* Correctie van problemen met het laden van het shimmer in de [!DNL Create] recente werkweergave. <!-- GS-5589 -->
 
-* De functie voor vergroten/verkleinen werkt nu zoals u had verwacht bij meerdere afbeeldingen in Meta-advertentiesjablonen. Eerder heeft GenStudio de grootte van afbeeldingen voor alle geselecteerde sjablonen niet gewijzigd. <!-- GS-4696 -->
+* Het ingaan van een onderzoekstermijn resulteert nu in slechts één onderzoeksvraag zoals verwacht.  <!-- GS-2999 -->
 
-* Als u een sjabloon verwijdert, wordt de pagina van [!DNL Content] nu naar behoren vernieuwd. <!-- GS-5397 -->
+* Correctie van de rendering van afbeeldingen met metagegevens die na het exporteren zijn gegenereerd. <!-- GS-5749 -->
 
-* Gebruikers kunnen nu alleen waarden voor [!DNL Personas] , [!DNL Brands] of [!DNL Products] kiezen in het vervolgkeuzemenu. Eerder, uploadt het _Malplaatje_ dialoog laat gebruikers om het even welke [!DNL Persona], [!DNL Brand], of [!DNL Product] naam ingaan. <!-- GS-5072 5071-->
+* Het `%` symbool wordt nu correct teruggegeven in de scènes DEU, FRA en ESP wanneer de gebruikers binnen zoemen of uit e-mailvarianten in C [!DNL Create] Canvas zoemen. <!-- GS-5007 -->
 
-* De knop **[!UICONTROL Back]** is nu uitgeschakeld tijdens het uploaden van een sjabloon. <!-- GS-5358 -->
 
-* Alle tekenreeksen in de weergave Sjabloondetails selecteren van [!DNL Create] zijn nu gelokaliseerd. <!-- GS-5025 -->
+#### Lokalisatie
 
-## Vorige Beta-releases
+Deze release bevat verbeteringen voor de lokalisatie in de hele productinterface, met name in [!DNL Create] . De volgende interfacecomponenten zijn gelokaliseerd: <!-- GS-5295 -->
 
-In vorige Beta-releases waren de volgende markeringen en oplossingen opgenomen.
+* Alle koorden in het _Vraag_ gebied (de titel van Parameters, dropdown-menuoptienamen, en snelle placeholder tekst) <!-- GS-5027 -->
 
-### Hooglichten
+* Alle koorden in _Resize_ venster voor geproduceerde Advertenties van Meta in [!DNL Create] <!-- GS-5035 -->
 
-* De inhoudskiezer van [!DNL Create] is vernieuwd om het laden van elementen te verbeteren. <!-- GS-2586 -->
+* Alle koorden in het _Recente het werkgebied_ gebied in [!DNL Create] <!-- GS-5037 -->
 
-* GenStudio biedt nu ondersteuning voor de optie om een voorvertoning van media-elementen weer te geven in tabel- en galerieweergaven van [!DNL Insights] . De videoduimnagels omvatten a **Spel** knoop met een dempingsoptie. <!-- GS-4398 -->
+* De menuopties Merken, Persoonlijk en Product in het vervolgkeuzemenu Tekenreeksen in het gebied Vragen <!-- GS-5293 -->
 
-* De richtlijnen voor instagram en Facebook Channel zijn gecombineerd tot de merkrichtlijnen voor Meta.
+* Het **Gezoem om aan het scherm** koord te passen dat tijdens e-mail en Meta en generatie <!-- GS-5063 --> wordt getoond
 
-* [!DNL Create] Canvasnavigatie-elementen zijn gestroomlijnd. Op de landingspagina van [!DNL Create] wordt het navigatievenster links weergegeven, maar gebruikers gebruiken nu een **[!UICONTROL Back]** -knop om vanuit andere [!DNL Create] werkgebieden naar deze ruimte te navigeren.
+* Datum en tijdformaten, **Naamloze het koord van het Ontwerp**, en foutenmeldingen in E-mail en Meta voegt namen toe <!-- GS-5023 5022 5048-->
 
-* Navigatie-elementen zijn verbeterd om de aandacht van de gebruiker te ondersteunen bij het uitvoeren van taken in het gehele product, waaronder de volgende productgebieden:
+* De [!DNL Content] _Assets_ malplaatjegalerings koorden en percentagesymbool (%) <!-- GS-4983 4984-->
 
-   * Informatie over middelen, ervaring en sjablonen in [!DNL Content]
-   * Ervaring, element, kenmerkdetails in [!DNL Insights]
-   * Merk details in [!DNL Brands]
-   * Productgegevens en persoonlijke gegevens in producten en personen
+* Het percentagesymbool (%) dat wordt gebruikt in de Beelden > de klikthrough van Ervaringen tarief <!-- GS-4279 -->
 
-* Gebruikers hoeven niet meer op de knop **[!UICONTROL Refresh]** te klikken om updates van Ervaringen in [!DNL Content] weer te geven.
+* Foutbericht dat wordt weergegeven wanneer een systeemfout optreedt tijdens het maken van e-mail- of metagegevensadvertenties <!-- GS-5061 -->
 
-* De _pagina van de Details van de Ervaring_ geeft nu externe activaduimnagels als HTML terug.
+* Decimaal scheidingsteken voor de uitdrukking &quot;Aantal woorden per zin&quot; op de pagina met informatie over inzichten <!-- GS-4986 -->
 
-* De vertraging van de gebruikersinterface na het toevoegen of verwijderen van Assets en Ervaringen is verbeterd.
+* Tekenreeksen in het menu Exporteren voor een Meta-advertentie die met een sjabloon is gegenereerd. <!-- GS-5031 -->
 
-* Sjabloonvoorvertoningen bevatten nu beschrijvende standaardtekst. Zie [ een malplaatje ](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview) aanpassen.
-
-* **op percentage-gebaseerde bevestigingsscore**: De bevestiging van het merk toont nu de score van de brandbevestiging als percentage eerder dan een pas/ontbreekt waarde. (vaste 8/16)
-
-* **bijgewerkte de extractieinterface van het Merk**: De extractie van het merk toont nu voltooiing van het extractieproces als percentage. (vaste 8/16)
-
-* **Incrementele merklading tijdens extractie**: De richtlijnen van het merk worden nu incrementeel geladen in het gebruikersinterface. (vaste 8/16)
-
-* **Multi-section e-mailverwezenlijking**: De gebruikers kunnen e-mails nu tot stand brengen die uit afzonderlijke titel, beeld, lichaam, en de elementen van CTA worden samengesteld. (vaste 8/16)
-
-* **Metaadvertenties Resize**: De redacteurs kunnen Meta en aspectverhoudingen resize. (vaste 8/16)
-
-* **Beperkte [!DNL Insights] login rekeningen**: [!DNL Insights] login steunt nu slechts één rekening per klant. (vaste 8/16)
-
-### Extra verbeteringen en vaste problemen
-
-* Met het canvas van [!DNL Create] worden afbeeldingen nu correct weergegeven in metagegevensadvertenties. (vast 9/13) <!-- GS-4864 -->
-
-* Hoewel er verschillen kunnen bestaan tussen voorvertoningen van Meta-advertenties en geëxporteerde weergaven, werken geëxporteerde ervaringen goed. (vast 9/13) <!-- GS-4492 4401 -->
-
-* Geüploade afbeeldingen bevatten nu de verwachte slimme tags. (vast 9/13) <!-- GS-4856 -->
-
-* Het CSV-bestand voor Meta-advertenties bevat nu naar verwachting afbeeldingen. Eerder bevatte het ZIP-bestand het CSV-exportbestand en NULL-bestanden in plaats van afbeeldingen. (vast 9/13) <!-- GS-5107 -->
-
-* Gebruikers kunnen nu naar behoren tekst invoeren in het veld Sjabloondetailweergave **[!UICONTROL Uploaded by]** . Voorheen kon het ladingspictogram gebruikers geen tekst invoeren. (vast 9/13) <!-- GS-4887 -->
-
-* Gebruikers worden niet meer omgeleid naar de detailweergave van een merk nadat het merk is verwijderd. (vast 9/13) <!-- GS-2663 -->
-
-* Editors ontvangen niet langer de volgende fout wanneer ze variabelen ter controle en goedkeuring verzenden: `You have no access to view comments on this Object` . (vast 9/13) <!-- GS-5140 -->
-
-* De e-mailsjabloon bijgewerkt in de workflow voor revisie en goedkeuring. (vast 9/13) <!-- GS-5239 -->
-
-* GenStudio geeft nu een foutbericht weer wanneer er een netwerkfout optreedt tijdens het laden van de sjabloonkiezer. (vast 9/13) <!-- GS-4682 -->
-
-* Oplossing voor problemen met het navigeren van een element, ervaring of sjabloonkaart naar het geselecteerde object. (vast 9/13) <!-- GS-4390 -->
-
-* _voeg Assets_ popup toe wordt nu gelokaliseerd wanneer geopend van Create Canvas. (vast 9/13) <!-- GS-4867 -->
-
-* Merkvalidatie wordt nu geactiveerd voor opnieuw gegenereerde varianten. Als een editor eerder varianten van een bestaand concept opnieuw genereerde, werd de validatie niet gestart. (vast 9/13) <!-- GS-3971 -->
-
-* _voeg Assets_ popup toe wordt nu gelokaliseerd zoals verwacht. (vast 9/5) <!-- GS-3834 -->
-
-* Problemen met het schalen van de ervaringssjabloon Meta-advertenties zijn opgelost. (vast 9/5) <!-- GS-4174 -->
-
-* De tekstvelden in het CSV-exportbestand voor e-mails met meerdere onderdelen worden nu op de verwachte manier geordend. (vast 9/5) <!-- GS-4013 -->
-
-* Het [!DNL Content] onderzoeksgebied verdwijnt niet meer wanneer een gebruiker herhaaldelijk op de **Backspace** sleutel duwt om de tekst van het onderzoeksgebied te wissen. (vast 9/5) <!-- GS-4543 -->
-
-* GenStudio for Performance Marketers laadt nu de gebruikers zoals verwacht wanneer een medewerker een `@` -vermelding aan een opmerking toevoegt. Eerder werden gebruikers niet geladen en werd een fout weergegeven: `Unable to load users. Refresh the page` . (vast 8/29) <!-- GS-4113 -->
-
-* GenStudio toont niet meer het **Iets ging fout** bericht wanneer een redacteur **Uitgezochte inhoud** tijdens e-mailverwezenlijking in het snelle gebied klikt. <!-- GS-4879 -->
-
-* De _naam van de de paginadebietplaatsing van het Detail van de Ervaring_ specificeert nu de voer van Facebook of van Instagram. (vaste 8/16)
-
-* Het snijden van grotere beelden en video is nu verenigbaar wanneer de gebruiker van de _mening van het Overzicht van het Middel 0} {aan de_ mening van het Detail van Activa _navigeert._ (vaste 8/16)
-
-* Het aantal zoekresultaten op het scherm Kenmerken wordt niet langer weergegeven `0 of` voordat een gebruiker zich aanmeldt. (vast 8/16) <!-- GS-3665 -->
-
-* Wanneer u op het veld **[!UICONTROL [!DNL Insights]]** > **[!UICONTROL Asset]** aantal klikt, worden de zoek- en filterinstellingen niet meer gewist. (vast 8/16) <!-- GS-3476 -->
-
-* GenStudio geeft een fout weer wanneer een gebruiker referenties probeert in te voeren in de weergave [!DNL Insights] . (vast 8/29) <!-- GS-4689 -->
-
-* Het uploaden van merkrichtlijnen mislukt vanwege problemen met het ACS-opslagplatform. (vast 8/22) <!-- GS-4369 -->
-
-* In het vervolgkeuzemenu Vragen [!DNL Brands] wordt een spinner aan het einde van de lijst in [!DNL Brands] weergegeven tijdens het maken van e-mail. (vast 8/22) <!-- GS-4077 -->

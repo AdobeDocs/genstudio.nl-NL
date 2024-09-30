@@ -2,9 +2,9 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing Beta
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio for Performance Marketing.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
+source-git-commit: f56f3733ead0bfcb4f37e10b66577e1ef597b76d
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,6 @@ De volgende bekende problemen zullen worden opgelost in de GenStudio for Perform
 * Sjablonen kunnen worden geüpload, maar niet worden weergegeven. **Oplossing**: Upload activa met het **[!UICONTROL Campaigns]** bevolkte gebied. Vervolgens uploadt u de sjabloon opnieuw. <!-- GS-4815 5650-->
 
 * Gebruikers kunnen Meta-advertenties niet handmatig uitsnijden nadat ze zijn vergroot of verkleind. <!-- GS-5871 -->
-
-* Gebruikers kunnen een nieuwe [!DNL Campaign] maken vanuit [!DNL Content] -workflows. <!-- GS-5650 -->
 
 * Gebruikers moeten zich twee keer aanmelden bij een kanaal voor Meta-advertenties wanneer zij zich ook bij Facebook hebben aangemeld. Oplossing: log uit Facebook voordat u zich aanmeldt bij een Channel Meta-advertentieaccount. <!-- GS-3009 -->
 
@@ -68,7 +66,6 @@ De volgende bekende problemen zullen worden opgelost in de GenStudio for Perform
 * Correctie van de rendering van afbeeldingen met metagegevens die na het exporteren zijn gegenereerd. <!-- GS-5749 -->
 
 * Het `%` symbool wordt nu correct teruggegeven in de scènes DEU, FRA en ESP wanneer de gebruikers binnen zoemen of uit e-mailvarianten in C [!DNL Create] Canvas zoemen. <!-- GS-5007 -->
-
 
 #### Lokalisatie
 

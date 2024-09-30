@@ -2,27 +2,26 @@
 title: Inhoud goedkeuren
 description: Leer hoe u inhoud goedkeurt.
 feature: Approval
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: f6458d8f-dff3-448e-9f08-6d192f8a91d9
+source-git-commit: 447742667d1b4527a793aef12207bad51c4cb4d4
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
-
 # Inhoud goedkeuren
 
-fiatteurs ontvangen zowel in-product- als e-mailmeldingen wanneer hun beoordeling en goedkeuring nodig is. Beide meldingen bevatten een koppeling naar het canvas waarop de te controleren inhoud wordt weergegeven.
+fiatteurs ontvangen productmeldingen, e-mailberichten en, indien ingeschakeld, Slack-berichten wanneer hun beoordeling en goedkeuring nodig is. Meldingen bevatten een koppeling naar het canvas waarop de te controleren inhoud wordt weergegeven. Zie [ voorkeur en berichten van de Rekening ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) voor informatie over het beheren van uw berichten.
 
 Als het inhoudsconcept voldoet aan de normen van uw organisatie en aan uw verwachtingen, kunt u het concept goedkeuren.
 
 **om een ontwerp** goed te keuren:
 
-1. Open het concept vanuit de melding in het product of in de e-mail. Als u is gevraagd om meer dan één item te controleren, bevat dit e-mailbericht een knop **[!UICONTROL View all notifications]** . Klik op deze knop om een gekoppelde lijst weer te geven met alle goedkeuringsaanvragen die in behandeling zijn en die u kunt gebruiken om naar inhoud te navigeren die u wilt goedkeuren.
+1. Open het concept vanuit de melding in het product of door op de knop voor de melding in de e-mail **[!UICONTROL View all notifications]** te klikken om naar het concept te navigeren.
 
-1. (_Facultatief_). Voer opmerkingen in het tekstveld Opmerkingen in.
+1. (_Facultatief_). Voer opmerkingen in het tekstveld **[!UICONTROL Comments]** in.
 
-1. Het ontwerpstatus van de verandering van **het werk van Behoeften** aan **Goedgekeurd**.
+1. Selecteer **[!UICONTROL Approved]** .
 
-Uw werk als fiatteur is voltooid. GenStudio for Performance Marketers waarschuwt de maker van het concept dat u goedkeurt. Zie {de inhoud van 0} Publish ](./publish-content.md) voor een overzicht van het proces om aan [!DNL Content] te bewaren, of _het publiceren_.[
-
+Uw werk als fiatteur is voltooid. Adobe GenStudio for Performance Marketing waarschuwt de maker van het concept dat je goedkeuring hebt verleend. Zie {de inhoud van 0} Publish ](./publish-content.md) voor een overzicht van het proces om aan [!DNL Content] te bewaren, of _het publiceren_.[

@@ -1,18 +1,18 @@
 ---
 title: Werken met sjablonen
-description: Ontdek hoe u sjablonen effectief kunt gebruiken om uw creatieve proces te stroomlijnen in de Adobe GenStudio voor de markten voor prestaties.
+description: Ontdek hoe u sjablonen effectief kunt gebruiken om uw creatieve proces in Adobe GenStudio for Performance Marketing te stroomlijnen.
 feature: Templates, Content
-source-git-commit: 192568a65bbd5c8c2e9cfc050462eb2c3465245d
+exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 0%
 
 ---
 
-
 # Werken met sjablonen
 
-GenStudio voor de Marketers van Prestaties laat inhoudsmakers toe om verenigbare on-brand marketing inhoud snel te produceren gebruikend _malplaatjes_. Een malplaatje vermindert beduidend de tijd en de inspanning die wordt vereist om nieuwe inhoud te produceren door een uitgangspunt te verstrekken dat pre-gevormde lay-outs en ontwerpelementen omvat.
+GenStudio for Performance Marketing laat inhoudsmakers toe om verenigbare on-brand marketing inhoud snel te produceren gebruikend _malplaatjes_. Een malplaatje vermindert beduidend de tijd en de inspanning die wordt vereist om nieuwe inhoud te produceren door een uitgangspunt te verstrekken dat pre-gevormde lay-outs en ontwerpelementen omvat.
 
 ## Sjabloonelementen
 
@@ -71,17 +71,17 @@ Hieronder volgt een lijst met elementen die in sjablonen worden gebruikt en enke
 
 >[!TIP]
 >
->Zie [ erkende gebiedsnamen ](customize-template.md#recognized-field-names) die GenStudio voor de Marketers van Prestaties voor malplaatjes van elk type van het Kanaal steunt.
+>Zie [ erkende gebiedsnamen ](customize-template.md#recognized-field-names) die GenStudio for Performance Marketing voor malplaatjes van elk type van het Kanaal steunt.
 
 ## Kanaalrichtlijnen configureren
 
-Het is beste praktijken om [ kanaalrichtlijnen ](../guidelines/brands.md#channel-guidelines) voor elk merk te vormen alvorens malplaatjes in GenStudio voor de Marketers van Prestaties te gebruiken. De kanaalrichtlijnen beïnvloeden rechtstreeks het type inhoud dat wordt gegenereerd wanneer de sjabloon wordt gebruikt. U kunt bijvoorbeeld tekenlimieten instellen voor de hoofdtekst van een e-mail.
+Het is beste praktijken om [ kanaalrichtlijnen ](../guidelines/brands.md#channel-guidelines) voor elk merk te vormen alvorens malplaatjes in GenStudio for Performance Marketing te gebruiken. De kanaalrichtlijnen beïnvloeden rechtstreeks het type inhoud dat wordt gegenereerd wanneer de sjabloon wordt gebruikt. U kunt bijvoorbeeld tekenlimieten instellen voor de hoofdtekst van een e-mail.
 
 ![ de specificaties van het Lichaam ](/help/assets/channel-email-body.png)
 
 ## Sjabloon aanpassen
 
-U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio voor de Marketers van Prestaties aan door inhoudplaceholders, of gebieden op te nemen, die generatieve AI gebruikt om inhoud op te nemen. GenStudio for Performance Marketers herkent bepaalde velden, zoals het veld `body` , en volgt de kanaalrichtlijnen die voor het geselecteerde merk zijn geconfigureerd.
+U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Performance Marketing aan door inhoudplaceholders, of gebieden op te nemen, die generatieve AI gebruikt om inhoud op te nemen. GenStudio for Performance Marketing herkent bepaalde velden, zoals het veld `body` , en volgt de kanaalrichtlijnen die voor het geselecteerde merk zijn geconfigureerd.
 
 >[!TIP]
 >
@@ -89,7 +89,7 @@ U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio voor d
 
 ## Een sjabloon uploaden
 
-Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het voorbereiden van een malplaatje voor GenStudio voor de Marketers van Prestaties. Zie [ toegankelijkheidsrichtlijnen voor malplaatjes ](accessibility-for-templates.md) voor begeleiding bij het verstrekken van een betere ervaring voor alle publiek.
+Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het voorbereiden van een malplaatje voor GenStudio for Performance Marketing. Zie [ toegankelijkheidsrichtlijnen voor malplaatjes ](accessibility-for-templates.md) voor begeleiding bij het verstrekken van een betere ervaring voor alle publiek.
 
 **om een malplaatje** toe te voegen:
 
@@ -122,7 +122,7 @@ Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het
 
 ## Maken met een sjabloon
 
-Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketers om meer ervaringen te creëren.
+Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om meer ervaringen te creëren.
 
 **om een ervaring met een malplaatje** tot stand te brengen:
 

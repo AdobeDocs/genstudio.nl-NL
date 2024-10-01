@@ -1,10 +1,10 @@
 ---
 title: Een sjabloon aanpassen
-description: Leer hoe u uw sjabloon kunt aanpassen en optimaliseren voor Adobe GenStudio voor Performance Marketers.
+description: Leer hoe u uw sjabloon voor Adobe GenStudio for Performance Marketing kunt aanpassen en optimaliseren.
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Een sjabloon aanpassen
 
-Pas uw malplaatjes van HTML voor Adobe GenStudio voor de Marketers van Prestaties aan door de _het malplaatjetaal te gebruiken 0} Handlebars {._ In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [`What is [!DNL Handlebars]?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
+Pas uw malplaatjes van HTML voor Adobe GenStudio for Performance Marketing aan door de _het malplaatjetaal te gebruiken 0} Handlebars {._ In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [`What is [!DNL Handlebars]?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
 
-In de volgende secties wordt uitgelegd hoe u plaatsaanduidingen voor inhoud toevoegt, overbodige elementen uit de voorvertoning verbergt en koppelingen naar statische inhoud beheert. Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio voor de Marketers van Prestaties ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
+In de volgende secties wordt uitgelegd hoe u plaatsaanduidingen voor inhoud toevoegt, overbodige elementen uit de voorvertoning verbergt en koppelingen naar statische inhoud beheert. Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio for Performance Marketing ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
 
 ## Plaatsaanduidingen voor inhoud
 
-GenStudio voor de Marketers van Prestaties erkent bepaalde [ elementen ](use-templates.md#template-elements) binnen een malplaatje, maar slechts als u hen met een erkende gebiedsnaam identificeert.
+GenStudio for Performance Marketing erkent bepaalde [ elementen ](use-templates.md#template-elements) binnen een malplaatje, maar slechts als u hen met een erkende gebiedsnaam identificeert.
 
-In de kop of de hoofdtekst van een sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken als plaatsaanduiding voor inhoud, waarbij u GenStudio for Performance Marketers nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio voor de Marketers van Prestaties herkent en interpreteert de inhoudsplaceholders die op [ worden gebaseerd herkende _gebied_ naam ](#recognized-field-names).
+In de kop of de hoofdtekst van een sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken als plaatsaanduiding voor inhoud, waarbij u GenStudio for Performance Marketing nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketing erkent en interpreteert de inhoudsplaceholders die op [ worden gebaseerd erkende _gebied_ naam ](#recognized-field-names).
 
 U kunt `{{ headline }}` bijvoorbeeld met de syntaxis van [!DNL Handlebars] gebruiken om aan te geven waar de kop van de e-mail moet worden geplaatst:
 
@@ -31,7 +31,7 @@ U kunt `{{ headline }}` bijvoorbeeld met de syntaxis van [!DNL Handlebars] gebru
 
 ### Erkende veldnamen
 
-In de volgende tabel worden de veldnamen weergegeven die door GenStudio for Performance Marketers voor populaties worden herkend in sjablonen. Voeg deze veldnamen met de syntaxis [!DNL Handlebars] toe aan uw sjabloon waar u GenStudio for Performance Marketers nodig hebt om inhoud te genereren.
+De volgende tabel bevat een lijst met de veldnamen die door GenStudio for Performance Marketing worden herkend voor populatie in sjablonen. Voeg deze veldnamen met de syntaxis [!DNL Handlebars] toe aan uw sjabloon waar u GenStudio for Performance Marketing nodig hebt om inhoud te genereren.
 
 | Veld | Rol | Kanaalsjabloon |
 | -------------- | ---------------------- | ------------------------------ |
@@ -43,7 +43,7 @@ In de volgende tabel worden de veldnamen weergegeven die door GenStudio for Perf
 | `image` | Afbeelding | email <br> Meta-advertentie |
 | `brand_logo` | Logo van geselecteerd merk <br> zie [ het merklogo gebiedsnaam ](#brand-logo-field-name) voor geadviseerd gebruik. | e-mail <br> Meta-advertentie |
 
-GenStudio for Performance Marketers vult bepaalde velden automatisch in de volgende sjablonen in:
+GenStudio for Performance Marketing vult bepaalde velden automatisch in de volgende sjablonen in:
 
 - **E-mailmalplaatje** vereist u niet om het `subject` gebied te identificeren
 - **malplaatje van Advertenties van Meta** vereist u niet om `headline` te identificeren, `body`, en `CTA` gebieden
@@ -56,11 +56,11 @@ GenStudio for Performance Marketers vult bepaalde velden automatisch in de volge
 >
 >Voor Instagram-advertenties wordt de gegenereerde kop niet weergegeven in de uiteindelijke ervaring.
 
-Er geldt een limiet van 20 velden wanneer u een sjabloon uploadt naar GenStudio for Performance Marketers. Aangezien het veld `subject` automatisch wordt gegenereerd in een e-mail, telt het als één veld. Dit betekent dat er 19 velden zijn toegestaan in een e-mailsjabloon.
+Er geldt een limiet van 20 velden wanneer u een sjabloon uploadt naar GenStudio for Performance Marketing. Aangezien het veld `subject` automatisch wordt gegenereerd in een e-mail, telt het als één veld. Dit betekent dat er 19 velden zijn toegestaan in een e-mailsjabloon.
 
 >[!TIP]
 >
->U kunt uw malplaatje verifiëren gebruikend de [ malplaatjevoorproef ](#template-preview) in GenStudio voor de Marketers van Prestaties.
+>U kunt uw malplaatje verifiëren gebruikend de [ malplaatjevoorproef ](#template-preview) in GenStudio for Performance Marketing.
 
 #### Naam merklogo
 
@@ -94,7 +94,7 @@ Als u een bewerkbare sectie wilt maken, voegt u dubbele haakjes toe rond de sect
 
 ### Secties of groepen
 
-_secties_ informeren GenStudio voor de Marketers van Prestaties dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
+_Secties_ informeren GenStudio for Performance Marketing dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
 
 Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld deel uitmaakt van een sectie of groep. U kunt bijvoorbeeld de inhoud van een gemarkeerd gebied als spotlight instellen:
 
@@ -112,11 +112,11 @@ Een sjabloon kan maximaal drie secties bevatten:
 - `pod2_headline`
 - `pod2_body`
 
-GenStudio for Performance Marketers begrijpt dat `pod1_headline` nauwer verwant is aan `pod1_body` dan aan `pod2_body` .
+GenStudio for Performance Marketing begrijpt dat `pod1_headline` nauwer verwant is aan `pod1_body` dan aan `pod2_body` .
 
 ## Sjabloonvoorbeeld
 
-Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant GenStudio voor de Marketers van Prestaties het dossier van de HTML voor erkende gebieden. Gebruik de voorproef om uw [ malplaatjeelementen ](use-templates.md#template-elements) te herzien en te bevestigen dat u hen behoorlijk met [ erkende gebiedsnamen ](#recognized-field-names) identificeerde.
+Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant GenStudio for Performance Marketing het dossier van de HTML voor erkende gebieden. Gebruik de voorproef om uw [ malplaatjeelementen ](use-templates.md#template-elements) te herzien en te bevestigen dat u hen behoorlijk met [ erkende gebiedsnamen ](#recognized-field-names) identificeerde.
 
 Voorbeeld van een e-mailsjabloon:
 
@@ -134,7 +134,7 @@ De waarde `_genStudio.browser` wordt ingesteld bij het renderen van een sjabloon
 {{/if}}
 ```
 
-Een ander voorbeeld kan zijn om het gebruik van volgcodes te verhinderen wanneer het voorvertonen van een malplaatje in GenStudio for Performance Marketers. In het volgende voorbeeld ziet u hoe u volgparameters toevoegt aan koppelingen in de geëxporteerde sjabloon, terwijl de voorbeeldkoppelingen ongewijzigd blijven:
+Een ander voorbeeld kan zijn om het gebruik van volgcodes te verhinderen wanneer het previewing van een malplaatje in GenStudio for Performance Marketing. In het volgende voorbeeld ziet u hoe u volgparameters toevoegt aan koppelingen in de geëxporteerde sjabloon, terwijl de voorbeeldkoppelingen ongewijzigd blijven:
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
@@ -145,11 +145,11 @@ Een ander voorbeeld kan zijn om het gebruik van volgcodes te verhinderen wanneer
 
 ## Statische inhoud
 
-E-mailsjablonen en meta-sjablonen zijn vaak gekoppeld aan afbeeldingen en CSS-bestanden die buiten GenStudio for Performance Marketers worden gehost. Wanneer GenStudio for Performance Marketers miniaturen voor deze sjablonen of de ervaringen die hiervan zijn afgeleid, genereert, kunnen deze externe bronnen worden genegeerd als ze niet de juiste koppen CORS (Cross-Origin Resource Sharing) hebben.
+E-mail- en metasjablonen zijn vaak gekoppeld aan afbeeldingen en CSS-bestanden die buiten GenStudio for Performance Marketing worden gehost. Wanneer GenStudio for Performance Marketing miniaturen voor deze sjablonen of de ervaringen die hiervan zijn afgeleid genereert, kunnen deze externe bronnen worden genegeerd als ze niet de juiste koppen CORS (Cross-Origin Resource Sharing) hebben.
 
 Houd rekening met twee opties om ervoor te zorgen dat deze bronnen beschikbaar zijn tijdens het genereren van miniaturen:
 
-1. **de Kopballen van CORS van het Gebruik**: De gastheerserver moet reacties met een `Access-Control-Allow-Origin` kopbal verzenden die aan `https://experience.adobe.com` waarde voor productiemilieu&#39;s wordt geplaatst. Met deze methode kunnen GenStudio for Performance Marketers toegang krijgen tot de bronnen en deze opnemen.
+1. **de Kopballen van CORS van het Gebruik**: De gastheerserver moet reacties met een `Access-Control-Allow-Origin` kopbal verzenden die aan `https://experience.adobe.com` waarde voor productiemilieu&#39;s wordt geplaatst. Met deze methode kan GenStudio for Performance Marketing toegang krijgen tot de bronnen en deze opnemen.
 
 1. **Gegevens URLs van het Gebruik**: Sluit direct de externe middelen in het malplaatje in gebruikend Gegevens URLs. Deze methode omzeilt de beperkingen van CORS en zorgt ervoor dat de middelen tijdens duimnagelgeneratie beschikbaar zijn.
 
@@ -157,7 +157,7 @@ Houd rekening met twee opties om ervoor te zorgen dat deze bronnen beschikbaar z
 
 +++Voorbeeld: E-mailsjabloon met één sectie
 
-Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor een e-mailbericht dat één sectie bevat. De kop bevat eenvoudige inline CSS voor opmaak. Het lichaam bevat a `pre-header`, `headline`, en `image` [ placeholder ](#content-placeholders) voor gebruik door GenStudio voor de Marketers van Prestaties om inhoud tijdens het e-mailgeneratieproces te injecteren.
+Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor een e-mailbericht dat één sectie bevat. De kop bevat eenvoudige inline CSS voor opmaak. Het lichaam bevat a `pre-header`, `headline`, en `image` [ placeholder ](#content-placeholders) voor gebruik door GenStudio for Performance Marketing om inhoud tijdens het proces van de e-mailgeneratie te injecteren.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>

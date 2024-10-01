@@ -1,18 +1,18 @@
 ---
-title: Verbinding maken met een AEM Assets Content Hub-opslagplaats
-description: Leer hoe u GenStudio for Performance Marketers kunt verbinden met een Adobe Experience Manager (AEM) Content Hub-opslagplaats en bestaande goedgekeurde inhoud kunt gebruiken.
+title: "Verbind met een  [!DNL AEM Assets Content Hub]  bewaarplaats"
+description: Leer hoe te om Adobe GenStudio for Performance Marketing met een Adobe Experience Manager (AEM) te verbinden  [!DNL Content Hub]  bewaarplaats en hefboomwerking bestaande goedgekeurde inhoud.
 level: Experienced
 feature: Assets, Content
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # Verbinding maken met een [!DNL AEM Assets Content Hub] -opslagplaats
 
-Als u middelen hebt in Adobe Experience Manager (AEM), kunt u deze stappen volgen om ze toegankelijk te maken in GenStudio for Performance Marketers.
+Als u middelen hebt in Adobe Experience Manager (AEM), kunt u deze stappen volgen om ze toegankelijk te maken in GenStudio for Performance Marketing.
 
 >[!BEGINSHADEBOX]
 
@@ -37,7 +37,7 @@ Voeg in [!DNL Admin Console] GenStudio-gebruikers of -gebruikersgroepen toe aan 
 
 ## Stap 3: activa goedkeuren
 
-Goedkeuren van middelen voor gebruik in [!DNL AEM Assets Content Hub] , waardoor deze beschikbaar zijn in GenStudio for Performance Marketers. Zie [ activa in Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in de _AEM as a Cloud Service_ documentatie goedkeuren.
+Goedkeuren van elementen voor gebruik in [!DNL AEM Assets Content Hub] , zodat deze beschikbaar zijn in GenStudio for Performance Marketing. Zie [ activa in Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in de _AEM as a Cloud Service_ documentatie goedkeuren.
 
 ## Stap 4: Zichtbaarheid van middelen configureren
 
@@ -45,4 +45,4 @@ Controleer in de configuratieopties van _[!DNL AEM Assets Content Hub]_elke set 
 
 ## Stap 5: Controleer de verbinding
 
-In GenStudio for Performance Marketers Content is de lijst _[!UICONTROL Location]_beschikbaar boven de galerie aan de rechterkant. De lijst is niet beschikbaar als u geen toegang hebt of als uw organisatie een [!DNL AEM Assets Content Hub] -opslagplaats niet heeft geïmplementeerd en aangesloten.
+In GenStudio for Performance Marketing Content is de lijst _[!UICONTROL Location]_beschikbaar boven de galerie aan de rechterkant. De lijst is niet beschikbaar als u geen toegang hebt of als uw organisatie een [!DNL AEM Assets Content Hub] -opslagplaats niet heeft geïmplementeerd en aangesloten.

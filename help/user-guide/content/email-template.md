@@ -1,29 +1,29 @@
 ---
-title: Een e-mailsjabloon voorbereiden voor Adobe GenStudio voor prestatieverkopers
-description: Leer hoe u een aangepaste e-mailsjabloon maakt voor Adobe GenStudio voor prestatieverkopers.
+title: Een e-mailsjabloon voorbereiden voor Adobe GenStudio for Performance Marketing
+description: Leer hoe u een aangepaste e-mailsjabloon voor Adobe GenStudio for Performance Marketing maakt.
 level: Intermediate
 feature: Templates, Content
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
 
 ---
 
-# E-mailsjabloon voorbereiden voor Adobe GenStudio voor prestatieverkopers
+# E-mailsjabloon voorbereiden voor Adobe GenStudio for Performance Marketing
 
-Doorgaans maakt een ontwerper het visuele ontwerp van een sjabloon in een ontwerpprogramma zoals Adobe XD. Nadat een e-mailsjabloon is ontworpen, gecodeerd en getest, kunt u het voorbereiden voor uploaden en gebruiken in GenStudio for Performance Marketers.
+Doorgaans maakt een ontwerper het visuele ontwerp van een sjabloon in een ontwerpprogramma zoals Adobe XD. Nadat een e-mailsjabloon is ontworpen, gecodeerd en getest, kunt u het voorbereiden voor uploaden en gebruiken in GenStudio for Performance Marketing.
 
 Zie [ elementen van het Malplaatje ](use-templates.md#template-elements).
 
 ## Richtlijnen toevoegen
 
-Alvorens u een Meta en malplaatje voorbereidt, zorg ervoor dat u [ richtlijnen ](/help/user-guide/guidelines/overview.md) aan uw GenStudio voor de Marketers van Prestaties hebt toegevoegd en hen met uitvoerige info voor relevante merken bevolkt. De [ merkrichtlijnen ](/help/user-guide/guidelines/brands.md) beïnvloeden direct geproduceerde inhoud.
+Alvorens u een Meta en malplaatje voorbereidt, zorg ervoor dat u [ richtlijnen ](/help/user-guide/guidelines/overview.md) aan uw GenStudio for Performance Marketing hebt toegevoegd en hen met uitvoerige info voor relevante merken bevolkt. De [ merkrichtlijnen ](/help/user-guide/guidelines/brands.md) beïnvloeden direct geproduceerde inhoud.
 
 **Voorbeeld**: Als u het lichaam van een e-mailmalplaatje niet groter wilt zijn dan 500 karakters, voeg dat vereiste aan de [ kanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#channel-guidelines) voor het &quot;lichaam&quot;gebied toe.
 
-Als er geen richtlijnen worden toegevoegd aan GenStudio for Performance Marketers, worden standaardwaarden gebruikt.
+Als er geen richtlijnen aan GenStudio for Performance Marketing worden toegevoegd, worden standaardwaarden gebruikt.
 
 ## Een e-mailsjabloon coderen
 
@@ -51,11 +51,11 @@ Test of uw e-mailsjabloon voldoet aan het volgende:
 
 ## Gegenereerde inhoudsgebieden definiëren
 
-Definieer de gebieden in uw e-mailsjabloon die dynamisch moeten worden gevuld met inhoud van GenStudio for Performance Marketers.
+Definieer de gebieden in uw e-mailsjabloon die dynamisch moeten worden gevuld met inhoud uit GenStudio for Performance Marketing.
 
 gegenereerde inhoudsgebieden definiëren:
 
-* Identificeer de tekstelementen in het malplaatje dat GenStudio for Performance Marketers zou moeten auto-produceren, zoals de titel of CTA.
+* Identificeer de tekstelementen in de sjabloon die GenStudio for Performance Marketing automatisch moet genereren, zoals de kop of CTA.
 * Pas de HTML-sjabloon aan door er plaatsaanduidingen in op te nemen met behulp van de syntaxis Handlebars.
 
 Zie [ placeholders van de Inhoud ](/help/user-guide/content/customize-template.md#content-placeholders).
@@ -68,6 +68,6 @@ Zie [ de voorproef van het Malplaatje ](/help/user-guide/content/customize-templ
 
 ## Sjabloon uploaden en gebruiken
 
-Nadat uw sjabloon is ontworpen, gecodeerd, getest en bekeken, kunt u deze uploaden naar GenStudio for Performance Marketers voor gebruik bij het genereren van gloednieuwe marketinginhoud.
+Nadat uw sjabloon is ontworpen, gecodeerd, getest en bekeken, kunt u deze uploaden naar GenStudio for Performance Marketing voor gebruik bij het genereren van gloednieuwe marketinginhoud.
 
 Zie [ Werkend met malplaatjes ](use-templates.md).

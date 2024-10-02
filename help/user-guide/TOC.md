@@ -4,10 +4,10 @@ breadcrumb-title: Gebruikershandleiding
 user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio for Performance Marketing. Leer hoe u snel online middelen kunt maken, variaties kunt genereren en ervaringen kunt optimaliseren.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 428e88b5d5ac125f42d0a27367f456fcd2828df5
+source-git-commit: 967309ee0572365e9442c4e77816f9483e6522d3
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 2%
+source-wordcount: '137'
+ht-degree: 3%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 2%
    + [Door Publish goedgekeurde inhoud](approvals/publish-content.md)
 + Inhoud {#content}
    + [Overzicht van inhoud](content/overview.md)
-   + [Elementen beheren](content/manage-assets.md)
+   + [Middelen en ervaringen beheren](content/manage-assets.md)
    + [Een AEM maken](content/connect-aem-repo.md)
    + [Gegevens van element](content/asset-details.md)
    + Sjablonen {#templates}
@@ -58,4 +58,5 @@ ht-degree: 2%
    + [Connect-kanaalaccount](insights/connect-channel.md)
    + [Kanalen](insights/channels.md)
    + [Ervaringen](insights/experiences.md)
-   + [Gegevenskolommen](insights/data-columns.md)
+   + [Assets](insights/assets.md)
+   + [Attributen](insights/attributes.md)

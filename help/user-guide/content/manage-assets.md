@@ -3,9 +3,9 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: af20efaa511ed403f5160956ff98b42beb64bb34
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -59,18 +59,22 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
    Zie [ details van Meta-gegevens ](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Klik op **[!UICONTROL Add assets]**.
+
 1. Wanneer de activa uploaden wordt voltooid, klik **Gedaan**.
+
 1. Om uw nieuwe geüploade activa te bekijken, klik **[!UICONTROL Refresh]** van het _Nieuwe beschikbare activa_ bericht bij de bodem van het Canvas.
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### Zoeken in middelen
+### Inhoud zoeken
 
-De zoekinterface van [!DNL Content] is snel en responsief en biedt een productieve ervaring voor het eerst zoeken.
+De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een productieve onderzoek-eerste ervaring. Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Voor elementen en ervaringen kunt u een campagne en specifieke richtlijnen selecteren, zoals inhoud die voor een bepaald product is gemaakt.
 
-Pas filters toe en gebruik metagegevenstags van elementdetails om de zoekresultaten te beperken. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen.
+Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user-defined-metadata) en [ attributen ](/help/user-guide/insights/attributes.md) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen.
+
+Wanneer het zoeken naar _Ervaringen_, kunt u de **[!UICONTROL Created by]** filter gebruiken om de lijst te beperken om slechts de ervaringen te tonen die door u of een specifieke persoon worden gecreeerd.
 
 **om naar inhoud te zoeken om** opnieuw te gebruiken:
 

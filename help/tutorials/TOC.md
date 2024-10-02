@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe GenStudio voor zelfstudies voor het op de markt brengen van prestaties
 breadcrumb-title: Tutorials
-user-guide-description: Bekijk zelfstudies voor GenStudio for Performance Marketing, een end-to-end oplossing om de toeleveringsketen van content te versnellen en te vereenvoudigen met behulp van generatieve AI en intelligente automatisering.
+user-guide-description: Leer hoe u een end-to-end proces voltooit, zoals het creëren van een e-mailervaring, door GenStudio for Performance Marketing-zelfstudies te volgen.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
+source-git-commit: 1b0121a7006799cc5b2c2168fcb55a9a5ac10601
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '54'
 ht-degree: 1%
 
 ---

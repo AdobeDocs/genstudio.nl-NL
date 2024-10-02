@@ -3,7 +3,7 @@ title: Overzicht van activering
 description: Leer hoe u inhoud activeert met Adobe Experience Cloud en toepassingen van derden.
 feature: Assets, Approval, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: b1550c4b1f624287e432bf7b610f9d31892b13c0
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 _Activering_ is het proces om Adobe GenStudio for Performance Marketing-Gegenereerde activa en ervaringen beschikbaar te maken voor levering door uw uitgezochte kanalen en producten van Adobe Experience Cloud. U kunt goedgekeurde inhoud eenvoudig vanuit GenStudio for Performance Marketing exporteren in de optimale indelingen voor de toepassingen van derden die u in [!DNL Products] hebt opgenomen.
 
-De GenStudio for Performance Marketers-activeringsfunctie is native geïntegreerd in de leveringsproducten voor de Adobe: Journey Optimizer, Journey Optimizer B2B-editie, Experience Manager, Marketo en Target.
+De GenStudio for Performance Marketing-activeringsfunctie is native geïntegreerd in de leveringsproducten van de Adobe: Journey Optimizer, Journey Optimizer B2B-editie, Experience Manager, Marketo en Target.
 
 **om een goedgekeurd activa** te activeren:
 

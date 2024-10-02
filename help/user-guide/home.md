@@ -1,24 +1,19 @@
 ---
 title: Gebruikershandleiding voor Adobe GenStudio
-description: Laat marketers en superprijscreatieven met GenStudio for Performance Marketers, de AI-Eerste toepassing van de Adobe die zelfbedieningstoegang tot on-brand inhoud met bedrijfsgaranties en bestuur voor krachtige ervaringen verleent.
+description: Ontdek de mogelijkheden van Adobe GenStudio for Performance Marketing. Leer hoe u snel online middelen kunt maken, variaties kunt genereren en ervaringen kunt optimaliseren.
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 845cf9321c92598f42a92e89cb6331a8b122a894
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-# Gebruikershandleiding voor Adobe GenStudio voor prestatiemarkeringen
+# Adobe GenStudio for Performance Marketing-gebruikershandleiding
 
-Adobe GenStudio voor de Marketers van Prestaties is een AI-gedreven platform dat u machtigt om marketing inhoud te produceren en te beheren die aan uw merknormen voldoet en aan uw ondernemingsbeleid voldoet.
+Adobe GenStudio for Performance Marketing is een AI-platform dat u de mogelijkheid biedt om marketinginhoud te genereren en te beheren die voldoet aan uw merkstandaarden en voldoet aan uw bedrijfsbeleid.
 
-Door gebruik te maken van Adobe AI-technologie, biedt GenStudio for Performance Marketers een uitgebreide reeks tools die de complexiteit van het maken en beheren van content vereenvoudigen, zodat creatieve mensen zich kunnen richten op innovatie.
-
-## Nieuwe functies
-
-- [[!DNL Insights Channels]](insights/channels.md) — Nieuw overzicht van de betrokkenheid van klanten, prestaties, budget en uitgaven voor marketingcampagnes.
-- [[!DNL Insights Experiences]](insights/experiences.md) — Nieuw overzicht van inzichten met betrekking tot ervaringen en prestaties.
+Door gebruik te maken van Adobe AI-technologie, biedt GenStudio for Performance Marketing een uitgebreide reeks hulpmiddelen die de complexiteit van het maken en beheren van content vereenvoudigen, zodat creatieve mensen zich kunnen richten op innovatie.
 
 ## Mogelijkheden verkennen
 
@@ -103,7 +98,7 @@ Door gebruik te maken van Adobe AI-technologie, biedt GenStudio for Performance 
       </a>
    </div>
    <p>
-      <em> leer hoe te om richtlijnen-merken, Producten, en personas-aan GenStudio voor de Marketers van Prestaties toe te voegen.</em>
+      <em> leer hoe te om richtlijnen-merken, Producten, en personas-aan GenStudio for Performance Marketing toe te voegen.</em>
    </p>
 </td>
 <td valign="top">

@@ -3,16 +3,16 @@ title: Overzicht van  [!DNL Insights]
 description: Leer hoe u ervaringen kunt optimaliseren op basis van real-time waarden voor inhoudsprestaties.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: 723b1f826fe5ceefcf9c1beff09af9b3d56462c5
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio voor prestatiemarkeringen [!DNL Insights]
+# Adobe GenStudio for Performance Marketing [!DNL Insights]
 
-Adobe GenStudio voor prestatiemarkeringen [!DNL Insights] biedt geavanceerde analyses en inzichten in de prestaties van inhoud die u kunnen helpen gegevensgestuurde beslissingen te nemen.
+Adobe GenStudio for Performance Marketing [!DNL Insights] biedt geavanceerde analyses en inzichten in de prestaties van inhoud die u kunnen helpen gegevensgestuurde beslissingen te nemen.
 
 Vanuit het dashboard van [!DNL Insights] kunt u:
 
@@ -22,7 +22,7 @@ Vanuit het dashboard van [!DNL Insights] kunt u:
 
 >[!TIP]
 >
->Zie [ Connect kanaalrekening ](connect-channel.md) voor stappen om GenStudio voor de Marketers van Prestaties toe te laten om gegevens van uw huidige marketing campagnes, activa, en ervaringen te ontvangen.
+>Zie [ Connect kanaalrekening ](connect-channel.md) voor stappen om GenStudio for Performance Marketing toe te laten om gegevens van uw huidige marketing campagnes, activa, en ervaringen te ontvangen.
 
 ## Dashboard
 
@@ -31,8 +31,6 @@ Het dashboard van [!DNL Insights] heeft een configureerbare tabel voor elk inhou
 ![[!DNL Insights] dashboard ](/help/assets/insights-dashboard.png)
 
 In elke weergave wordt een bijbehorende tabel weergegeven die u kunt zoeken op trefwoorden, filters en datumbereik. U kunt op het pictogram Instellingen (cog) boven de rechterkant van de tabel klikken om de zichtbare kolomtypen in en uit te schakelen. In de rij _[!UICONTROL Summary]_kunnen totalen of gemiddelden van een kolom worden weergegeven.
-
-Zie [ kolommen van Gegevens voor  [!DNL Insights]](data-columns.md) voor een beschrijving van elk kolomtype in de lijst.
 
 [!UICONTROL Experiences] , [!UICONTROL Assets] en [!UICONTROL Attributes] bevatten een galerieweergave waarmee u elementen kunt scannen en sorteren met kaarten met een afbeeldings- of videominiatuur. Er is een optie om een van de drie belangrijkste meetgegevens op elke kaart weer te geven: `Click-through rate`, `Cost per click` en `Spend` .
 
@@ -50,7 +48,7 @@ De weergave [!DNL Insights] _[!UICONTROL Assets]_is ontworpen om u te helpen de 
 
 Als u op een element klikt, krijgt u meer inzicht in de prestaties van het middel in verschillende ervaringen:
 
-![ mening van Activa ](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+![ de details van Activa ](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 In de middelenweergave ziet u links een miniatuur van het element en een lijst met kenmerken. Er zijn drie gemarkeerde metriek: `Click-through rate` , `Cost per click` en `Spend` . De prestatie laat zien hoe werkelijke waarden (effen lijn) worden vergeleken met de gemiddelde waarde (stippellijn) over de geselecteerde tijdsperiode (de standaardwaarde is `Last 30 days` ).
 

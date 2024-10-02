@@ -3,9 +3,9 @@ title: Gegevens van element
 description: Adobe GenStudio for Performance Marketing slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
+source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,9 @@ Standaardmetagegevens die voor een element zijn opgeslagen en vastgelegd, zijn o
 
 ### Gegenereerde tags
 
-Wanneer u een goedgekeurd element opslaat in [!DNL Content] , gebruikt GenStudio for Performance Marketing de AI- en computerleermogelijkheden van Adobe om het element te bestuderen en labels toe te passen op basis van de functies van het element. Een afbeelding van een kat kan bijvoorbeeld resulteren in slimme tags zoals `pet photography` of `cat` en in kleurtags die dominante kleuren in de afbeelding identificeren. U kunt labels niet bewerken.
+Wanneer u een goedgekeurd element opslaat in [!DNL Content] , gebruikt GenStudio for Performance Marketing de AI- en computerleermogelijkheden van Adobe om het element te bestuderen en labels toe te passen op basis van de functies van het element. Een afbeelding van een kat kan bijvoorbeeld kenmerkcodes als `pet photography` of `cat` opleveren en kleurcodes die dominante kleuren in de afbeelding identificeren. U kunt labels niet bewerken.
+
+Zie [ Attributen van Inzichten ](/help/user-guide/insights/attributes.md).
 
 ### Metagegevens over gegenereerde inhoud
 

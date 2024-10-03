@@ -2,9 +2,9 @@
 title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Content, Assets, Experiences
-source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
+source-git-commit: c1cc90b4c80b6b754b34ac609e8e94b799386fad
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '950'
 ht-degree: 0%
 
 ---
@@ -97,9 +97,28 @@ Beschikbare grootte/hoogte-breedteverhoudingen zijn:
 
 1. Klik op **[!UICONTROL Duplicate and resize]**.
 
-[!DNL Create] maakt een kopie van elke variant op basis van de nieuwe geselecteerde hoogte-breedteverhouding. Alle varianten, inclusief varianten in de aanvankelijke hoogte-breedteverhouding, zijn aanwezig op het canvas.
+   [!DNL Create] maakt een kopie van elke variant op basis van de nieuwe geselecteerde hoogte-breedteverhouding. Alle varianten, inclusief varianten in de aanvankelijke hoogte-breedteverhouding, zijn aanwezig op het canvas.
 
-Bijvoorbeeld, als u vier varianten in een 1:1 aspectverhouding aanvankelijk produceert en dan de aspectverhouding in 4:5 verandert, _acht_ totale varianten zijn nu beschikbaar op het Canvas.
+   Bijvoorbeeld, als u vier varianten in een 1:1 aspectverhouding aanvankelijk produceert en dan de aspectverhouding in 4:5 verandert, _acht_ totale varianten zijn nu beschikbaar op het Canvas.
+
+## Afbeelding wisselen
+
+U kunt afbeeldingen in gegenereerde varianten rechtstreeks vanaf het canvas toevoegen of omwisselen.
+
+**om beelden in een variant** toe te voegen of te ruilen:
+
+1. Nadat u een set varianten hebt gegenereerd, klikt u op een afbeeldingselement.
+
+   Als de variant momenteel geen geplaatst afbeeldingselement heeft, klikt u op het gebied met afbeeldingselementen.
+
+1. Selecteer een afbeeldingselement dat al is gepubliceerd naar [!DNL Content] :
+   1. Klik op **[!UICONTROL Select from content]**. Gebruik de filters om de zoekresultaten verder te verfijnen.
+   1. Klikken **[!UICONTROL Use]**
+1. Een afbeeldingselement uploaden:
+   1. Klik op **[!UICONTROL Upload New Image]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. Naast het bladeren door uw apparaat kunt u ook importeren vanuit Microsoft OneDrive of Dropbox.
+   1. Klik op **[!UICONTROL Add Assets]**.
+
+   De afbeeldingen worden toegevoegd of omgewisseld in de desbetreffende variant.
 
 ## Voorvertoning voor apparaat
 
@@ -119,7 +138,7 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 
    De variant wordt gemarkeerd en er wordt een snelmenu weergegeven.
 
-1. Selecteer **[!UICONTROL Delete]** in de beschikbare menuopties.
+1. Selecteer **[!UICONTROL Delete]** uit de beschikbare opties.
 
    De variant wordt verwijderd.
 

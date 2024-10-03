@@ -7,7 +7,7 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
+source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -87,7 +87,7 @@ Bij het herzien en voorbereiden van e-mailervaringen kunt u schakelen tussen voo
 
 ## De uitlijning van merken controleren
 
-Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekkend een samenvatting van merkgroepering voor een variant-en [_het paneel van de Bevestiging van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige details van de brandbevestiging en verlichtende verbeteringsgebieden.
+Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekkend een samenvatting van brandgroepering voor een variant-en [_het 3} paneel ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige details van de brandbevestiging en verlichtende verbeteringsgebieden._
 
 **om brandgroepering** te verifiëren:
 

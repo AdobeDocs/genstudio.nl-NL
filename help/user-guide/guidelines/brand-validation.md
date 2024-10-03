@@ -3,9 +3,9 @@ title: Merkwaardvalidatie in Adobe GenStudio voor prestatiemarketing
 description: Leer hoe het ingebouwde systeem voor merkvalidatie werkt in GenStudio for Performance Marketing.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
+source-git-commit: 48224f6eaf3395a18869a7f702a49629d39186af
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ Een samenvatting van de informatie van de merkbevestiging voor elke geproduceerd
 
 De _controle van de Merk_ toont het percentage van naleving van uw [ merk ](brands.md). Het percentage wordt berekend als aantal [ richtlijnen ](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen.
 
-Klik op het pictogram om te zien welke richtlijnen voldoen aan uw merk en welke richtlijnen moeten worden gecontroleerd.
+Klik op het pictogram om te zien hoeveel richtlijnen voldoen aan uw merk en hoeveel richtlijnen u wilt controleren.
 
 Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
 ## Deelvenster Handtekeningvalidatie
 
-Het _paneel van de Bevestiging van de Merk_ verstrekt gedetailleerde informatie van de brandbevestiging en illumineert kansen voor verbetering voor elke variantsectie.
+Het _paneel van de Bevestiging van het Merk_ opent op de rechterkant van het Canvas wanneer geklikt van de hoogste menubar _of_ van het _pictogram van de de richtingencontrole van het Merk_ voor een variant. Dit paneel verstrekt gedetailleerde informatie van de merkbevestiging en belicht kansen voor verbetering voor elke variantsectie.
 
-Het _paneel van de Bevestiging van de Merk_ toont informatie voor:
+Het _paneelvertoningeninformatie van de bevestiging van het merk van 0} {voor:_
 
 * **E-mail**:
    * Onderwerpsectie
@@ -55,14 +55,9 @@ Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
 In het _paneel van de Bevestiging van de Merk_ kunt u filteren welke richtlijnen worden getoond. Klik op het filterpictogram boven in het deelvenster om het weer te geven:
 
-* **Ontbroken richtlijnen** - _tonen ontbroken richtlijnen_ tonen slechts de richtlijnen die geen merkbevestiging overgingen.
-* **Alle richtlijnen** - _tonen ontbroken en overgegaan richtlijnen_ toont alle richtlijnen waarvoor de varianten tegen worden gemeten.
-* **overgegaan richtlijnen** - _tonen overgegaane richtlijnen_ toont slechts de richtlijnen die merkbevestiging overgingen.
-
-<!-- The _Brand validation panel_ has different areas of focus for each content channel:
-
-* Email - brand voice and channel compliance
-* Images - application photography restrictions and other considerations -->
+* **Richtlijnen die** worden ontmoet - Toont slechts de richtlijnen die merkbevestiging overgingen.
+* **Richtlijnen die aandacht** nodig hebben - toont slechts de richtlijnen die geen merkbevestiging overgingen en verdere veranderingen nodig hebben om merkvolgzaam te zijn.
+* **allebei** - toont alle richtlijnen waarvoor de varianten tegen worden gemeten.
 
 ## De uitlijning van merken verbeteren
 
@@ -72,11 +67,11 @@ Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare mer
 
 1. Klik op het pictogram **[!UICONTROL [!DNL Brand] guidelines check]** voor een afzonderlijke variant.
 
-   Zie een samenvatting van hoe die specifieke variant presteert-richtlijnen die merkbevestiging en die overgaan die revisie-wanneer gecontroleerd tegen uw merk.
+   Bekijk een overzicht van het aantal richtlijnen voor merken dat voldoet aan de validatie van merken of meer aandacht nodig heeft.
 
-1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ het pictogram van de Bevestiging van het Merk in hoogste menubar om het _paneel van de Bevestiging van het Merk_ te openen.
+1. Om de details van de secties en de richtlijnen te krijgen die verbetering vereisen, klik **[!UICONTROL Review]** _of_ klik het _pictogram van de Bevestiging van het Merk_ in hoogste menubar om het _paneel van de Bevestiging van de Merk_ te openen.
 
-   Zie alle secties en merkrichtlijnen die u aandacht behoeven. De sectie die in het deelvenster wordt gemarkeerd, komt overeen met de sectie die is gemarkeerd in de gegenereerde variant op het canvas.
+   Zie alle secties en merkrichtlijnen die u aandacht behoeven. <!-- The section highlighted in the panel corresponds to the section highlighted in the generated variant in the Canvas. -->
 
    >[!NOTE]
    >
@@ -84,14 +79,15 @@ Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare mer
 
 1. Wijzig handmatig de variantsecties om deze zo sterk mogelijk aan te passen aan uw merk.
 
-1. Nadat u de wijzigingen hebt aangebracht, klikt u op **[!UICONTROL Re-check]** om uw wijzigingen te valideren en ervoor te zorgen dat deze meer op uw merkidentiteit zijn afgestemd.
+1. Nadat u de benodigde wijzigingen hebt aangebracht, klikt u op **[!UICONTROL Check again]** om uw wijzigingen opnieuw te controleren en te valideren om ervoor te zorgen dat deze beter aansluiten op uw merkidentiteit.
 
-   Het merkvalidatieproces wordt opnieuw uitgevoerd. Als de sectie/de richtlijn bevestiging overgaat, verschijnt een groen controleteken voor die sectie in het _paneel van de Bevestiging van de Merk_. Het percentage in de _pictogram van de de richtingcontrole van het Merk_ voor de herziene variant toont ook uw vooruitgang.
+   Het merkvalidatieproces wordt opnieuw uitgevoerd. Als de sectie/hulplijn de validatie doorgeeft, verschijnt een groene banner onder aan het canvas om te bevestigen dat de score van de merkenrichtlijnen is bijgewerkt. Als er na een nieuwe controle geen wijziging is opgetreden, bevestigt de banner &quot;Geen wijziging van de score van de merkoriëntatie&quot;. Het percentage in de _pictogram van de de richtingcontrole van het Merk_ voor de herziene variant toont ook uw vooruitgang.
 
 1. Ga door met het reviseren van secties om ervoor te zorgen dat de hele variant de validatie van het merk doorgeeft.
 
    Navigeer tussen richtlijnen in het _paneel van de Bevestiging van de Merk_ gebruikend de **[!UICONTROL Next]** en **[!UICONTROL Previous]** knopen.
 
-1. Bij de bovenkant van het _paneel van de Bevestiging van de Merk_, navigeer door elke variant gebruikend de pijlen (bijvoorbeeld, gebruik de pijl om zich van `Email 1` aan `Email 2` te bewegen) en verder het herzien secties aan uw merk beter te houden.
+1. Navigeer door elke variant met behulp van de pijlen naast een afzonderlijke variant op het canvas. Gebruik bijvoorbeeld de pijl om van `Email 1/4` naar `Email 2/4` te gaan.
+1. Blijf de secties herzien om je merk beter aan te passen.
 
    Zie [ de stemrichtlijnen van het Merk ](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) voor meer informatie over overwogen richtlijnen.

@@ -3,7 +3,7 @@ title: Effectieve aanwijzingen schrijven
 description: Leer hoe u effectieve herinneringen voor Adobe GenStudio for Performance Marketing schrijft.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md), kunt u **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) en een herinnering) in het snelle gebied gebruiken om details door selectie toe te voegen om de AI interpretatie te verbeteren.
 
-Voor [ e-mails ](/help/tutorials/create-email-experience.md), zouden de snelle criteria het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [ Meta en ](/help/tutorials/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand activa, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [ vormende richtlijnen ](/help/user-guide/guidelines/add-guidelines.md).
+Voor [ e-mails ](/help/user-guide/create/email-experiences.md), zouden de snelle criteria het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [ Meta en ](/help/tutorials/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand activa, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [ vormende richtlijnen ](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ De richtlijnen van GenStudio for Performance Marketing helpen generatieve AI om 
 
 ### Gestructureerde vragen
 
-Voor e-mailberichten met meerdere secties kunt u vragen structureren om sectie-specifieke instructies te verstrekken om variërende inhoud voor elke sectie in een e-mail te produceren. De gestructureerde herinneringen zouden [ sectienamen in het e-mailmalplaatje ](/help/user-guide/content/email-template.md#multi-section-emails) direct van verwijzingen moeten voorzien zodat de geproduceerde inhoud in de overeenkomstige inhoudsplaatsaanduidingen kan worden opgenomen.
+Voor multi-sectiemails, kunt u herinneringen structureren om sectie-specifieke instructies te verstrekken om variërende inhoud voor elke sectie in een [ e-mail ](/help/user-guide/create/email-experiences.md) te produceren. De gestructureerde herinneringen zouden [ sectienamen in het e-mailmalplaatje ](/help/user-guide/content/email-template.md#multi-section-emails) direct van verwijzingen moeten voorzien zodat de geproduceerde inhoud in de overeenkomstige inhoudsplaatsaanduidingen kan worden opgenomen.
 
 U kunt GenStudio for Performance Marketing bijvoorbeeld de instructie geven om in de eerste sectie van een e-mailbericht inhoud te genereren waarmee een nieuw product wordt bevorderd en om inhoud te genereren waarin de kostenbesparende voordelen van het product in de tweede e-mailsectie worden beschreven.
 

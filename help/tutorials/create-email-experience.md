@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
 
 # Een e-mailervaring maken
 
-Deze zelfstudie laat zien hoe u merkboodschap voor e-mail kunt genereren met GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (pictogram voor penseelstreken in het linkernavigatiegebied).
+Dit leerprogramma toont aan hoe te om gemerkte [ e-mailervaringen ](/help/user-guide/create/email-experiences.md) te produceren gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
 
 Om een efficiënte e-mailervaring tot stand te brengen, adviseert men dat u [ richtlijnen aan GenStudio voor het Op de markt brengen van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toevoegt en omhoog op de [ grondbeginselen van het creëren van een herinnering ](/help/user-guide/effective-prompts.md) alvorens u begint.
 
@@ -44,8 +44,11 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
    Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Klik **[!UICONTROL Select content]** om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden.
-   * Klik op **[!UICONTROL Select from content]** om elementen (afbeeldingen) te selecteren die al zijn gepubliceerd naar [!DNL Content] . Gebruik de filters om de zoekresultaten verder te verfijnen.
-   * Klik op **[!UICONTROL Upload]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. U kunt uw apparaat ook importeren vanuit Microsoft OneDrive of Dropbox.
+   * Als u elementen (afbeeldingen) wilt selecteren in de [!DNL Content] -opslagplaats, klikt u op **[!UICONTROL Select from content]** . Filter een of meer afbeeldingen en selecteer deze.
+
+     Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2} dropdown menu van de Plaats {._ Filter een of meer afbeeldingen en selecteer deze.
+
+   * Als u een of meer nieuwe elementen wilt uploaden, klikt u op **[!UICONTROL Upload]** , bladert u door uw bestanden en kiest u de elementen die u wilt gebruiken. Naast het bladeren door uw apparaat kunt u ook importeren vanuit Microsoft OneDrive of Dropbox. Klik om de gewenste afbeeldingen te selecteren.
    * De belemmering en laat vallen activa in de _Inhoud_ sectie.
 1. Klik op **[!UICONTROL Use]**.
 
@@ -68,6 +71,8 @@ Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijv
 
 Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd, en weergegeven in het canvas.
 
+Gegenereerde inhoud wordt progressief geladen. Elke sectie van de e-mailervaring wordt gegenereerd en wordt weergegeven op het canvas. Zie [ E-mailervaringen ](/help/user-guide/create/meta-experiences.md#progressive-loading) leren hoe die veranderingen in het Canvas worden geladen.
+
 ## Gegenereerde e-mails reviseren
 
 Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u e-mailsecties bewerken of een variant uit de set gegenereerde e-mailberichten verwijderen.
@@ -75,15 +80,17 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 **om geproduceerde varianten** te herzien:
 
 * **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
-* **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
+* **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
+* **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, het optiepictogram (drie punten) voor een variant te klikken en **[!UICONTROL Delete]** te klikken.
+
+## Feedback op generatie verzenden
+
+Om [ voor te leggen terugkoppelt ](/help/user-guide/create/manage-variants.md#generation-feedback) over de kwaliteit van de generatieoutput, klik het optiepictogram (drie punten) en selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]**.
 
 ## Voorvertoning voor apparaat
 
-Bij het herzien en voorbereiden van e-mailervaringen kunt u schakelen tussen voorvertoningen voor desktop- en mobiele weergaven om de coherentie en visuele aantrekkingskracht van ontwerpvarianten te garanderen.
-
-**aan voorproefvarianten voor Desktop en mobiele apparaten**, knevel de apparatenvoorproef optie-tussen **Desktop** en **mobiel**-in de juiste menubar (computer en telefoonpictogrammen) aan voorproef hoe de varianten verschijnen.
+Wanneer het herzien van en het voorbereiden van e-mailervaringen, kunt u [ schakelen tussen voorproeven voor Desktop en mobiele meningen ](/help/user-guide/create/manage-variants.md#preview-for-device) om coherentie en visuele aantrekkingskracht van ontwerp varianten te verzekeren.
 
 ## De uitlijning van merken controleren
 

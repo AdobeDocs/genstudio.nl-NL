@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
 
 # Een meta-advertentie maken
 
-In deze zelfstudie wordt uitgelegd hoe u Meta-advertenties met branding genereert met GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (pictogram voor penselen in het linkernavigatiegebied).
+Dit leerprogramma toont aan hoe te om branded [ Meta te produceren en ervaart ](/help/user-guide/create/meta-experiences.md) gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
 
 Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [ richtlijnen ](/help/user-guide/guidelines/add-guidelines.md) in GenStudio voor de Marketing van Prestaties op te nemen en vertrouwd te worden met de grondbeginselen van [ het creëren van een herinnering ](/help/user-guide/effective-prompts.md).
 
@@ -44,8 +44,11 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
    Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Klik **[!UICONTROL Select content]** om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden.
-   * Klik op **[!UICONTROL Select from content]** om elementen (afbeeldingen) te selecteren die al zijn gepubliceerd naar [!DNL Content] . Gebruik de filters om de zoekresultaten verder te verfijnen.
-   * Klik op **[!UICONTROL Upload]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. U kunt uw apparaat ook importeren vanuit Microsoft OneDrive of Dropbox.
+   * Als u elementen (afbeeldingen) wilt selecteren die al naar [!DNL Content] zijn gepubliceerd, klikt u op **[!UICONTROL Select from content]** en klikt u om de gewenste afbeeldingen te selecteren. Gebruik de filters om de zoekresultaten verder te verfijnen.
+
+     Als u activa reeds in een verbonden AEM bewaarplaats van Content Hub wilt gebruiken, selecteer de toepasselijke plaats van het _drop-down menu van de Plaats_ en klik om de gewenste beelden te selecteren.
+
+   * Klik op **[!UICONTROL Upload]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. U kunt uw apparaat ook importeren vanuit Microsoft OneDrive of Dropbox. Klik om de gewenste afbeeldingen te selecteren.
    * De belemmering en laat vallen activa in de _Inhoud_ sectie.
 1. Klik op **[!UICONTROL Use]**.
 
@@ -63,6 +66,8 @@ Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijv
 1. Klik op **[!UICONTROL Generate]**.
 
 Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd, en weergegeven in het canvas.
+
+Gegenereerde inhoud wordt progressief geladen. Elke sectie van de Meta-ervaring wordt gegenereerd en wordt weergegeven in het canvas. Zie {de ervaringen van 0} Meta ](/help/user-guide/create/meta-experiences.md#progressive-loading) leren hoe die veranderingen in het Canvas worden geladen.[
 
 ## Kanaal voor metagegevensadvertenties kiezen
 
@@ -82,9 +87,13 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 * **om [ manueel uit te geven een Meta advertentie](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
 * **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_een URL in voor de aanroepingstekst.
 * **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
 * **[ om aMeta te schrappen advertentie](/help/user-guide/create/manage-variants.md#delete-variant)**, de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te klikken en **[!UICONTROL Delete variant]** te klikken.
+
+## Feedback op generatie verzenden
+
+Om [ voor te leggen terugkoppelt ](/help/user-guide/create/manage-variants.md#generation-feedback) over de kwaliteit van de generatieoutput, klik het optiepictogram (drie punten) en selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]**.
 
 ## De uitlijning van merken controleren
 

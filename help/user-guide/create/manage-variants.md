@@ -2,9 +2,9 @@
 title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Content, Assets, Experiences
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '844'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Varianten beheren
 
-Met Adobe GenStudio voor Performance Marketing [!DNL Create] kunt u gegenereerde varianten (e-mails, Meta-advertenties en meer) aanpassen en verbeteren voor gebruik in digitale marketinginitiatieven.
+Adobe GenStudio for Performance Marketing [!DNL Create] laat u toe om geproduceerde varianten aan te passen en te verbeteren - [ e-mails ](/help/user-guide/create/email-experiences.md), [ advertenties van Meta ](/help/user-guide/create/meta-experiences.md), en meer-voor gebruik in digitale marketing initiatieven.
 
 Wanneer [ het creëren van ervaringen ](/help/tutorials/tutorials.md), kunt u inhoud en activa van geproduceerde varianten individueel of in een partij wijzigen. Dankzij de mogelijkheid om varianten op individueel microniveau te beheren, kunt u elk stukje gegenereerde inhoud expliciet beheren.
 
@@ -53,20 +53,20 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
-## Crop assets
+## Elementen uitsnijden
 
-You can manually crop and reposition image assets in individual generated variants.
+U kunt afbeeldingselementen handmatig uitsnijden en verplaatsen in afzonderlijke gegenereerde varianten.
 
-**To crop and reposition images in variants**:
+**om beelden in varianten uit te snijden en te verplaatsen**:
 
-1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. Nadat u een set varianten hebt gegenereerd, plaatst u de muisaanwijzer boven een afbeelding binnen een variant.
+1. Klik op het uitsnijdpictogram in de linkerhoek van de afbeelding.
+1. Pas het selectiekader van de afbeelding aan en sleep de afbeelding naar de gewenste positie.
+1. Klik op **[!UICONTROL Apply]** om het uitsnijden toe te passen op één afbeelding of op **[!UICONTROL Apply to all images]** om het toe te passen op alle afbeeldingen in de varianten.
 
-   The cropped image is automatically saved and visible for the variant. -->
+   De uitgesneden afbeelding wordt opgeslagen en zichtbaar voor de varianten.
 
 ## Hoogte-breedteverhouding wijzigen
 
@@ -101,6 +101,12 @@ Beschikbare grootte/hoogte-breedteverhoudingen zijn:
 
 Bijvoorbeeld, als u vier varianten in een 1:1 aspectverhouding aanvankelijk produceert en dan de aspectverhouding in 4:5 verandert, _acht_ totale varianten zijn nu beschikbaar op het Canvas.
 
+## Voorvertoning voor apparaat
+
+Bij het herzien en voorbereiden van e-mailervaringen kunt u schakelen tussen voorvertoningen voor desktop- en mobiele weergaven om de coherentie en visuele aantrekkingskracht van ontwerpvarianten te garanderen.
+
+**aan voorproefvarianten voor Desktop en mobiele apparaten**, knevel de apparatenvoorproef optie-tussen **Desktop** en **mobiel**-in de juiste menubar (computer en telefoonpictogrammen) aan voorproef hoe de varianten verschijnen.
+
 ## Variant verwijderen
 
 U kunt gegenereerde varianten verwijderen die u niet wilt opslaan of opnieuw wilt gebruiken.
@@ -109,7 +115,7 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 
 **om een geproduceerde variant** te schrappen:
 
-1. Nadat u een set varianten hebt gegenereerd, klikt u op de naam boven een variant.
+1. Nadat u een set varianten hebt gegenereerd, klikt u op het optiepictogram (drie stippen) boven een variant.
 
    De variant wordt gemarkeerd en er wordt een snelmenu weergegeven.
 
@@ -122,3 +128,27 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 Gebruik _[!UICONTROL Brand guidelines check]_en_[!UICONTROL Brand validation panel]_ om een consistente merkidentiteit en uitlijning van varianten te behouden.
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+
+## Feedback genereren
+
+Feedback op de kwaliteit van gegenereerde merkgebonden elementen kan worden ingediend om het proces voor het genereren van inhoud te verbeteren. Als u aangeeft of de resultaten van hoge of slechte kwaliteit zijn, wordt de algehele kwaliteit van de inhoud en de veiligheid van de gebruiker in GenStudio for Performance Marketing verbeterd.
+
+Generatie-feedback is van toepassing op een individuele variant, niet op de verzamelde set varianten.
+
+**om generatie voor te leggen terugkoppelt**:
+
+1. Nadat u een set varianten hebt gegenereerd, klikt u op het optiepictogram (drie stippen) boven een variant.
+
+   De variant wordt gemarkeerd en er wordt een snelmenu weergegeven.
+
+1. Selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]** .
+
+   Er verschijnt een pop-up met feedback om meer informatie te verzamelen. Gegenereerde inhoud en snelle informatie worden opgenomen in uw feedback.
+
+1. Voeg de volgende informatie toe in het pop-upvenster met feedback:
+   1. Selecteer de optie _[!UICONTROL Also include your reference content and layer data]_om die extra referentiegegevens op te nemen in de verzamelde feedback.
+   1. Selecteer in de sectie _[!UICONTROL What worked well?]_of_[!UICONTROL What went wrong?]_ de opties die de kwaliteit van het genereren van inhoud verbeteren of verlagen.
+   1. Voeg andere nuttige of verwante informatie toe in het veld _[!UICONTROL Notes]_.
+1. Klik op **[!UICONTROL Submit]**.
+
+   Er verschijnt een banner om te bevestigen dat je feedback hebt verzonden.

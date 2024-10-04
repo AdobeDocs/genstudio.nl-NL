@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing-concepten
 description: Leer Adobe GenStudio for Performance Marketing-concepten en -terminologie.
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: 9016841b6a788fe5ca50f3e9c0d774a248a6c793
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -25,7 +25,9 @@ Met GenStudio for Performance Marketing kunt u:
 
 GenStudio for Performance Marketing maakt gebruik van de kracht van generatieve AI om het maken van inhoud te versnellen en ervoor te zorgen dat inhoud van hoge kwaliteit wordt gegenereerd. De iteratieve levenscyclus van uw creatieve middelen resulteert in steeds nauwkeurigere en merkgerichtere inhoud die aansluit bij uw doelgroep.
 
-Begin met het effectief trainen van GenStudio for Performance Marketing op de branding van uw organisatie, klanten en productbeschrijvingen via de krachtige functie voor merkrichtlijnen. Zie het [ overzicht van Richtlijnen ](../user-guide/guidelines/overview.md) leren hoe te om deze richtlijnen voor te bereiden en te uploaden.
+Begin met het effectief trainen van GenStudio for Performance Marketing op de branding van uw organisatie, klanten en productbeschrijvingen via de krachtige functie voor merkrichtlijnen.
+
+Zie het [ overzicht van Richtlijnen ](../user-guide/guidelines/overview.md) leren hoe te om deze richtlijnen voor te bereiden en te uploaden.
 
 ## Levenscyclus van inhoud
 
@@ -34,7 +36,7 @@ De vraag is hoog voor hoogwaardige ervaringen in meerdere kanalen in een sneller
 <table style="table-layout:fixed">
 <tr style="border: 0;">
     <td style="width: 120px;">
-       <img alt="kalender" src="../assets/csc-workflow-planning.svg" width="100">
+       <img alt="kalender" src="../assets/csc-workflow-planning.png" width="100">
     </td>
     <td>
         <p>Brainstorm-ideeën, richtlijnen definiëren en een strategie rond de inhoud maken om het publiek erbij te betrekken.</p>
@@ -42,7 +44,7 @@ De vraag is hoog voor hoogwaardige ervaringen in meerdere kanalen in een sneller
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="penseel en canvas" src="../assets/csc-creation-production.svg" width="100">
+        <img alt="penseel en canvas" src="../assets/csc-creation-production.png" width="100">
     </td>
     <td>
         <p>Produceer de inhoud die op het plan wordt gebaseerd. Werk in real time samen, ontvang terugkoppelen, geef uit, en keur inhoud goed.</p>
@@ -50,7 +52,7 @@ De vraag is hoog voor hoogwaardige ervaringen in meerdere kanalen in een sneller
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="afbeeldingen en meer" src="../assets/csc-content-mgmt.svg" width="100">
+        <img alt="afbeeldingen en meer" src="../assets/csc-content-mgmt.png" width="100">
     </td>
     <td>
         <p>U kunt creatieve middelen opslaan, delen en zoeken in de gecentraliseerde opslagplaats. Inhoud op basis van prestaties opnieuw gebruiken en nieuw leven inblazen.</p>
@@ -58,7 +60,7 @@ De vraag is hoog voor hoogwaardige ervaringen in meerdere kanalen in een sneller
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="papieren vliegtuig" src="../assets/csc-delivery-activation.svg" width="100">
+        <img alt="papieren vliegtuig" src="../assets/csc-delivery-activation.png" width="100">
     </td>
     <td>
         <p>Activeer inhoud en publiceer deze via meerdere marketingkanalen.</P>
@@ -66,7 +68,7 @@ De vraag is hoog voor hoogwaardige ervaringen in meerdere kanalen in een sneller
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="diagram" src="../assets/csc-reporting-insights.svg" width="100">
+        <img alt="diagram" src="../assets/csc-reporting-insights.png" width="100">
     </td>
     <td>
         <p>Gegevens verzamelen en inzichten afleiden voor optimalisatie van de prestaties van bedrijfsmiddelen.</p>

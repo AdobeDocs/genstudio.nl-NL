@@ -2,12 +2,10 @@
 user-guide-title: Adobe GenStudio for Performance Marketing-gebruikershandleiding
 breadcrumb-title: Gebruikershandleiding
 user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio for Performance Marketing. Leer hoe u snel online middelen kunt maken, variaties kunt genereren en ervaringen kunt optimaliseren.
-feature-set: GenStudio
-feature: Generative AI
-source-git-commit: 8fafd823d3d67cadfe095857723ba1e57e2a14fb
+source-git-commit: e0153a2da412b488a1e0d42342e91d0d645a43aa
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 3%
+source-wordcount: '41'
+ht-degree: 4%
 
 ---
 
@@ -15,51 +13,53 @@ ht-degree: 3%
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
 
 + [GenStudio for Performance Marketing Guide](home.md)
-+ Opmerkingen bij de release {#release-notes}
-   + [Opmerkingen bij de release van Beta](beta-release-notes.md)
-+ [Aan de slag](get-started.md)
-+ Inleiding {#intro}
-   + [Concepten](concepts.md)
-   + [Effectieve aanwijzingen](effective-prompts.md)
-   + [ Tutorials ](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
-+ Richtlijnen {#guidelines}
-   + [Overzicht van richtlijnen](guidelines/overview.md)
-   + [Merken](guidelines/brands.md)
-   + [Personas](guidelines/personas.md)
-   + [Producten](guidelines/products.md)
-   + [Richtlijnen toevoegen](guidelines/add-guidelines.md)
-   + [Merkwaardvalidatie](guidelines/brand-validation.md)
-+ Maken {#create}
-   + [[!DNL Create]-overzicht](create/overview.md)
-   + [E-mailervaringen](create/email-experiences.md)
-   + [Meta-ervaringen](create/meta-experiences.md)
-   + [Varianten beheren](create/manage-variants.md)
-+ Revisies en goedkeuringen {#approve}
-   + [Overzicht van revisie en goedkeuring](approvals/overview.md)
-   + [Revisie en goedkeuring van inhoud aanvragen](approvals/request-review.md)
-   + [Inhoud controleren en bewerken](approvals/review-and-edit.md)
-   + [Inhoud goedkeuren](approvals/approve-content.md)
-   + [Door Publish goedgekeurde inhoud](approvals/publish-content.md)
-+ Inhoud {#content}
-   + [Overzicht van inhoud](content/overview.md)
-   + [Middelen en ervaringen beheren](content/manage-assets.md)
-   + [Een AEM maken](content/connect-aem-repo.md)
-   + [Gegevens van element](content/asset-details.md)
-   + Sjablonen {#templates}
-      + [Werken met sjablonen](content/use-templates.md)
-      + [Een sjabloon aanpassen](content/customize-template.md)
-      + [Toegankelijke sjablonen maken](content/accessibility-for-templates.md)
-      + [Een e-mailsjabloon voorbereiden](content/email-template.md)
-      + [Een metagegevensadvertentiesjabloon voorbereiden](content/meta-template.md)
-+ Campagnes {#campaigns}
-   + [Overzicht van campagnes](campaigns/overview.md)
-+ Activering {#activation}
-   + [Overzicht van activering](activation/overview.md)
-+ Inzichten {#insights}
-   + [Overzicht van inzichten](insights/overview.md)
-   + [Connect-kanaalaccount](insights/connect-channel.md)
-   + [Kanalen](insights/channels.md)
-   + [Ervaringen](insights/experiences.md)
-   + [Assets](insights/assets.md)
-   + [Attributen](insights/attributes.md)
-+ [GenStudio Academy - Verborgen](genstudioacademy.md)
+
+<!-- + Release notes {#release-notes}
+  + [Beta release notes](beta-release-notes.md)
++ [Get started](get-started.md)
++ Introduction {#intro}
+  + [Concepts](concepts.md)
+  + [Effective prompts](effective-prompts.md)
+  + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
++ Guidelines {#guidelines}
+  + [Guidelines overview](guidelines/overview.md)
+  + [Brands](guidelines/brands.md)
+  + [Personas](guidelines/personas.md)
+  + [Products](guidelines/products.md)
+  + [Add guidelines](guidelines/add-guidelines.md)
+  + [Brand validation](guidelines/brand-validation.md)
++ Create {#create}
+  + [[!DNL Create] overview](create/overview.md)
+  + [Email experiences](create/email-experiences.md)
+  + [Meta experiences](create/meta-experiences.md)
+  + [Manage variants](create/manage-variants.md)
++ Reviews & Approvals {#approve}
+  + [Review and Approvals overview](approvals/overview.md)
+  + [Request review and approval of content](approvals/request-review.md)
+  + [Review and edit content](approvals/review-and-edit.md)
+  + [Approve content](approvals/approve-content.md)
+  + [Publish approved content](approvals/publish-content.md)
++ Content {#content}
+  + [Content overview](content/overview.md)
+  + [Manage assets and experiences](content/manage-assets.md)
+  + [Connect an AEM repository](content/connect-aem-repo.md)
+  + [Asset details](content/asset-details.md)
+  + Templates {#templates}
+    + [Work with templates](content/use-templates.md)
+    + [Customize a template](content/customize-template.md)
+    + [Create accessible templates](content/accessibility-for-templates.md)
+    + [Prepare an email template](content/email-template.md)
+    + [Prepare a Meta ad template](content/meta-template.md)
++ Campaigns {#campaigns}
+  + [Campaigns overview](campaigns/overview.md)
++ Activation {#activation}
+  + [Activation overview](activation/overview.md)
++ Insights {#insights}
+  + [Insights overview](insights/overview.md)
+  + [Connect channel account](insights/connect-channel.md)
+  + [Channels](insights/channels.md)
+  + [Experiences](insights/experiences.md)
+  + [Assets](insights/assets.md)
+  + [Attributes](insights/attributes.md)
++ [GenStudio Academy - Hidden](genstudioacademy.md)
+ -->

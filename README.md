@@ -15,7 +15,7 @@ Dit project heeft de [Adobe-gedragscode voor open source](code-of-conduct.md) of
 
 ### Kleine wijzigingen
 
-Als u minder belangrijke updates bijdraagt, open het artikel en klik **uitgeven** verbinding, die u aan de bron GitHub voor het artikel neemt. Gebruik GitHub UI om uw updates te maken. Zie de algemene [ de bijdragegids van Docs van de Adobe ](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction).
+Als u minder belangrijke updates bijdraagt, open het artikel en klik **uitgeven** verbinding, die u aan de bron GitHub voor het artikel neemt. Gebruik GitHub UI om uw updates te maken. Zie de algemene [ de bijdragegids van Docs van de Adobe ](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction).
 
 Kleine correcties of verduidelijkingen die u ter documentatie en codevoorbeelden in dit antwoord aanbrengt, vallen onder de gebruiksvoorwaarden van de Adobe.
 
@@ -31,7 +31,7 @@ Als u een technisch schrijver, programmamanager, of ontwikkelaar van een team va
 
 Communautaire contribuanten kunnen GitHub UI voor basishet uitgeven of vork gebruiken het repo om belangrijke bijdragen te leveren.
 
-Zie de [ Gids van de Medewerker van Docs van de Adobe ](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction) voor details.
+Zie de [ Gids van de Medewerker van Docs van de Adobe ](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction) voor details.
 
 ## Markering
 

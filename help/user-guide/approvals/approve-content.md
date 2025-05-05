@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Inhoud goedkeuren
 
-fiatteurs ontvangen productmeldingen, e-mailberichten en, indien ingeschakeld, Slack-berichten wanneer hun beoordeling en goedkeuring nodig is. Meldingen bevatten een koppeling naar het canvas waarop de te controleren inhoud wordt weergegeven. Zie [ voorkeur en berichten van de Rekening ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) voor informatie over het beheren van uw berichten.
+fiatteurs ontvangen productmeldingen, e-mailberichten en, indien ingeschakeld, Slack-berichten wanneer hun beoordeling en goedkeuring nodig is. Meldingen bevatten een koppeling naar het canvas waarop de te controleren inhoud wordt weergegeven. Zie [ voorkeur en berichten van de Rekening ](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/account-preferences) voor informatie over het beheren van uw berichten.
 
 Als het inhoudsconcept voldoet aan de normen van uw organisatie en aan uw verwachtingen, kunt u het concept goedkeuren.
 

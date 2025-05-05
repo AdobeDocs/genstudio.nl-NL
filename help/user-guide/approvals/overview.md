@@ -53,7 +53,7 @@ Beschikbare conceptstatussen:
 
 In GenStudio for Performance Marketing-productmeldingen worden fiatteurs en inhoudseditors bijgewerkt in realtime van wijzigingen in de elementstatus en opmerkingen van `@mention` . Meldingen ondersteunen een snelle herhaling via de meerdere revisie-, bewerkings- en goedkeuringscycli.
 
-Inhoud-editors en -fiatteurs kunnen zich aanmelden om deze meldingen in Slack te ontvangen. Zie [ aan de diensten in Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#slack) intekenen.
+Inhoud-editors en -fiatteurs kunnen zich aanmelden om deze meldingen in Slack te ontvangen. Zie [ aan de diensten in Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/account-preferences#slack) intekenen.
 
 Acties die door deelnemers aan goedkeuringen worden uitgevoerd, activeren automatische meldingen in het product en e-mailmeldingen. Wanneer u een goedkeuringsproces start, ontvangen de aangewezen fiatteurs zowel e-mail- als productmeldingen. U blijft in de lus staan met in-product- en e-mailmeldingen wanneer een fiatteur `@mention` opmerkingen toevoegt of een beslissing neemt. Meldingen bevatten koppelingen naar het inhoudsconcept.
 

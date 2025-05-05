@@ -20,7 +20,7 @@ ht-degree: 73%
 + Introduction {#intro}
   + [Concepts](concepts.md)
   + [Effective prompts](effective-prompts.md)
-  + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
+  + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html?lang=nl-NL)
 + Guidelines {#guidelines}
   + [Guidelines overview](guidelines/overview.md)
   + [Brands](guidelines/brands.md)

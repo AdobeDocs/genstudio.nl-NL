@@ -93,11 +93,11 @@ Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het
 
 **om een malplaatje** toe te voegen:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
 
 1. Klik op **[!UICONTROL Add template]**.
 
-1. Blader in het deelvenster _[!UICONTROL Add your approved template]_naar het sjabloonbestand HTML of sleep het sjabloonbestand HTML naar de dropruimte. Klik op **[!UICONTROL Next]**.
+1. Blader in het deelvenster _[!UICONTROL Add your approved template]_&#x200B;naar het sjabloonbestand HTML of sleep het sjabloonbestand HTML naar de dropruimte. Klik op **[!UICONTROL Next]**.
 
 1. Controleer de gedetecteerde velden in het deelvenster _[!UICONTROL Review discovered fields]_. Controleer of u de juiste sjabloon gebruikt en of alle details naar verwachting zijn. Klik op **[!UICONTROL Next]**.
 
@@ -109,7 +109,7 @@ Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het
    >
    >Als de sjabloon niet correct is, klikt u op **[!UICONTROL Back]** en gaat u terug naar de vorige stap. Upload het gecorrigeerde sjabloonbestand.
 
-1. Geef in het deelvenster _[!UICONTROL Provide template details and upload]_de sjabloon een naam en selecteer een **[!UICONTROL Channel]**type.
+1. Geef in het deelvenster _[!UICONTROL Provide template details and upload]_&#x200B;de sjabloon een naam en selecteer een **[!UICONTROL Channel]**&#x200B;type.
 
    Sjabloonnaam en kanaaltype zijn vereist. Aanvullende eisen kunnen onder meer zijn:
 
@@ -126,7 +126,7 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 
 **om een ervaring met een malplaatje** tot stand te brengen:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
 
    ![ het malplaatjelijst van de Inhoud ](../../assets/content-templates.png){width="650" zoomable="yes"}
 

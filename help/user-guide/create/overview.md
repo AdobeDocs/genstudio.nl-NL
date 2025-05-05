@@ -90,7 +90,7 @@ Om AI-Gegenereerde inhoud tot stand te brengen, ga a [ beschrijvende herinnering
 
 ### Merkwaardvalidatie
 
-GenStudio for Performance Marketing voert merkbevestiging op diverse aspecten van de identiteit van een merk (zoals die in [ richtlijnen ](/help/user-guide/guidelines/overview.md) wordt bepaald). ](/help/user-guide/guidelines/brand-validation.md) informatie van de Bevestiging van het merk [ is beschikbaar voor om het even welke geproduceerde inhoud, die op zijn naleving van merkrichtlijnen en coherentie tussen tekst en beelden wijzen. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
+GenStudio for Performance Marketing voert merkbevestiging op diverse aspecten van de identiteit van een merk (zoals die in [ richtlijnen ](/help/user-guide/guidelines/overview.md) wordt bepaald). [&#128279;](/help/user-guide/guidelines/brand-validation.md) informatie van de Bevestiging van het merk  is beschikbaar voor om het even welke geproduceerde inhoud, die op zijn naleving van merkrichtlijnen en coherentie tussen tekst en beelden wijzen. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
 
 ### Revisies en goedkeuringen
 
@@ -102,7 +102,7 @@ Nadat u klaar bent met het genereren van variaties in de inhoud, stuurt u uw con
 
 In de _Recente het werk_ sectie van [!DNL Create], toegang en beheer alle recente concepten. Bekijk en voltooi uw vorige werk om het voor publicatie aan [[!DNL Content]](/help/user-guide/content/overview.md) klaar te maken.
 
-Concepten die worden uitgevoerd, worden automatisch opgeslagen. Wanneer u terug naar het [!DNL Create] huis navigeert, wordt de _Recente het werk_ sectie bijgewerkt met uw meest recente concepten. Voor elk ontwerp, kunt u zien of het __ is goedgekeurd of nog in _3} vorm van het Ontwerp {is._
+Concepten die worden uitgevoerd, worden automatisch opgeslagen. Wanneer u terug naar het [!DNL Create] huis navigeert, wordt de _Recente het werk_ sectie bijgewerkt met uw meest recente concepten. Voor elk ontwerp, kunt u zien of het __ is goedgekeurd of nog in _3&rbrace; vorm van het Ontwerp &lbrace;is._
 
 ### Varianten beheren
 

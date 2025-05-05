@@ -22,7 +22,7 @@ GenStudio for Performance Marketing voert de merkvalidatie uit op verschillende 
 
 ## Controle merkrichtlijnen
 
-Een samenvatting van de informatie van de merkbevestiging voor elke geproduceerde inhoudvariant is toegankelijk door het _pictogram van de 0} controle van de merkrichtlijnen naast elke variant in het Canvas._
+Een samenvatting van de informatie van de merkbevestiging voor elke geproduceerde inhoudvariant is toegankelijk door het _pictogram van de 0&rbrace; controle van de merkrichtlijnen naast elke variant in het Canvas._
 
 De _controle van de Merk_ toont het percentage van naleving van uw [ merk ](brands.md). Het percentage wordt berekend als aantal [ richtlijnen ](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen.
 
@@ -34,7 +34,7 @@ Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
 Het _paneel van de Bevestiging van het Merk_ opent op de rechterkant van het Canvas wanneer geklikt van de hoogste menubar _of_ van het _pictogram van de de richtingencontrole van het Merk_ voor een variant. Dit paneel verstrekt gedetailleerde informatie van de merkbevestiging en belicht kansen voor verbetering voor elke variantsectie.
 
-Het _paneelvertoningeninformatie van de bevestiging van het merk van 0} {voor:_
+Het _paneelvertoningeninformatie van de bevestiging van het merk van 0&rbrace; &lbrace;voor:_
 
 * **E-mail**:
    * Onderwerpsectie

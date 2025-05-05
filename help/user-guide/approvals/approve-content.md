@@ -24,4 +24,4 @@ Als het inhoudsconcept voldoet aan de normen van uw organisatie en aan uw verwac
 
 1. Selecteer **[!UICONTROL Approved]** .
 
-Uw werk als fiatteur is voltooid. Adobe GenStudio for Performance Marketing waarschuwt de maker van het concept dat je goedkeuring hebt verleend. Zie {de inhoud van 0} Publish ](./publish-content.md) voor een overzicht van het proces om aan [!DNL Content] te bewaren, of _het publiceren_.[
+Uw werk als fiatteur is voltooid. Adobe GenStudio for Performance Marketing waarschuwt de maker van het concept dat je goedkeuring hebt verleend. Zie {de inhoud van 0} Publish [&#128279;](./publish-content.md) voor een overzicht van het proces om aan [!DNL Content] te bewaren, of _het publiceren_.

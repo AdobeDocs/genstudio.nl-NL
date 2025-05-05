@@ -18,13 +18,13 @@ Elk element (met inbegrip van ervaringen en malplaatjes) heeft _details_ (meta-g
 
 **om activa details** te bekijken:
 
-1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_&#x200B;een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Reviseer in de elementweergave de _[!UICONTROL Details]_-sectie aan de rechterkant.
 
    >[!TIP]
    >
-   >Als de sectie _[!UICONTROL Details]_niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
+   >Als de sectie _[!UICONTROL Details]_&#x200B;niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
 
    De elementdetails omvatten metagegevens die zijn toegepast tijdens het maken of uploaden. De meta-gegevenstypes van activa omvatten [ systeemmeta-gegevens ](#system-metadata) en [ user-defined meta-gegevens ](#user-defined-metadata).
 
@@ -34,13 +34,13 @@ Elk element (met inbegrip van ervaringen en malplaatjes) heeft _details_ (meta-g
 
 ## Bewerken in Express
 
-U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met behulp van Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
+U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met behulp van Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_&#x200B;Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
 
-1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_&#x200B;een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Klik in de elementweergave op het pictogram **[!UICONTROL Edit in Adobe Express]** rechtsboven.
 
-1. Gebruik in het canvas van _[!UICONTROL Powered by Adobe Express]_de Uitdrukkelijke controles op het linkerpaneel om uw beeld te verbeteren.
+1. Gebruik in het canvas van _[!UICONTROL Powered by Adobe Express]_&#x200B;de Uitdrukkelijke controles op het linkerpaneel om uw beeld te verbeteren.
 
 1. Als u tevreden bent met de bijgewerkte afbeelding, klikt u op **[!UICONTROL Save a copy]** rechtsboven.
 

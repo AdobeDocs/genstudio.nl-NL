@@ -17,7 +17,7 @@ Deze nota&#39;s benadrukken significante correcties en verbeteringen van Adobe G
 
 * Filtermogelijkheden in het hele product zijn verbeterd. Problemen met filteren op leeftijd en geslacht in [!DNL Insights] zijn opgelost.  <!-- GS-1198 -->
 
-* U kunt afbeeldingselementen (JPG of PNG) rechtstreeks bewerken met Adobe Express. Inhoudeditors kunnen het canvas van _[!UICONTROL Powered by Adobe Express]_gebruiken om achtergronden te verwijderen, generatieve vullingen toe te passen, effecten aan te passen en afbeeldingen uit te snijden zonder GenStudio for Performance Marketing te verlaten. <!-- GS-4615 -->
+* U kunt afbeeldingselementen (JPG of PNG) rechtstreeks bewerken met Adobe Express. Inhoudeditors kunnen het canvas van _[!UICONTROL Powered by Adobe Express]_&#x200B;gebruiken om achtergronden te verwijderen, generatieve vullingen toe te passen, effecten aan te passen en afbeeldingen uit te snijden zonder GenStudio for Performance Marketing te verlaten. <!-- GS-4615 -->
 
 * Verbeterde ervaring met progressief laden voor gegenereerde varianten, gegenereerde e-mail en contextafhankelijke berichten. <!-- GS-4651 3062-->
 

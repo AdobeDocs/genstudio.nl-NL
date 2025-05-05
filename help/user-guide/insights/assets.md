@@ -11,15 +11,15 @@ ht-degree: 0%
 
 # Assets-overzicht
 
-In de weergave [!DNL Insights] _[!UICONTROL Assets]_ziet u een lijst met elementen die worden gebruikt in ervaringen en advertentiecampagnes voor het geselecteerde kanaalaccount.
+In de weergave [!DNL Insights] _[!UICONTROL Assets]_&#x200B;ziet u een lijst met elementen die worden gebruikt in ervaringen en advertentiecampagnes voor het geselecteerde kanaalaccount.
 
-De galerie _[!UICONTROL Assets]_is de standaardweergave met een collage van voorvertoningen van elementen en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om een van de drie zichtbare meeteenheden in of uit te schakelen:
+De galerie _[!UICONTROL Assets]_&#x200B;is de standaardweergave met een collage van voorvertoningen van elementen en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om een van de drie zichtbare meeteenheden in of uit te schakelen:
 
 - `click-through rate` (CTR)
 - `cost per click` (CPC)
 - `spend`
 
-De tabel _[!UICONTROL Assets]_wordt ingedeeld met [!UICONTROL Asset ID] . Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**geopend waarin u uit meerdere lijsten kunt kiezen.
+De tabel _[!UICONTROL Assets]_&#x200B;wordt ingedeeld met [!UICONTROL Asset ID] . Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**&#x200B;geopend waarin u uit meerdere lijsten kunt kiezen.
 
 ![ de filter en lijst van Assets ](/help/assets/insights-assets-filter.png){zoomable="yes"}
 

@@ -38,7 +38,7 @@ GenStudio for Performance Marketing bewaart kanaalgegevens voor een periode van 
 
 **om een rekening van Meta-advertenties in GenStudio for Performance Marketing** te verbinden:
 
-1. Klik in _[!DNL Insights]_op **[!UICONTROL Connect a channel account]**.
+1. Klik in _[!DNL Insights]_&#x200B;op **[!UICONTROL Connect a channel account]**.
 
    >[!INFO]
    >
@@ -50,7 +50,7 @@ GenStudio for Performance Marketing bewaart kanaalgegevens voor een periode van 
 
    Met Opnieuw verbinden is GenStudio for Performance Marketing weer in beeld.
 
-1. Selecteer in de weergave _[!UICONTROL Connect a Meta ads account]_een of meer van uw advertentieaccounts en klik op **[!UICONTROL Connect account]**.
+1. Selecteer in de weergave _[!UICONTROL Connect a Meta ads account]_&#x200B;een of meer van uw advertentieaccounts en klik op **[!UICONTROL Connect account]**.
 <!--
 >[!INFO]
 >

@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # Overzicht van kenmerken
 
-In de weergave [!DNL Insights] _[!UICONTROL Attributes]_ziet u een lijst met kenmerken die worden gebruikt in advertentiecampagnes voor het geselecteerde kanaalaccount.
+In de weergave [!DNL Insights] _[!UICONTROL Attributes]_&#x200B;ziet u een lijst met kenmerken die worden gebruikt in advertentiecampagnes voor het geselecteerde kanaalaccount.
 
-De tabel _[!UICONTROL Attributes]_wordt ingedeeld met de naam [!UICONTROL Attribute] . U kunt schakelen tussen de lijsttypen met de knop **[!UICONTROL Images]**en de knop **[!UICONTROL Video]**. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Attributes]_&#x200B;wordt ingedeeld met de naam [!UICONTROL Attribute] . U kunt schakelen tussen de lijsttypen met de knop **[!UICONTROL Images]**&#x200B;en de knop **[!UICONTROL Video]**. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
 Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]** , waarin u de kenmerken in de tabel kunt selecteren in de [!UICONTROL Account] en [!UICONTROL Attribute category] om deze te filteren. In het volgende voorbeeld wordt een lijst met kenmerken in de categorie `Lighting Condition` getoond.
 

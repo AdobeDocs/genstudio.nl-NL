@@ -41,8 +41,8 @@ Goedkeuren van elementen voor gebruik in [!DNL AEM Assets Content Hub] , zodat d
 
 ## Stap 4: Zichtbaarheid van middelen configureren
 
-Controleer in de configuratieopties van _[!DNL AEM Assets Content Hub]_elke set configuratieopties voor filters, elementdetails, zoeken en brandmerken. Zie [ Content Hub gebruikersinterface ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in de_ AEM as a Cloud Service _documentatie vormen.
+Controleer in de configuratieopties van _[!DNL AEM Assets Content Hub]_&#x200B;elke set configuratieopties voor filters, elementdetails, zoeken en brandmerken. Zie [ Content Hub gebruikersinterface ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in de_ AEM as a Cloud Service _documentatie vormen.
 
 ## Stap 5: Controleer de verbinding
 
-In GenStudio for Performance Marketing Content is de lijst _[!UICONTROL Location]_beschikbaar boven de galerie aan de rechterkant. De lijst is niet beschikbaar als u geen toegang hebt of als uw organisatie een [!DNL AEM Assets Content Hub] -opslagplaats niet heeft geïmplementeerd en aangesloten.
+In GenStudio for Performance Marketing Content is de lijst _[!UICONTROL Location]_&#x200B;beschikbaar boven de galerie aan de rechterkant. De lijst is niet beschikbaar als u geen toegang hebt of als uw organisatie een [!DNL AEM Assets Content Hub] -opslagplaats niet heeft geïmplementeerd en aangesloten.

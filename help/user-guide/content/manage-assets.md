@@ -38,19 +38,19 @@ In [!UICONTROL Content] kunnen prestatiemarketers hun digitale middelen eenvoudi
 
 ### Elementen toevoegen
 
-Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_is alleen beschikbaar wanneer de_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
+Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_&#x200B;is alleen beschikbaar wanneer de&#x200B;_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
 
 ![ gebied van de Plaats ](../../assets/content-location.png){width="350" align="center"}
 
 **om één of meerdere activa** toe te voegen:
 
-1. Klik in _[!DNL Content]_op **[!UICONTROL Add assets]**.
+1. Klik in _[!DNL Content]_&#x200B;op **[!UICONTROL Add assets]**.
 
 1. In _voeg uw goedgekeurde activa_ mening toe, laat vallen een dossier of dossiers in de dalingsruimte. U kunt desgewenst bestanden van lokale bestanden selecteren met **[!UICONTROL Browse]** of bestanden importeren van Dropbox of Microsoft OneDrive.
 
 1. In _voeg details_ sectie toe, selecteer a **[!UICONTROL Campaign name]** of ga een nieuwe naam in.
 
-1. Om ontdekkingscapaciteit te verbeteren, voeg facultatieve details zoals _,_ Naam van het Merk _,_ Gebied _en_ Trefwoorden _in de **Meer details**sectie toe._
+1. Om ontdekkingscapaciteit te verbeteren, voeg facultatieve details zoals _,_ Naam van het Merk _,_ Gebied _en_ Trefwoorden _in de **Meer details**&#x200B;sectie toe._
 
    Hoe meer details u verstrekt, hoe meer u de robuuste mogelijkheden van GenStudio for Performance Marketing ervaart. Selecteer een of meer details in de lijst of voer een nieuwe in, indien van toepassing, bijvoorbeeld met trefwoorden. Elk detail dat u toevoegt, wordt onder de lijst weergegeven. Klik op **`x`** om een detail te verwijderen.
 
@@ -78,7 +78,7 @@ Wanneer het zoeken naar _Ervaringen_, kunt u de **[!UICONTROL Created by]** filt
 
 **om naar inhoud te zoeken om** opnieuw te gebruiken:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Assets]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Assets]**.
 
 1. Selecteer een opslagplaats voor middelen in de lijst **[!UICONTROL Location]** of controleer of u naar de juiste opslagplaats voor middelen kijkt. `GenStudio assets` is de standaardopslagplaats.
 
@@ -88,7 +88,7 @@ Wanneer het zoeken naar _Ervaringen_, kunt u de **[!UICONTROL Created by]** filt
 
 1. Klik op **[!UICONTROL Search]** (vergrootglas) om een trefwoord of beschrijving in te voeren.
 
-1. Verfijn uw zoekopdracht door een categorie in de lijst _[!UICONTROL Filter]_te selecteren. Bijvoorbeeld, als u een PNG- dossier zoekt, klik **[!UICONTROL File format]**en kies **PNG**.
+1. Verfijn uw zoekopdracht door een categorie in de lijst _[!UICONTROL Filter]_&#x200B;te selecteren. Bijvoorbeeld, als u een PNG- dossier zoekt, klik **[!UICONTROL File format]**&#x200B;en kies **PNG**.
 
    Hoe meer u uw zoekopdracht beperkt, hoe minder filteropties beschikbaar zijn. Klik op **[!UICONTROL Clear all]** om alle filters te verwijderen.
 

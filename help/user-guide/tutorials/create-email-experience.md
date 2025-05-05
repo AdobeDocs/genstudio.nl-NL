@@ -26,7 +26,7 @@ Als u een nieuwe e-mailervaring wilt maken, gebruikt u een beschikbare sjabloon 
 
 **Een e-mailsjabloon** kiezen:
 
-1. Klik _[!DNL Create]_in de knop **[!UICONTROL Email]**_&#39;Wat wilt u vandaag maken?&#39;_afdeling.
+1. Klik _[!DNL Create]_&#x200B;in de knop **[!UICONTROL Email]**&#x200B;_&#39;Wat wilt u vandaag maken?&#39;_afdeling.
 1. Gebruik de zoekoptie naast _Filter_ om een specifieke e-mailsjabloon te zoeken.
 1. Klik om een e-mailsjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
@@ -79,10 +79,10 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
-* **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **Als u afbeeldingen in een variant](/help/user-guide/create/manage-variants.md#swap-image)** wilt [toevoegen of omwisselen, klikt u op een afbeeldingsmiddel (of het gedeelte met het afbeeldingsmiddel als er momenteel nog geen afbeelding bestaat) en klikt u op **[!UICONTROL Select/swap from content]** of **[!UICONTROL Upload New Image]** om een afbeelding toe te voegen of om te wisselen in een afzonderlijke variant.
+* **Als u afbeeldingen in een variant[&#128279;](/help/user-guide/create/manage-variants.md#swap-image)** wilt toevoegen of omwisselen, klikt u op een afbeeldingsmiddel (of het gedeelte met het afbeeldingsmiddel als er momenteel nog geen afbeelding bestaat) en klikt u op **[!UICONTROL Select/swap from content]** of **[!UICONTROL Upload New Image]** om een afbeelding toe te voegen of om te wisselen in een afzonderlijke variant.
 * **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
 
 ## Feedback op generatie verzenden
@@ -95,7 +95,7 @@ Wanneer het herzien van en het voorbereiden van e-mailervaringen, kunt u [ schak
 
 ## De uitlijning van merken controleren
 
-Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekkend een samenvatting van brandgroepering voor een variant-en [_het 3} paneel ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige details van de brandbevestiging en verlichtende verbeteringsgebieden._
+Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekkend een samenvatting van brandgroepering voor een variant-en [_het 3&rbrace; paneel ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige details van de brandbevestiging en verlichtende verbeteringsgebieden._
 
 **om brandgroepering** te verifiëren:
 
@@ -124,8 +124,8 @@ Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md) voor m
 
 Als u de gegenereerde e-mails beschikbaar wilt maken voor huidig en toekomstig gebruik, moet u deze publiceren en [!UICONTROL Content] exporteren voor gebruik in uw marketingcampagnes.
 
-1. **Klik **[!UICONTROL Publish]**op de werkbalk bovenaan om je nieuwe e-mailervaring(en)** te publiceren.
-1. **Klik op de werkbalk bovenaan om uw nieuwe e-mailervaring(en)****[!UICONTROL Export]** te exporteren.
+1. **Klik &#x200B;** [!UICONTROL Publish]&#x200B;**op de werkbalk bovenaan om je nieuwe e-mailervaring(en)** te publiceren.
+1. **Klik op de werkbalk bovenaan om uw nieuwe e-mailervaring(en)**&#x200B;**[!UICONTROL Export]** te exporteren.
    1. Selecteer de indeling (alleen CSV en afbeeldingen of ALLEEN HTML) en klik op **[!UICONTROL Export]**.
 
 Zie [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) voor meer informatie.

@@ -26,7 +26,7 @@ Om een nieuwe advertentie-ervaring voor Meta te gaan genereren, gebruikt u een b
 
 **om een Meta en malplaatje** te kiezen:
 
-1. Klik in _[!DNL Create]_op **[!UICONTROL Meta ads]**in de_ &quot;Wat wilt u vandaag maken?&quot;_.
+1. Klik in _[!DNL Create]_&#x200B;op **[!UICONTROL Meta ads]**&#x200B;in de_ &quot;Wat wilt u vandaag maken?&quot;_.
 1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek Meta en malplaatje te vinden.
 1. Klik om een sjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
@@ -67,7 +67,7 @@ Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijv
 
 Standaard worden vier variaties gegenereerd (allemaal gevoed door de vraag, de richtlijnen en de inhoud die u hebt toegevoegd) in het canvas. Deze variaties worden weergegeven.
 
-Gegenereerde inhoud wordt steeds meer geladen. Naarmate elke sectie van de Meta-ervaringen wordt gegenereerd, verschijnen deze in het canvas. Zie {de ervaringen van 0} Meta ](/help/user-guide/create/meta-experiences.md#progressive-loading) om te leren hoe die veranderingen in het Canvas worden geladen.[
+Gegenereerde inhoud wordt steeds meer geladen. Naarmate elke sectie van de Meta-ervaringen wordt gegenereerd, verschijnen deze in het canvas. Zie {de ervaringen van 0} Meta [&#128279;](/help/user-guide/create/meta-experiences.md#progressive-loading) om te leren hoe die veranderingen in het Canvas worden geladen.
 
 ## Kanaal voor metagegevensadvertenties kiezen
 
@@ -83,10 +83,10 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
-* **om [ Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **om [ Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **om [ manueel uit te geven een Meta advertentie](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
-* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_een URL in voor de aanroepingstekst.
-* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
+* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_&#x200B;een URL in voor de aanroepingstekst.
+* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_&#x200B;knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
 * **[ om een advertentie van het Meta](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te klikken en **[!UICONTROL Delete variant]** te klikken.

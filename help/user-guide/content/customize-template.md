@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een sjabloon aanpassen
 
-Pas uw malplaatjes van HTML voor Adobe GenStudio for Performance Marketing aan door de _het malplaatjetaal te gebruiken 0} Handlebars {._ In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [`What is [!DNL Handlebars]?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
+Pas uw malplaatjes van HTML voor Adobe GenStudio for Performance Marketing aan door de _het malplaatjetaal te gebruiken 0&rbrace; Handlebars &lbrace;._ In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [`What is [!DNL Handlebars]?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
 
 In de volgende secties wordt uitgelegd hoe u plaatsaanduidingen voor inhoud toevoegt, overbodige elementen uit de voorvertoning verbergt en koppelingen naar statische inhoud beheert. Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio for Performance Marketing ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
 

@@ -18,7 +18,7 @@ De [!DNL Insights] _[!UICONTROL Channels]_-weergave toont een lijst met campagne
 >
 >GenStudio for Performance Marketing vereist dat u verbinding maakt met een kanaalaccount om gegevens te ontvangen. Zie [ Connect kanaalrekening ](connect-channel.md).
 
-De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weergegeven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u een keuze kunt maken uit de lijsten [!UICONTROL Account] , [!UICONTROL Status] en [!UICONTROL Objective] om de campagnes in de tabel te filteren.
+De tabel _[!UICONTROL Channels]_&#x200B;wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weergegeven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u een keuze kunt maken uit de lijsten [!UICONTROL Account] , [!UICONTROL Status] en [!UICONTROL Objective] om de campagnes in de tabel te filteren.
 
 ![ filter en lijst van Kanalen ](/help/assets/insights-channels-filter.png){zoomable="yes"}
 

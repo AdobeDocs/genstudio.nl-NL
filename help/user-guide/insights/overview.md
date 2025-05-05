@@ -30,21 +30,21 @@ Het dashboard van [!DNL Insights] heeft een configureerbare tabel voor elk inhou
 
 ![[!DNL Insights] dashboard ](/help/assets/insights-dashboard.png)
 
-In elke weergave wordt een bijbehorende tabel weergegeven die u kunt zoeken op trefwoorden, filters en datumbereik. U kunt op het pictogram Instellingen (cog) boven de rechterkant van de tabel klikken om de zichtbare kolomtypen in en uit te schakelen. In de rij _[!UICONTROL Summary]_kunnen totalen of gemiddelden van een kolom worden weergegeven.
+In elke weergave wordt een bijbehorende tabel weergegeven die u kunt zoeken op trefwoorden, filters en datumbereik. U kunt op het pictogram Instellingen (cog) boven de rechterkant van de tabel klikken om de zichtbare kolomtypen in en uit te schakelen. In de rij _[!UICONTROL Summary]_&#x200B;kunnen totalen of gemiddelden van een kolom worden weergegeven.
 
 [!UICONTROL Experiences] , [!UICONTROL Assets] en [!UICONTROL Attributes] bevatten een galerieweergave waarmee u elementen kunt scannen en sorteren met kaarten met een afbeeldings- of videominiatuur. Er is een optie om een van de drie belangrijkste meetgegevens op elke kaart weer te geven: `Click-through rate`, `Cost per click` en `Spend` .
 
 ### Kanalen
 
-De weergave [!DNL Insights] _[!UICONTROL Channels]_is de standaardweergave en geeft een lijst weer met actieve campagnedetails, zoals doelstellingen, budget, startdatum en activiteit. Zie [ Overzicht van Kanalen ](channels.md).
+De weergave [!DNL Insights] _[!UICONTROL Channels]_&#x200B;is de standaardweergave en geeft een lijst weer met actieve campagnedetails, zoals doelstellingen, budget, startdatum en activiteit. Zie [ Overzicht van Kanalen ](channels.md).
 
 ### Ervaringen
 
-De weergave [!DNL Insights] _[!UICONTROL Experiences]_is vooral gericht op het evalueren van de doeltreffendheid van een ervaring. In de weergave [!UICONTROL Experiences] kunt u de metriek van een ervaring analyseren op basis van de advertentie-plaatsing binnen een opgegeven datumbereik. Als u op een_[!UICONTROL Ad name]_ klikt, kunt u de maatstaven voor de prestaties en prestaties van de advertentie bekijken door plaatsing en kenmerken toe te voegen.
+De weergave [!DNL Insights] _[!UICONTROL Experiences]_&#x200B;is vooral gericht op het evalueren van de doeltreffendheid van een ervaring. In de weergave [!UICONTROL Experiences] kunt u de metriek van een ervaring analyseren op basis van de advertentie-plaatsing binnen een opgegeven datumbereik. Als u op een&#x200B;_[!UICONTROL Ad name]_ klikt, kunt u de maatstaven voor de prestaties en prestaties van de advertentie bekijken door plaatsing en kenmerken toe te voegen.
 
 ### Assets
 
-De weergave [!DNL Insights] _[!UICONTROL Assets]_is ontworpen om u te helpen de prestaties van elementen te analyseren. U kunt kenmerken van een element identificeren die bijdragen tot het verbeteren van een geselecteerde metrische waarde, zoals klikken of indrukken.
+De weergave [!DNL Insights] _[!UICONTROL Assets]_&#x200B;is ontworpen om u te helpen de prestaties van elementen te analyseren. U kunt kenmerken van een element identificeren die bijdragen tot het verbeteren van een geselecteerde metrische waarde, zoals klikken of indrukken.
 
 Als u op een element klikt, krijgt u meer inzicht in de prestaties van het middel in verschillende ervaringen:
 
@@ -56,4 +56,4 @@ In de middelenweergave ziet u links een miniatuur van het element en een lijst m
 
 Inhoud _attributen_ hulp om activa door inherente details, zoals kleur, toon, samenstelling (zoals onderwerp, doopvonten, visuele elementen), en andere zeer belangrijke componenten te identificeren. Kenmerken zijn vaak de minst gemeten en geanalyseerde verzameling met inhoudsgegevens.
 
-In de weergave [!DNL Insights] _[!UICONTROL Attributes]_kunt u nagaan welke kenmerken beter presteren bij bepaalde soorten publiek, kanalen en regio&#39;s en kunt u seizoensgebonden trends markeren. Met deze inzichten, kunt u prestatiesattributen gebruiken om varianten tot stand te brengen, een specifiek publiek te richten, of met verschillende campagnestrategieën te experimenteren.
+In de weergave [!DNL Insights] _[!UICONTROL Attributes]_&#x200B;kunt u nagaan welke kenmerken beter presteren bij bepaalde soorten publiek, kanalen en regio&#39;s en kunt u seizoensgebonden trends markeren. Met deze inzichten, kunt u prestatiesattributen gebruiken om varianten tot stand te brengen, een specifiek publiek te richten, of met verschillende campagnestrategieën te experimenteren.

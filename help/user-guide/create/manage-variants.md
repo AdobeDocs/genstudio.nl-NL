@@ -144,7 +144,7 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 
 ## Merkvalidatie per variant
 
-Gebruik _[!UICONTROL Brand guidelines check]_en_[!UICONTROL Brand validation panel]_ om een consistente merkidentiteit en uitlijning van varianten te behouden.
+Gebruik _[!UICONTROL Brand guidelines check]_&#x200B;en&#x200B;_[!UICONTROL Brand validation panel]_ om een consistente merkidentiteit en uitlijning van varianten te behouden.
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
 
@@ -165,8 +165,8 @@ Generatie-feedback is van toepassing op een individuele variant, niet op de verz
    Er verschijnt een pop-up met feedback om meer informatie te verzamelen. Gegenereerde inhoud en snelle informatie worden opgenomen in uw feedback.
 
 1. Voeg de volgende informatie toe in het pop-upvenster met feedback:
-   1. Selecteer de optie _[!UICONTROL Also include your reference content and layer data]_om die extra referentiegegevens op te nemen in de verzamelde feedback.
-   1. Selecteer in de sectie _[!UICONTROL What worked well?]_of_[!UICONTROL What went wrong?]_ de opties die beschrijven wat het genereren van inhoud van hoge of slechte kwaliteit maakt.
+   1. Selecteer de optie _[!UICONTROL Also include your reference content and layer data]_&#x200B;om die extra referentiegegevens op te nemen in de verzamelde feedback.
+   1. Selecteer in de sectie _[!UICONTROL What worked well?]_&#x200B;of&#x200B;_[!UICONTROL What went wrong?]_ de opties die beschrijven wat het genereren van inhoud van hoge of slechte kwaliteit maakt.
    1. Voeg andere nuttige of verwante informatie toe in het veld _[!UICONTROL Notes]_.
 1. Klik op **[!UICONTROL Submit]**.
 

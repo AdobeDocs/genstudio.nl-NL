@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # Overzicht van ervaringen
 
-In de weergave [!DNL Insights] _[!UICONTROL Experiences]_ziet u een lijst met ervaringen voor het aangesloten kanaal en account. Voor Facebook zijn de ervaringen Meta-advertenties.
+In de weergave [!DNL Insights] _[!UICONTROL Experiences]_&#x200B;ziet u een lijst met ervaringen voor het aangesloten kanaal en account. Voor Facebook zijn de ervaringen Meta-advertenties.
 
-De tabel _[!UICONTROL Experiences]_wordt ingedeeld met [!UICONTROL Ad names] . Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u uit de lijsten [!UICONTROL Account] en [!UICONTROL Campaign] kunt selecteren om de namen van de advertenties in de tabel te filteren.
+De tabel _[!UICONTROL Experiences]_&#x200B;wordt ingedeeld met [!UICONTROL Ad names] . Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u uit de lijsten [!UICONTROL Account] en [!UICONTROL Campaign] kunt selecteren om de namen van de advertenties in de tabel te filteren.
 
 ![ de filter en lijst van Ervaringen ](/help/assets/insights-experiences-filter.png){zoomable="yes"}
 

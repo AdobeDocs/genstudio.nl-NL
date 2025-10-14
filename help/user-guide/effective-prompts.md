@@ -16,7 +16,7 @@ Communiceren met de generatieve AI is van essentieel belang voor een effectieve 
 
 GenStudio for Performance Marketing biedt een generatieve AI-prompt wanneer er een mogelijkheid is om een element te wijzigen. De componenten van een efficiënte herinnering zouden beschrijvende taal, voorbeelden, en informatie moeten omvatten niet die door uw gevormde richtlijnen wordt verstrekt.
 
-Als beste praktijken, levering GenStudio for Performance Marketing van uw merkinformatie gebruikend [ richtlijnen ](/help/user-guide/guidelines/overview.md), dan kunt u volledig hefboomwerking generatieve AI om merkgerichte inhoudservaringen te produceren.
+Als beste praktijken, levering GenStudio for Performance Marketing van uw merkinformatie gebruikend [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md), dan kunt u volledig hefboomwerking generatieve AI om merkgerichte inhoudservaringen te produceren.
 
 ## Beschrijvende taal
 
@@ -33,7 +33,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 +++Zie voorbeeldresultaten
 
-![ drie geproduceerde e-mails ](/help/assets/sample-email.png)
+![&#x200B; drie geproduceerde e-mails &#x200B;](/help/assets/sample-email.png)
 
 +++
 
@@ -41,7 +41,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md), kunt u **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) en een herinnering) in het snelle gebied gebruiken om details door selectie toe te voegen om de AI interpretatie te verbeteren.
 
-Voor [ e-mails ](/help/user-guide/create/email-experiences.md), zouden de snelle criteria het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [ Meta en ](/help/tutorials/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand activa, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [ vormende richtlijnen ](/help/user-guide/guidelines/add-guidelines.md).
+Voor [&#x200B; e-mails &#x200B;](/help/user-guide/create/email-experiences.md), zouden de snelle criteria het toevoegen van [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [&#x200B; Meta en &#x200B;](/help/tutorials/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand activa, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [&#x200B; vormende richtlijnen &#x200B;](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
@@ -53,11 +53,11 @@ De richtlijnen van GenStudio for Performance Marketing helpen generatieve AI om 
 
 >[!TIP]
 >
->U bepaalt hoe en wanneer GenStudio for Performance Marketing de [!DNL Brand] -richtlijnen gebruikt. Zie [ Richtlijnen ](/help/user-guide/guidelines/overview.md) leren hoe te om uw merkrichtlijnen te vormen en te beheren.
+>U bepaalt hoe en wanneer GenStudio for Performance Marketing de [!DNL Brand] -richtlijnen gebruikt. Zie [&#x200B; Richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) leren hoe te om uw merkrichtlijnen te vormen en te beheren.
 
 ### Gestructureerde vragen
 
-Voor multi-sectiemails, kunt u herinneringen structureren om sectie-specifieke instructies te verstrekken om variërende inhoud voor elke sectie in een [ e-mail ](/help/user-guide/create/email-experiences.md) te produceren. De gestructureerde herinneringen zouden [ sectienamen in het e-mailmalplaatje ](/help/user-guide/content/email-template.md#multi-section-emails) direct van verwijzingen moeten voorzien zodat de geproduceerde inhoud in de overeenkomstige inhoudsplaatsaanduidingen kan worden opgenomen.
+Voor multi-sectiemails, kunt u herinneringen structureren om sectie-specifieke instructies te verstrekken om variërende inhoud voor elke sectie in een [&#x200B; e-mail &#x200B;](/help/user-guide/create/email-experiences.md) te produceren. De gestructureerde herinneringen zouden [&#x200B; sectienamen in het e-mailmalplaatje &#x200B;](/help/user-guide/content/email-template.md#multi-section-emails) direct van verwijzingen moeten voorzien zodat de geproduceerde inhoud in de overeenkomstige inhoudsplaatsaanduidingen kan worden opgenomen.
 
 U kunt GenStudio for Performance Marketing bijvoorbeeld de instructie geven om in de eerste sectie van een e-mailbericht inhoud te genereren waarmee een nieuw product wordt bevorderd en om inhoud te genereren waarin de kostenbesparende voordelen van het product in de tweede e-mailsectie worden beschreven.
 
@@ -72,7 +72,7 @@ De gestructureerde herinnering moet:
   Als uw sjabloon bijvoorbeeld `moduleA` of `Group-3` als sectienaam gebruikt, kunt u naar die sectienamen verwijzen in de vraag.
 
 - Volg de aanbevolen regels/structuur. Als de snelle structuur niet aan het verstrekte formaat aanhoudt, is de herinnering op *alle* e-mailsecties van toepassing en vergemakkelijkt nog inhoudsgeneratie.
-- De sectienamen van het gebruik zoals [ die in uw e-mailmalplaatje ](/help/user-guide/content/email-template.md#code-an-email-template) worden bepaald. Vragen moeten overeenkomen met de sectienamen die in uw e-mailsjabloon zijn gecodeerd.
+- De sectienamen van het gebruik zoals [&#x200B; die in uw e-mailmalplaatje &#x200B;](/help/user-guide/content/email-template.md#code-an-email-template) worden bepaald. Vragen moeten overeenkomen met de sectienamen die in uw e-mailsjabloon zijn gecodeerd.
 - Wees niet hoofdlettergevoelig. U kunt bijvoorbeeld `Pod` of `pod` gebruiken in uw e-mailsjabloon en gestructureerde prompt.
 - Verwijs eerst de generische gebruikersherinnering, en toen de sectie-specifieke richtlijnen.
 - Gebruik een dubbele punt, afbreekstreepje, komma of andere afbakening (`,:;#$!~|@=-%&*^_`) als scheiding tussen de verwijzing van de sectienaam en de richtlijn. U kunt bijvoorbeeld het volgende gebruiken als een sectiespecifieke prompt instructie: `Pod1; Describe how to easily edit text and swap images.`
@@ -91,7 +91,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-Zie [ een e-mailmalplaatje ](/help/user-guide/content/email-template.md#code-an-email-template) voorbereiden.
+Zie [&#x200B; een e-mailmalplaatje &#x200B;](/help/user-guide/content/email-template.md#code-an-email-template) voorbereiden.
 
 ## Opnieuw proberen
 

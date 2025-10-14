@@ -22,7 +22,7 @@ GenStudio for Performance Marketing gebruikt de schat aan merkinformatie van uw 
 1. Als u de overzichtsinformatie van een merk wilt bekijken, klikt u om een bepaald merk te openen.
 1. Als u afzonderlijke details wilt weergeven of een merk wilt wijzigen, klikt u boven in het scherm op [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines) , [**[!UICONTROL Channel guidelines]**](#channel-guidelines) , **[!UICONTROL Image guidelines]** of **[!UICONTROL Logos]** .
 
-U kunt documenten met brandrichtlijnen (maximaal drie PDF- of DOC-bestanden) uploaden naar GenStudio for Performance Marketing om automatisch een merk te maken. Zie [ richtsnoeren ](add-guidelines.md) toevoegen om te leren hoe te om een merk aan GenStudio for Performance Marketing toe te voegen, het te wijzigen, het te publiceren, en meer.
+U kunt documenten met brandrichtlijnen (maximaal drie PDF- of DOC-bestanden) uploaden naar GenStudio for Performance Marketing om automatisch een merk te maken. Zie [&#x200B; richtsnoeren &#x200B;](add-guidelines.md) toevoegen om te leren hoe te om een merk aan GenStudio for Performance Marketing toe te voegen, het te wijzigen, het te publiceren, en meer.
 
 ## [!DNL Brands] richtlijnen
 
@@ -84,4 +84,4 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 In GenStudio for Performance Marketing speelt merkvalidatie een cruciale rol in combinatie met de generatieve AI-functionaliteit van [!DNL Brands] , [!DNL Products] en [!DNL Personas] . Hierdoor blijft al uw inhoud consistent met uw merkidentiteit.
 
-Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
+Zie [&#x200B; Bevestiging van de Merk &#x200B;](/help/user-guide/guidelines/brand-validation.md).

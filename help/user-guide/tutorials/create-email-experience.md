@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # Een e-mailervaring maken
 
-Dit leerprogramma toont aan hoe te om gemerkte [ e-mailervaringen ](/help/user-guide/create/email-experiences.md) te produceren gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
+Dit leerprogramma toont aan hoe te om gemerkte [&#x200B; e-mailervaringen &#x200B;](/help/user-guide/create/email-experiences.md) te produceren gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
 
-Om een efficiënte e-mailervaring tot stand te brengen, adviseert men dat u [ richtlijnen aan GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toevoegt en omhoog op de [ grondbeginselen van het creëren van een herinnering ](/help/user-guide/effective-prompts.md) alvorens u begint.
+Om een efficiënte e-mailervaring tot stand te brengen, adviseert men dat u [&#x200B; richtlijnen aan GenStudio for Performance Marketing &#x200B;](/help/user-guide/guidelines/add-guidelines.md) toevoegt en omhoog op de [&#x200B; grondbeginselen van het creëren van een herinnering &#x200B;](/help/user-guide/effective-prompts.md) alvorens u begint.
 
 ## Kies een sjabloon
 
@@ -34,14 +34,14 @@ Als u een nieuwe e-mailervaring wilt maken, gebruikt u een beschikbare sjabloon 
 
 ## Parameters toevoegen
 
-Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in het snelle gebied vult het proces van de inhoudgeneratie op en is een integrale voorbereidende stap voor het produceren van een e-mailervaring.
+Het toevoegen van [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in het snelle gebied vult het proces van de inhoudgeneratie op en is een integrale voorbereidende stap voor het produceren van een e-mailervaring.
 
 **om parameters en activa** toe te voegen:
 
 1. Klik het _pictogram van Parameters_ om het snelle gebied uit te breiden.
 1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
-   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toe.
+   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [&#x200B; voeg richtlijnen aan uw GenStudio for Performance Marketing &#x200B;](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Klik **[!UICONTROL Select content]** om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden.
    * Als u elementen (afbeeldingen) wilt selecteren in de [!DNL Content] -opslagplaats, klikt u op **[!UICONTROL Select from content]** . Filter een of meer afbeeldingen en selecteer deze.
@@ -71,7 +71,7 @@ Zie [Effectieve aanwijzingen](/help/user-guide/effective-prompts.md) schrijven v
 
 Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd, en weergegeven in het canvas.
 
-Gegenereerde inhoud wordt progressief geladen. Elke sectie van de e-mailervaring wordt gegenereerd en wordt weergegeven op het canvas. Zie [ E-mailervaringen ](/help/user-guide/create/meta-experiences.md#progressive-loading) leren hoe die veranderingen in het Canvas worden geladen.
+Gegenereerde inhoud wordt progressief geladen. Elke sectie van de e-mailervaring wordt gegenereerd en wordt weergegeven op het canvas. Zie [&#x200B; E-mailervaringen &#x200B;](/help/user-guide/create/meta-experiences.md#progressive-loading) leren hoe die veranderingen in het Canvas worden geladen.
 
 ## Gegenereerde e-mails reviseren
 
@@ -79,23 +79,23 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
-* **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
-* **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit
+* **[&#x200B; om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **om [&#x200B; een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **Als u afbeeldingen in een variant[&#128279;](/help/user-guide/create/manage-variants.md#swap-image)** wilt toevoegen of omwisselen, klikt u op een afbeeldingsmiddel (of het gedeelte met het afbeeldingsmiddel als er momenteel nog geen afbeelding bestaat) en klikt u op **[!UICONTROL Select/swap from content]** of **[!UICONTROL Upload New Image]** om een afbeelding toe te voegen of om te wisselen in een afzonderlijke variant.
-* **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
+* **[&#x200B; om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
 
 ## Feedback op generatie verzenden
 
-Om [ voor te leggen terugkoppelt ](/help/user-guide/create/manage-variants.md#generation-feedback) over de kwaliteit van de generatieoutput, klik het optiepictogram (drie punten) en selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]**.
+Om [&#x200B; voor te leggen terugkoppelt &#x200B;](/help/user-guide/create/manage-variants.md#generation-feedback) over de kwaliteit van de generatieoutput, klik het optiepictogram (drie punten) en selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]**.
 
 ## Voorvertoning voor apparaat
 
-Wanneer het herzien van en het voorbereiden van e-mailervaringen, kunt u [ schakelen tussen voorproeven voor Desktop en mobiele meningen ](/help/user-guide/create/manage-variants.md#preview-for-device) om coherentie en visuele aantrekkingskracht van ontwerp varianten te verzekeren.
+Wanneer het herzien van en het voorbereiden van e-mailervaringen, kunt u [&#x200B; schakelen tussen voorproeven voor Desktop en mobiele meningen &#x200B;](/help/user-guide/create/manage-variants.md#preview-for-device) om coherentie en visuele aantrekkingskracht van ontwerp varianten te verzekeren.
 
 ## De uitlijning van merken controleren
 
-Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekkend een samenvatting van brandgroepering voor een variant-en [_het 3&rbrace; paneel ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige details van de brandbevestiging en verlichtende verbeteringsgebieden._
+Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekkend een samenvatting van brandgroepering voor een variant-en [_het 3&rbrace; paneel &#x200B;](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige details van de brandbevestiging en verlichtende verbeteringsgebieden._
 
 **om brandgroepering** te verifiëren:
 
@@ -103,9 +103,9 @@ Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkiden
 1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
 
 1. U kunt elke e-mail doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat deze meer op het merk wordt afgestemd.
-1. [ herziet manueel e-mail ](#revise-generated-emails) om ervoor te zorgen uw e-mails nauw met uw merk worden gericht.
+1. [&#x200B; herziet manueel e-mail &#x200B;](#revise-generated-emails) om ervoor te zorgen uw e-mails nauw met uw merk worden gericht.
 
-Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
+Zie [&#x200B; Bevestiging van de Merk &#x200B;](/help/user-guide/guidelines/brand-validation.md).
 
 ## Revisies en goedkeuringen ophalen
 
@@ -115,10 +115,10 @@ Gebruik het deelvenster Goedkeuringen, dat beschikbaar is op de bovenste menubal
 
 1. [Een goedkeuringsverzoek starten](/help/user-guide/approvals/request-review.md) om te vragen om goedkeuring [voor opgestelde e-mailervaringen](/help/user-guide/approvals/approve-content.md).
 1. [Verwijder of voeg revisoren](/help/user-guide/approvals/review-and-edit.md#manage-approvals) toe tijdens het revisieproces.
-1. [ heb toegang tot de inhoud voor overzicht ](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) en bekijk de verzoeken om herziening.
-1. Bewerk de concepten per overzichtscommentaren en [ publiceer uw e-mailervaringen ](#publish-and-export-experience).
+1. [&#x200B; heb toegang tot de inhoud voor overzicht &#x200B;](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) en bekijk de verzoeken om herziening.
+1. Bewerk de concepten per overzichtscommentaren en [&#x200B; publiceer uw e-mailervaringen &#x200B;](#publish-and-export-experience).
 
-Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md) voor meer informatie.
+Zie [&#x200B; Revisies en goedkeuringen &#x200B;](/help/user-guide/approvals/overview.md) voor meer informatie.
 
 ## Publiceren en exporteren
 

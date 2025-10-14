@@ -17,7 +17,7 @@ De tabel _[!UICONTROL Attributes]_&#x200B;wordt ingedeeld met de naam [!UICONTRO
 
 Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]** , waarin u de kenmerken in de tabel kunt selecteren in de [!UICONTROL Account] en [!UICONTROL Attribute category] om deze te filteren. In het volgende voorbeeld wordt een lijst met kenmerken in de categorie `Lighting Condition` getoond.
 
-![ de filter en lijst van Attributen ](/help/assets/insights-attributes-filter.png){zoomable="yes"}
+![&#x200B; de filter en lijst van Attributen &#x200B;](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
 ## Kenmerkdetails
 
@@ -25,9 +25,9 @@ Kenmerken helpen elementen te identificeren aan de hand van de inherente details
 
 In de weergave met kenmerkdetails kunt u zien welke ervaringen het geselecteerde kenmerk gebruiken. De details omvatten totale kenmerkprestaties en een uitsplitsing van de prestatiesmetriek met betrekking tot elke ervaring.
 
-![ de prestatiemetriek van Attributen ](/help/assets/insights-attribute-details.png){zoomable="yes"}
+![&#x200B; de prestatiemetriek van Attributen &#x200B;](/help/assets/insights-attribute-details.png){zoomable="yes"}
 
-GenStudio for Performance Marketing detecteert bepaalde functies en past het juiste kenmerk toe op een element of ervaring als tag. Zie [ Categorieën ](#categories) om voorbeelden van deze markeringen te zien. Klik op het pictogram Instellingen (cog) boven de rechterkant van de tabel om de kolom **[!UICONTROL Attributes]** te selecteren om alle kenmerken weer te geven die aan een ervaring zijn gekoppeld.
+GenStudio for Performance Marketing detecteert bepaalde functies en past het juiste kenmerk toe op een element of ervaring als tag. Zie [&#x200B; Categorieën &#x200B;](#categories) om voorbeelden van deze markeringen te zien. Klik op het pictogram Instellingen (cog) boven de rechterkant van de tabel om de kolom **[!UICONTROL Attributes]** te selecteren om alle kenmerken weer te geven die aan een ervaring zijn gekoppeld.
 
 ## Categorieën
 
@@ -113,7 +113,7 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | Metrisch | Definitie | Inzicht |
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Attribute]** | De kenmerknaam. | U kunt de tabel sorteren door op de kolomkop voor een van de belangrijkste maateenheden te klikken. |
-| **[!UICONTROL Category]** | De [ categorie ](#categories) die de inherente kwaliteit van een attribuut vertegenwoordigt. |  |
+| **[!UICONTROL Category]** | De [&#x200B; categorie &#x200B;](#categories) die de inherente kwaliteit van een attribuut vertegenwoordigt. |  |
 | **[!UICONTROL # of images]** | Een aantal afbeeldingen met dit kenmerk. |  |
 | **[!UICONTROL # of videos]** | Een aantal video&#39;s met dit kenmerk. |  |
 | **[!UICONTROL Impressions]** | Een telling van elke keer dat een afbeelding of video&#39;s met dit kenmerk in het kanaal worden geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht, denk aan andere betrokkenheidsmetriek. |

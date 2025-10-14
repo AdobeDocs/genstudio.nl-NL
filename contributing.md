@@ -19,7 +19,7 @@ wordt van u verwacht dat u deze code volgt. Meld onaanvaardbaar gedrag aan
 
 ## Documentatie voor de bijdragershandleiding
 
-Zie de [ Gids van de Medewerker voor de Documentatie van de Adobe ](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction).
+Zie de [&#x200B; Gids van de Medewerker voor de Documentatie van de Adobe &#x200B;](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction).
 
 ## Hebt u een vraag?
 
@@ -31,15 +31,15 @@ consensus te bereiken over de projectrichting en probleemoplossingen binnen prob
 
 Alle bijdragen van derden aan dit project moeten de contribuant ondertekenen
 licentieovereenkomst (CLA), die de Adobe toestemming geeft om uw bijdragen opnieuw te verdelen
-als onderdeel van het project. [ teken de Adobe CLA ](https://opensource.adobe.com/cla.html). U
+als onderdeel van het project. [&#x200B; teken de Adobe CLA &#x200B;](https://opensource.adobe.com/cla.html). U
 hoeft maar één keer een Adobe-CLA in te dienen, dus als u er al eerder een hebt ingediend,
 kunt u aan de slag.
 
 ## Codebeoordelingen
 
-Alle opmerkingen moeten als een pull-verzoek worden ingediend. De aangewezen persoon moet deelnemen aan een collegiaal toetsingsproces met projectbeheerders. Lees [ Ongeveer trekkingsverzoeken ](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in _Dokken GitHub_.
+Alle opmerkingen moeten als een pull-verzoek worden ingediend. De aangewezen persoon moet deelnemen aan een collegiaal toetsingsproces met projectbeheerders. Lees [&#x200B; Ongeveer trekkingsverzoeken &#x200B;](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in _Dokken GitHub_.
 
-Tot slot gelieve te volgen het [ malplaatje van het trekkingsverzoek ](PULL_REQUEST_TEMPLATE.md) wanneer
+Tot slot gelieve te volgen het [&#x200B; malplaatje van het trekkingsverzoek &#x200B;](PULL_REQUEST_TEMPLATE.md) wanneer
 het indienen van een trekkingsverzoek!
 
 ## Van medewerker naar onderhoudsleider
@@ -48,4 +48,4 @@ We houden van bijdragen van de gemeenschap! Als u onderhoud met volledige schrij
 
 ## Beveiligingsproblemen
 
-Beveiligingsproblemen moeten niet worden gerapporteerd in deze uitgavecontracker. In plaats daarvan, [ dossier een kwestie aan de deskundigen van de de veiligheidscontrole van de Adobe ](https://helpx.adobe.com/nl/security/alertus.html).
+Beveiligingsproblemen moeten niet worden gerapporteerd in deze uitgavecontracker. In plaats daarvan, [&#x200B; dossier een kwestie aan de deskundigen van de de veiligheidscontrole van de Adobe &#x200B;](https://helpx.adobe.com/nl/security/alertus.html).

@@ -20,7 +20,7 @@ In de galerie [!UICONTROL Assets] ziet u een overzicht van goedgekeurde elemente
 
 In het volgende voorbeeld ziet u een zoekopdracht naar de term `dog` in de [!UICONTROL Assets] -galerie:
 
-![ mening van Assets met onderzoek op hond ](../../assets/content-assets.png)
+![&#x200B; mening van Assets met onderzoek op hond &#x200B;](../../assets/content-assets.png)
 
 ### Assets-locatie
 
@@ -28,9 +28,9 @@ Elementen die u via het [!DNL Create] -proces of uploaden toevoegt aan [!DNL Con
 
 In de lijst **[!UICONTROL Location]** boven de galerie aan de rechterkant kunt u een van de verbonden opslagplaatsen voor Adobe Experience Manager (AEM) [!DNL Assets Content Hub] selecteren. Wanneer u een AEM opslagplaats selecteert, toont de galerie een inventaris van activa van die bewaarplaats, die u toestaat om goedgekeurde activa van deze bewaarplaatsen als input voor inhoudsverwezenlijking te gebruiken. De filteropties veranderen om de categorieën te weerspiegelen die in [!DNL AEM Assets Content Hub] worden gevormd.
 
-De AEM opslagplaats is read-only, wat betekent u geen concepten, nieuwe activa, of meta-gegevens aan AEM bewaarplaats kunt bewaren. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [ systeemmeta-gegevens ](asset-details.md#system-metadata).
+De AEM opslagplaats is read-only, wat betekent u geen concepten, nieuwe activa, of meta-gegevens aan AEM bewaarplaats kunt bewaren. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [&#x200B; systeemmeta-gegevens &#x200B;](asset-details.md#system-metadata).
 
-Zie [ verbinden een AEM bewaarplaats ](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
+Zie [&#x200B; verbinden een AEM bewaarplaats &#x200B;](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
 
 ## Assets-beheer
 
@@ -40,7 +40,7 @@ In [!UICONTROL Content] kunnen prestatiemarketers hun digitale middelen eenvoudi
 
 Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_&#x200B;is alleen beschikbaar wanneer de&#x200B;_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
 
-![ gebied van de Plaats ](../../assets/content-location.png){width="350" align="center"}
+![&#x200B; gebied van de Plaats &#x200B;](../../assets/content-location.png){width="350" align="center"}
 
 **om één of meerdere activa** toe te voegen:
 
@@ -56,7 +56,7 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
    Alle details die u toevoegt, worden toegepast op alle elementen die in deze handeling worden toegevoegd.
 
-   Zie [ details van Meta-gegevens ](/help/user-guide/content/asset-details.md#system-metadata).
+   Zie [&#x200B; details van Meta-gegevens &#x200B;](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Klik op **[!UICONTROL Add assets]**.
 
@@ -72,7 +72,7 @@ In the future, need guidance on template upload errors. For now, the UI just say
 
 De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een productieve onderzoek-eerste ervaring. Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Voor elementen en ervaringen kunt u een campagne en specifieke richtlijnen selecteren, zoals inhoud die voor een bepaald product is gemaakt.
 
-Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user-defined-metadata) en [ attributen ](/help/user-guide/insights/attributes.md) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen.
+Er zijn filters die op [&#x200B; worden gebaseerd sleutelwoorden &#x200B;](asset-details.md#user-defined-metadata) en [&#x200B; attributen &#x200B;](/help/user-guide/insights/attributes.md) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen.
 
 Wanneer het zoeken naar _Ervaringen_, kunt u de **[!UICONTROL Created by]** filter gebruiken om de lijst te beperken om slechts de ervaringen te tonen die door u of een specifieke persoon worden gecreeerd.
 
@@ -84,7 +84,7 @@ Wanneer het zoeken naar _Ervaringen_, kunt u de **[!UICONTROL Created by]** filt
 
    >[!IMPORTANT]
    >
-   >De _lijst van de Plaats_ is beschikbaar slechts wanneer u [ met een AEM bewaarplaats ](connect-aem-repo.md) verbindt.
+   >De _lijst van de Plaats_ is beschikbaar slechts wanneer u [&#x200B; met een AEM bewaarplaats &#x200B;](connect-aem-repo.md) verbindt.
 
 1. Klik op **[!UICONTROL Search]** (vergrootglas) om een trefwoord of beschrijving in te voeren.
 

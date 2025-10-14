@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Toegankelijke sjablonen maken
 
-Adobe streeft ernaar een optimale ervaring voor alle doelgroepen te bieden. Zie [ Initiatieven van de Toegankelijkheid bij Adobe ](https://www.adobe.com/trust/accessibility/initiatives.html) voor verdere lezing.
+Adobe streeft ernaar een optimale ervaring voor alle doelgroepen te bieden. Zie [&#x200B; Initiatieven van de Toegankelijkheid bij Adobe &#x200B;](https://www.adobe.com/trust/accessibility/initiatives.html) voor verdere lezing.
 
 In GenStudio for Performance Marketing kunt u elementen en sjablonen uploaden waarmee u inhoud kunt maken voor verschillende ervaringen. Door de toegankelijkheidsstandaarden te respecteren, bereikt u uw inhoud het maximale doelpubliek.
 
@@ -26,7 +26,7 @@ Maak tekstalternatieven voor niet-tekstuele inhoud, zoals afbeeldingen.
 <img alt="Collage of ideas, books, man holding giant pencil, computer" src="card-create-assets.png">
 ```
 
-![ Collage van ideeën, boeken, man die reuzenpotlood, computer ](../../assets/card-create-assets.png){width="400"} houden
+![&#x200B; Collage van ideeën, boeken, man die reuzenpotlood, computer &#x200B;](../../assets/card-create-assets.png){width="400"} houden
 
 ## Contrastverhoudingen
 

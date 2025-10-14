@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Varianten beheren
 
-Adobe GenStudio voor de Marketing van Prestaties [!DNL Create] laat u toe om geproduceerde varianten aan te passen en te verbeteren - [ e-mails ](/help/user-guide/create/email-experiences.md), [ advertenties van Meta ](/help/user-guide/create/meta-experiences.md), en meer-voor gebruik in digitale marketing initiatieven.
+Adobe GenStudio voor de Marketing van Prestaties [!DNL Create] laat u toe om geproduceerde varianten aan te passen en te verbeteren - [&#x200B; e-mails &#x200B;](/help/user-guide/create/email-experiences.md), [&#x200B; advertenties van Meta &#x200B;](/help/user-guide/create/meta-experiences.md), en meer-voor gebruik in digitale marketing initiatieven.
 
-Wanneer [ creërend ervaringen ](/help/tutorials/tutorials.md), kunt u inhoud en activa van geproduceerde varianten individueel of in een partij wijzigen. Dankzij de mogelijkheid om varianten op individueel microniveau te beheren, kunt u elk stukje gegenereerde inhoud expliciet beheren.
+Wanneer [&#x200B; creërend ervaringen &#x200B;](/help/tutorials/tutorials.md), kunt u inhoud en activa van geproduceerde varianten individueel of in een partij wijzigen. Dankzij de mogelijkheid om varianten op individueel microniveau te beheren, kunt u elk stukje gegenereerde inhoud expliciet beheren.
 
 ## Conceptnaam wijzigen
 
@@ -146,7 +146,7 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 
 Gebruik _[!UICONTROL Brand guidelines check]_&#x200B;en&#x200B;_[!UICONTROL Brand validation panel]_ om een consistente merkidentiteit en uitlijning van varianten te behouden.
 
-Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+Zie [&#x200B; Bevestiging van de Merk &#x200B;](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
 
 ## Feedback genereren
 

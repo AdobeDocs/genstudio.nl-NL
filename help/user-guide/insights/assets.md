@@ -21,7 +21,7 @@ De galerie _[!UICONTROL Assets]_&#x200B;is de standaardweergave met een collage 
 
 De tabel _[!UICONTROL Assets]_&#x200B;wordt ingedeeld met [!UICONTROL Asset ID] . Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**&#x200B;geopend waarin u uit meerdere lijsten kunt kiezen.
 
-![ de filter en lijst van Assets ](/help/assets/insights-assets-filter.png){zoomable="yes"}
+![&#x200B; de filter en lijst van Assets &#x200B;](/help/assets/insights-assets-filter.png){zoomable="yes"}
 
 U kunt schakelen tussen de weergaven met behulp van het pictogram voor de weergavelijst (tabel) en het pictogram voor de galerieweergave (raster).
 
@@ -31,7 +31,7 @@ Een _activa_ is een beeld, een video, tekst, of andere creatieve inhoud die voor
 
 In de weergave Elementdetails kunt u zien welke ervaringen het geselecteerde element gebruiken. De details omvatten totale activa prestaties, user-defined attributen, en AI-ontdekte eigenschappen verbonden aan het middel.
 
-![ de details van Activa ](/help/assets/insights-asset-details.png){zoomable="yes"}
+![&#x200B; de details van Activa &#x200B;](/help/assets/insights-asset-details.png){zoomable="yes"}
 
 ## Metrische elementen
 

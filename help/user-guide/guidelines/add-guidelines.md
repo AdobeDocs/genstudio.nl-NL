@@ -16,13 +16,13 @@ ht-degree: 0%
 
 [[!DNL Brands]](/help/user-guide/guidelines/brands.md) , [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zijn door de gebruiker gedefinieerde richtlijnen in GenStudio for Performance Marketing die ervoor zorgen dat door AI gegenereerde inhoud wordt aangepast aan de merkidentiteit, zodat de inhoud op effectieve wijze kan worden aangepast.
 
-Zie het [ overzicht van richtlijnen ](/help/user-guide/guidelines/overview.md).
+Zie het [&#x200B; overzicht van richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md).
 
 Het toevoegen van richtsnoeren aan GenStudio for Performance Marketing is een belangrijke stap in het aanmaakproces. Richtlijnen bepalen het proces voor het maken van inhoud, samen met door de gebruiker gedefinieerde aanwijzingen en Adobe generatieve AI-technologie, voor het maken van onherstelbare elementen.
 
 ## Toevoegen [!DNL Brands]
 
-Om een merk toe te voegen, [ upload een merkgids ](#upload-a-brand) of [ creeer manueel een merk ](#manually-add-brand) door richtlijnen te selecteren en uw merkdetails in te gaan. [ Publish a merk ](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
+Om een merk toe te voegen, [&#x200B; upload een merkgids &#x200B;](#upload-a-brand) of [&#x200B; creeer manueel een merk &#x200B;](#manually-add-brand) door richtlijnen te selecteren en uw merkdetails in te gaan. [&#x200B; Publish a merk &#x200B;](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
 
 Klik in het linkernavigatiegebied op **[!DNL Brands]** . In het _[!DNL Brands]_&#x200B;paneel, uitgezochte **voeg merk**&#x200B;toe.
 
@@ -46,11 +46,11 @@ Zie [[!DNL Brands]](/help/user-guide/guidelines/brands.md) .
 
 GenStudio for Performance Marketing haalt met behulp van de generatieve AI-technologie van Adobe informatie uit uw geüploade documenten en begint uw merk te maken. U ziet merkinformatie, zoals stem van het merk, kanaal, en beeldrichtlijnen, bevolken aangezien elke richtlijn van uw merkdocumenten wordt samengesteld.
 
-Een popup herinnert u eraan om de gehaalde inhoud te herzien alvorens u [ het merk ](#publish-brand) publiceert.
+Een popup herinnert u eraan om de gehaalde inhoud te herzien alvorens u [&#x200B; het merk &#x200B;](#publish-brand) publiceert.
 
 ### Handmatig merk toevoegen
 
-U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande merkdocumenten, om een nieuw [ merk ](brands.md) te bevolken.
+U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande merkdocumenten, om een nieuw [&#x200B; merk &#x200B;](brands.md) te bevolken.
 
 **om een merk** manueel toe te voegen:
 
@@ -69,7 +69,7 @@ U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande m
 
 Om uw gecreeerde [!DNL Brands] te zien, klik de achterpijl dichtbij de bovenkant van het _Merk_ paneel om terug naar het _[!DNL Brands]_&#x200B;huis te navigeren.
 
-U moet niet [ publiceren ](#publish-brand) uw merk om de informatie toegankelijk te maken. Eventuele handmatig toegevoegde informatie is direct beschikbaar nadat deze is toegevoegd. Anderen in uw organisatie die de merkgegevens in GenStudio for Performance Marketing willen gebruiken, moeten deze publiceren.
+U moet niet [&#x200B; publiceren &#x200B;](#publish-brand) uw merk om de informatie toegankelijk te maken. Eventuele handmatig toegevoegde informatie is direct beschikbaar nadat deze is toegevoegd. Anderen in uw organisatie die de merkgegevens in GenStudio for Performance Marketing willen gebruiken, moeten deze publiceren.
 
 ### Publish-merk
 
@@ -97,7 +97,7 @@ In het _[!DNL Brands]_&#x200B;huis, kunt u aan **openen reeds-gecreeerd merk**&#
 
 ## Toevoegen [!DNL Products]
 
-Om een product toe te voegen, [ upload een productgids ](#upload-a-product) of [ creeer manueel een product ](#manually-add-product) door richtlijnen te selecteren en uw productdetails in te gaan.
+Om een product toe te voegen, [&#x200B; upload een productgids &#x200B;](#upload-a-product) of [&#x200B; creeer manueel een product &#x200B;](#manually-add-product) door richtlijnen te selecteren en uw productdetails in te gaan.
 
 Klik in het linkernavigatiegebied op **[!DNL Products]** . In het _[!DNL Products]_&#x200B;paneel, uitgezochte **voeg product**&#x200B;toe.
 
@@ -133,7 +133,7 @@ Zie [[!DNL Products]](/help/user-guide/guidelines/products.md) .
 
 ### Product handmatig toevoegen
 
-U kunt productdetails, in plaats van het uploaden van bestaande productdocumenten manueel toevoegen, om een nieuw [ product ](products.md) in GenStudio for Performance Marketing te bevolken.
+U kunt productdetails, in plaats van het uploaden van bestaande productdocumenten manueel toevoegen, om een nieuw [&#x200B; product &#x200B;](products.md) in GenStudio for Performance Marketing te bevolken.
 
 **om een product** manueel toe te voegen:
 
@@ -168,7 +168,7 @@ In _[!DNL Products]_&#x200B;huis, kunt u **openen reeds-gecreeerd[!DNL Product]*
 
 ## Toevoegen [!DNL Personas]
 
-Om een persona toe te voegen, [ upload een persoonlijke gids ](#upload-a-persona) of [ manueel creeer een persona ](#manually-add-persona) door richtlijnen te selecteren en uw persona details in te gaan.
+Om een persona toe te voegen, [&#x200B; upload een persoonlijke gids &#x200B;](#upload-a-persona) of [&#x200B; manueel creeer een persona &#x200B;](#manually-add-persona) door richtlijnen te selecteren en uw persona details in te gaan.
 
 Klik in het linkernavigatiegebied op **[!DNL Personas]** . In het _[!DNL Personas]_&#x200B;paneel, uitgezocht **voeg persona**&#x200B;toe.
 
@@ -204,7 +204,7 @@ Zie [[!DNL Personas]](/help/user-guide/guidelines/personas.md) .
 
 ### Handmatig persona toevoegen
 
-U kunt persona details, in plaats van het uploaden van bestaande persona documenten manueel toevoegen, om een nieuwe [ persona ](personas.md) te bevolken.
+U kunt persona details, in plaats van het uploaden van bestaande persona documenten manueel toevoegen, om een nieuwe [&#x200B; persona &#x200B;](personas.md) te bevolken.
 
 **om een persona** manueel toe te voegen:
 

@@ -26,11 +26,11 @@ Elk element (met inbegrip van ervaringen en malplaatjes) heeft _details_ (meta-g
    >
    >Als de sectie _[!UICONTROL Details]_&#x200B;niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
 
-   De elementdetails omvatten metagegevens die zijn toegepast tijdens het maken of uploaden. De meta-gegevenstypes van activa omvatten [ systeemmeta-gegevens ](#system-metadata) en [ user-defined meta-gegevens ](#user-defined-metadata).
+   De elementdetails omvatten metagegevens die zijn toegepast tijdens het maken of uploaden. De meta-gegevenstypes van activa omvatten [&#x200B; systeemmeta-gegevens &#x200B;](#system-metadata) en [&#x200B; user-defined meta-gegevens &#x200B;](#user-defined-metadata).
 
 >[!NOTE]
 >
->Assets van AEM opslagplaatsen geeft verschillende metagegevens weer. Zie [ activa zicht ](connect-aem-repo.md#step-4-configure-asset-visibility) vormen om te leren hoe te om [!DNL AEM Assets Content Hub] activa details te vormen.
+>Assets van AEM opslagplaatsen geeft verschillende metagegevens weer. Zie [&#x200B; activa zicht &#x200B;](connect-aem-repo.md#step-4-configure-asset-visibility) vormen om te leren hoe te om [!DNL AEM Assets Content Hub] activa details te vormen.
 
 ## Bewerken in Express
 
@@ -68,7 +68,7 @@ Standaardmetagegevens die voor een element zijn opgeslagen en vastgelegd, zijn o
 
 Wanneer u een goedgekeurd element opslaat in [!DNL Content] , gebruikt GenStudio for Performance Marketing de AI- en computerleermogelijkheden van Adobe om het element te bestuderen en labels toe te passen op basis van de functies van het element. Een afbeelding van een kat kan bijvoorbeeld kenmerkcodes als `pet photography` of `cat` opleveren en kleurcodes die dominante kleuren in de afbeelding identificeren. U kunt labels niet bewerken.
 
-Zie [ Attributen van Inzichten ](/help/user-guide/insights/attributes.md).
+Zie [&#x200B; Attributen van Inzichten &#x200B;](/help/user-guide/insights/attributes.md).
 
 ### Metagegevens over gegenereerde inhoud
 
@@ -78,7 +78,7 @@ De informatie die wordt gebruikt om een nieuw middel of een nieuwe ervaring te p
 
 Door de gebruiker gedefinieerde metagegevens voegen marketingcontext toe aan de inhoud van het element, zodat marketers kunnen begrijpen hoe het element moet worden gebruikt en hoe het moet worden gebruikt.
 
-Wanneer u [ activa ](/help/user-guide/content/manage-assets.md#add-assets) uploadt, kunt u een reeks facultatieve activadetails bepalen die in GenStudio for Performance Marketing als meta-gegevens bestaan. Het opnemen van meer details kan activa identificatie in onderzoeken en het filtreren verbeteren.
+Wanneer u [&#x200B; activa &#x200B;](/help/user-guide/content/manage-assets.md#add-assets) uploadt, kunt u een reeks facultatieve activadetails bepalen die in GenStudio for Performance Marketing als meta-gegevens bestaan. Het opnemen van meer details kan activa identificatie in onderzoeken en het filtreren verbeteren.
 
 ### Metagegevens
 

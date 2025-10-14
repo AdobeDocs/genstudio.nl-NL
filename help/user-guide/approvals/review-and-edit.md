@@ -56,4 +56,4 @@ De maker van de inhoud kan zijn bewerkingen voortzetten tijdens het ontvangen va
 
 Als u de maker van de inhoud bent, bevat het conceptcanvas de knop **[!UICONTROL Manage approvals]** . Gebruik deze knop om fiatteurs te verwijderen of toe te voegen tijdens het beoordelings- en goedkeuringsproces.
 
-Zie [ overzicht en goedkeuring van het Verzoek ](./request-review.md).
+Zie [&#x200B; overzicht en goedkeuring van het Verzoek &#x200B;](./request-review.md).

@@ -27,7 +27,7 @@ GenStudio for Performance Marketing maakt gebruik van de kracht van generatieve 
 
 Begin met het effectief trainen van GenStudio for Performance Marketing op de branding van uw organisatie, klanten en productbeschrijvingen via de krachtige functie voor merkrichtlijnen.
 
-Zie het [ overzicht van Richtlijnen ](../user-guide/guidelines/overview.md) leren hoe te om deze richtlijnen voor te bereiden en te uploaden.
+Zie het [&#x200B; overzicht van Richtlijnen &#x200B;](../user-guide/guidelines/overview.md) leren hoe te om deze richtlijnen voor te bereiden en te uploaden.
 
 ## Levenscyclus van inhoud
 

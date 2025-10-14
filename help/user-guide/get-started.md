@@ -17,7 +17,7 @@ Adobe GenStudio for Performance Marketing is een uitgebreid platform voor het ma
 
 De toegang van Stakeholder tot zijn vele mogelijkheden wordt gecontroleerd door toegewezen _gebruikersrollen_. Uw toegewezen gebruikersrol bepaalt de taken die u binnen GenStudio voor de Marketing van Prestaties kunt uitvoeren. Een systeembeheerder van de Adobe wijst uw toestemmingen in het GenStudio voor het productprofiel van de Marketing van Prestaties in Adobe Admin Console toe. Uw welkomstmail identificeert uw toegewezen rol.
 
-Als u aan generatieve op AI-Gebaseerde hulpmiddelen nieuw bent of eenvoudig nieuwsgierig over GenStudio voor de kernprincipes van de Marketing van Prestaties bent, zie [ Concepten ](concepts.md) en [ schrijven efficiënte herinneringen ](effective-prompts.md).
+Als u aan generatieve op AI-Gebaseerde hulpmiddelen nieuw bent of eenvoudig nieuwsgierig over GenStudio voor de kernprincipes van de Marketing van Prestaties bent, zie [&#x200B; Concepten &#x200B;](concepts.md) en [&#x200B; schrijven efficiënte herinneringen &#x200B;](effective-prompts.md).
 
 ## Gebruikersrollen
 
@@ -31,7 +31,7 @@ Drie typen GenStudio for Performance Marketing-gebruikersrollen ondersteunen dez
 
 * **Medewerkers** zijn de breedste waaier van GenStudio voor de gebruikers van de Marketing van Prestaties. Deelnemers kunnen inhoud bekijken en goedkeuren en vormen een essentieel onderdeel van de workflow dat ervoor zorgt dat de inhoud die u genereert, aansluit bij de behoeften en standaarden van uw organisatie.
 
-* {de managers van 0} Systeem **hebben de breedste reeks toestemmingen binnen GenStudio voor de Marketing van Prestaties.** Systeembeheerders voeren de essentiële taak uit om de basisvereisten voor het maken en implementeren van campagnemiddelen vast te stellen. De managers van het systeem voeren deze gidsen door merk en organisatie-specifieke informatie zoals [ merkrichtlijnen ](/help/user-guide/guidelines/overview.md) uit te uploaden. Systeembeheerders van GenStudio for Performance Marketing hebben toestemming om merken te maken en te publiceren, maar hebben geen bevoegdheden voor gebruikersbeheer.
+* {de managers van 0} Systeem **hebben de breedste reeks toestemmingen binnen GenStudio voor de Marketing van Prestaties.** Systeembeheerders voeren de essentiële taak uit om de basisvereisten voor het maken en implementeren van campagnemiddelen vast te stellen. De managers van het systeem voeren deze gidsen door merk en organisatie-specifieke informatie zoals [&#x200B; merkrichtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) uit te uploaden. Systeembeheerders van GenStudio for Performance Marketing hebben toestemming om merken te maken en te publiceren, maar hebben geen bevoegdheden voor gebruikersbeheer.
 
 >[!NOTE]
 >Alvorens om het even welke gebruikers provisioned in deze rollen zijn, moet een systeembeheerder van het systeem van de Adobe in Adobe Admin Console worden aangewezen om eenmalige opstellingstaken uit te voeren. Deze rol van beheerder van de Adobe werkt alleen in het kader van de Adobe Admin Console. Het speelt geen rol in de interface van het GenStudio for Performance Marketing-platform.
@@ -42,7 +42,7 @@ Drie typen GenStudio for Performance Marketing-gebruikersrollen ondersteunen dez
 
 De redacteuren hebben interactie met GenStudio voor de generatieve AI van de Marketing van Prestaties technologieën door _het veroorzaken_. Het snelle gebied op het canvas biedt tools waarmee u aanwijzingen kunt plaatsen in de context van de richtlijnen van een specifieke campagne. Als gevolg hiervan is de kwaliteit en het succes van gegenereerde inhoud gedeeltelijk afhankelijk van de kwaliteit van de merkrichtlijnen die uw organisatie heeft geüpload en de specificiteit van uw vraag.
 
-Zie [ efficiënte herinneringen ](effective-prompts.md) schrijven.
+Zie [&#x200B; efficiënte herinneringen &#x200B;](effective-prompts.md) schrijven.
 
 In de volgende tabel worden de standaardmachtigingen voor editors weergegeven:
 
@@ -93,7 +93,7 @@ In de volgende tabel worden de standaardmachtigingen voor GenStudio for Performa
 
 GenStudio voor Performance Marketing systeemmanagers bereiden de GenStudio van hun organisatie voor voor de Performance Marketing-omgeving voor editors en medewerkers om campagne-assets te maken. Deze voorbereidende taken omvatten:
 
-1. [ voeg richtlijnen ](./guidelines/overview.md) voor [!DNL Brands], [!DNL Products], en [!DNL Personas] toe. Het instellen van de belangrijkste bouwstenen van de merkidentiteit van uw organisatie is een essentiële voorwaarde voor het werk van ontwerpers en medewerkers. U kunt documenten met een merkaanwijzing uploaden of handmatig merkgegevens invoeren.
+1. [&#x200B; voeg richtlijnen &#x200B;](./guidelines/overview.md) voor [!DNL Brands], [!DNL Products], en [!DNL Personas] toe. Het instellen van de belangrijkste bouwstenen van de merkidentiteit van uw organisatie is een essentiële voorwaarde voor het werk van ontwerpers en medewerkers. U kunt documenten met een merkaanwijzing uploaden of handmatig merkgegevens invoeren.
    * **Bereid uw documenten van richtsnoeren** voor. Hoe beschrijvender en uitgebreider uw merkrichtlijnen, hoe beter de uitvoer. Voeg korte voorbeelden toe van functies die u essentieel vindt voor uw merk en voeg beschrijvingen toe van het gedrag dat u wilt uitsluiten van het maken van inhoud. GenStudio for Performance Marketing haalt informatie uit deze geüploade documenten en begint uw merk te maken. Informatie zoals de stem van het merk, het kanaal, en beeldrichtlijnen, zijn bevolkt aangezien GenStudio for Performance Marketing elke richtlijn van uw geüploade documenten assembleert.
    * **geef of volledige gebieden van de merkrichtlijn uit zoals nodig**. Uitgebreide merkrichtlijnen vormen de basis voor het inzicht van GenStudio for Performance Marketing in het merk van uw organisatie. Nadat GenStudio for Performance Marketing de informatie die het nodig heeft, uit de documenten met uw merkenrichtlijnen heeft gehaald, wordt u gevraagd om velden met geëxtraheerde informatie handmatig te bewerken of in te vullen. Afzonderlijke productfocusgebieden voor het maken van inhoud opgeven door een [!DNL Product] toe te voegen. Met de richtlijnen van [!DNL Personas] kunt u de creatie van inhoud voor bepaalde klantsegmenten afstemmen.
 

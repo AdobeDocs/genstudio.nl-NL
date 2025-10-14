@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Een sjabloon aanpassen
 
-Pas uw malplaatjes van HTML voor Adobe GenStudio for Performance Marketing aan door de _het malplaatjetaal te gebruiken 0&rbrace; Handlebars &lbrace;._ In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [`What is [!DNL Handlebars]?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
+Pas uw malplaatjes van HTML voor Adobe GenStudio for Performance Marketing aan door de _het malplaatjetaal te gebruiken 0&rbrace; Handlebars &lbrace;._ In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [`What is [!DNL Handlebars]?` &#x200B;](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
 
-In de volgende secties wordt uitgelegd hoe u plaatsaanduidingen voor inhoud toevoegt, overbodige elementen uit de voorvertoning verbergt en koppelingen naar statische inhoud beheert. Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio for Performance Marketing ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
+In de volgende secties wordt uitgelegd hoe u plaatsaanduidingen voor inhoud toevoegt, overbodige elementen uit de voorvertoning verbergt en koppelingen naar statische inhoud beheert. Zodra uw malplaatje klaar is, kunt u het [&#x200B; uploaden aan GenStudio for Performance Marketing &#x200B;](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
 
 ## Plaatsaanduidingen voor inhoud
 
-GenStudio for Performance Marketing erkent bepaalde [ elementen ](use-templates.md#template-elements) binnen een malplaatje, maar slechts als u hen met een erkende gebiedsnaam identificeert.
+GenStudio for Performance Marketing erkent bepaalde [&#x200B; elementen &#x200B;](use-templates.md#template-elements) binnen een malplaatje, maar slechts als u hen met een erkende gebiedsnaam identificeert.
 
-In de kop of de hoofdtekst van een sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken als plaatsaanduiding voor inhoud, waarbij u GenStudio for Performance Marketing nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketing erkent en interpreteert de inhoudsplaceholders die op [ worden gebaseerd erkende _gebied_ naam ](#recognized-field-names).
+In de kop of de hoofdtekst van een sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken als plaatsaanduiding voor inhoud, waarbij u GenStudio for Performance Marketing nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketing erkent en interpreteert de inhoudsplaceholders die op [&#x200B; worden gebaseerd erkende _gebied_ naam &#x200B;](#recognized-field-names).
 
 U kunt `{{ headline }}` bijvoorbeeld met de syntaxis van [!DNL Handlebars] gebruiken om aan te geven waar de kop van de e-mail moet worden geplaatst:
 
@@ -41,7 +41,7 @@ De volgende tabel bevat een lijst met de veldnamen die door GenStudio for Perfor
 | `cta` | Oproep tot actie | email <br> Meta-advertentie |
 | `on_image_text` | Op afbeeldingstekst | Meta en |
 | `image` | Afbeelding | email <br> Meta-advertentie |
-| `brand_logo` | Logo van geselecteerd merk <br> zie [ het merklogo gebiedsnaam ](#brand-logo-field-name) voor geadviseerd gebruik. | e-mail <br> Meta-advertentie |
+| `brand_logo` | Logo van geselecteerd merk <br> zie [&#x200B; het merklogo gebiedsnaam &#x200B;](#brand-logo-field-name) voor geadviseerd gebruik. | e-mail <br> Meta-advertentie |
 
 GenStudio for Performance Marketing vult bepaalde velden automatisch in de volgende sjablonen in:
 
@@ -60,7 +60,7 @@ Er geldt een limiet van 20 velden wanneer u een sjabloon uploadt naar GenStudio 
 
 >[!TIP]
 >
->U kunt uw malplaatje verifiëren gebruikend de [ malplaatjevoorproef ](#template-preview) in GenStudio for Performance Marketing.
+>U kunt uw malplaatje verifiëren gebruikend de [&#x200B; malplaatjevoorproef &#x200B;](#template-preview) in GenStudio for Performance Marketing.
 
 #### Naam merklogo
 
@@ -116,11 +116,11 @@ GenStudio for Performance Marketing begrijpt dat `pod1_headline` nauwer verwant 
 
 ## Sjabloonvoorbeeld
 
-Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant GenStudio for Performance Marketing het dossier van de HTML voor erkende gebieden. Gebruik de voorproef om uw [ malplaatjeelementen ](use-templates.md#template-elements) te herzien en te bevestigen dat u hen behoorlijk met [ erkende gebiedsnamen ](#recognized-field-names) identificeerde.
+Wanneer u [&#x200B; een malplaatje &#x200B;](use-templates.md#upload-a-template) uploadt, scant GenStudio for Performance Marketing het dossier van de HTML voor erkende gebieden. Gebruik de voorproef om uw [&#x200B; malplaatjeelementen &#x200B;](use-templates.md#template-elements) te herzien en te bevestigen dat u hen behoorlijk met [&#x200B; erkende gebiedsnamen &#x200B;](#recognized-field-names) identificeerde.
 
 Voorbeeld van een e-mailsjabloon:
 
-![ ontdekte gebieden van de Voorproef ](../../assets/template-detected-fields.png){width="650"}
+![&#x200B; ontdekte gebieden van de Voorproef &#x200B;](../../assets/template-detected-fields.png){width="650"}
 
 ### Voorvertoning besturen
 
@@ -157,7 +157,7 @@ Houd rekening met twee opties om ervoor te zorgen dat deze bronnen beschikbaar z
 
 +++Voorbeeld: E-mailsjabloon met één sectie
 
-Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor een e-mailbericht dat één sectie bevat. De kop bevat eenvoudige inline CSS voor opmaak. Het lichaam bevat a `pre-header`, `headline`, en `image` [ placeholder ](#content-placeholders) voor gebruik door GenStudio for Performance Marketing om inhoud tijdens het proces van de e-mailgeneratie te injecteren.
+Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor een e-mailbericht dat één sectie bevat. De kop bevat eenvoudige inline CSS voor opmaak. Het lichaam bevat a `pre-header`, `headline`, en `image` [&#x200B; placeholder &#x200B;](#content-placeholders) voor gebruik door GenStudio for Performance Marketing om inhoud tijdens het proces van de e-mailgeneratie te injecteren.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -189,7 +189,7 @@ Hier volgt een eenvoudig voorbeeld van een HTML-sjabloon voor een e-mailbericht 
 
 +++Voorbeeld: E-mailsjabloon met meerdere secties
 
-In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee secties. De kop bevat inline CSS voor het opmaken van een groep. Het lichaam gebruikt twee groepen met [ inhoudplaceholders ](#content-placeholders) gebruikend een prefix.
+In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee secties. De kop bevat inline CSS voor het opmaken van een groep. Het lichaam gebruikt twee groepen met [&#x200B; inhoudplaceholders &#x200B;](#content-placeholders) gebruikend een prefix.
 
 ```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
@@ -245,7 +245,7 @@ In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee s
 
 +++Voorbeeld: Meta-advertentiesjabloon
 
-Hier volgt een eenvoudig voorbeeld van een advertentiesjabloon van Meta. De kop bevat inline CSS voor opmaak. Het lichaam gebruikt [ inhoudplaceholders ](#content-placeholders) gebruikend een prefix.
+Hier volgt een eenvoudig voorbeeld van een advertentiesjabloon van Meta. De kop bevat inline CSS voor opmaak. Het lichaam gebruikt [&#x200B; inhoudplaceholders &#x200B;](#content-placeholders) gebruikend een prefix.
 
 ```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>

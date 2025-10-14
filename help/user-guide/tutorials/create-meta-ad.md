@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # Een meta-advertentie maken
 
-Dit leerprogramma toont aan hoe te om branded [ Meta te produceren en ervaart ](/help/user-guide/create/meta-experiences.md) gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
+Dit leerprogramma toont aan hoe te om branded [&#x200B; Meta te produceren en ervaart &#x200B;](/help/user-guide/create/meta-experiences.md) gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
 
-Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [ richtsnoeren ](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing op te nemen en vertrouwd te worden met de grondbeginselen van [ het creëren van een herinnering ](/help/user-guide/effective-prompts.md).
+Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [&#x200B; richtsnoeren &#x200B;](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing op te nemen en vertrouwd te worden met de grondbeginselen van [&#x200B; het creëren van een herinnering &#x200B;](/help/user-guide/effective-prompts.md).
 
 ## Een sjabloon kiezen
 
@@ -34,14 +34,14 @@ Om een nieuwe advertentie-ervaring voor Meta te gaan genereren, gebruikt u een b
 
 ## Parameters toevoegen
 
-Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in het snelle gebied verbetert het proces van de inhoudgeneratie en is een cruciale stap in het voorbereiden om een advertentie van het Meta te produceren.
+Het toevoegen van [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in het snelle gebied verbetert het proces van de inhoudgeneratie en is een cruciale stap in het voorbereiden om een advertentie van het Meta te produceren.
 
 **om parameters en activa** toe te voegen:
 
 1. Klik het _pictogram van Parameters_ om het snelle gebied uit te breiden.
 1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
-   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toe.
+   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [&#x200B; voeg richtlijnen aan uw GenStudio for Performance Marketing &#x200B;](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Klik **[!UICONTROL Select content]** om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden.
    * Als u elementen (afbeeldingen) wilt selecteren die al naar [!DNL Content] zijn gepubliceerd, klikt u op **[!UICONTROL Select from content]** en klikt u om de gewenste afbeeldingen te selecteren. Gebruik de filters om uw zoekresultaten verder te beperken.
@@ -58,7 +58,7 @@ Wanneer u klaar bent toevoegend parameters, kunt u het snelle gebied doen ineens
 
 Nadat u richtlijnen hebt geselecteerd, kunt u een aanwijzing maken in een natuurlijke taal om inhoud te genereren voor uw nieuwe advertentie-ervaring met Meta. Gedetailleerde aanwijzingen leveren een uitvoer van hogere kwaliteit op dan vage of onduidelijke aanwijzingen.
 
-Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven herinneringen te leren.
+Zie [&#x200B; efficiënte herinneringen &#x200B;](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven herinneringen te leren.
 
 **om een herinnering** in te gaan:
 
@@ -75,7 +75,7 @@ Wanneer u een Meta-advertentie genereert, kunt u kiezen tussen Facebook- of Inst
 
 Wissel het kanaal van Meta-advertenties optie-tussen **Facebook** en **Instagram**-in de juiste menubar (de pictogrammen van Facebook en van Instagram) om varianten voor elk kanaal te zien en te beheren.
 
-Wanneer [ het herzien van de advertenties van Meta ](#revise-generated-meta-ads), kunt u de aspectverhouding van de advertenties van Facebook en van Instagram veranderen.
+Wanneer [&#x200B; het herzien van de advertenties van Meta &#x200B;](#revise-generated-meta-ads), kunt u de aspectverhouding van de advertenties van Facebook en van Instagram veranderen.
 
 ## Gegenereerde metaadvertenties reviseren
 
@@ -83,21 +83,21 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
-* **om [ Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
-* **om [ manueel uit te geven een Meta advertentie](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
+* **om [&#x200B; Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **om [&#x200B; manueel uit te geven een Meta advertentie](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
 * **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_&#x200B;een URL in voor de aanroepingstekst.
-* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_&#x200B;knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
+* **[&#x200B; om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_&#x200B;knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
-* **[ om een advertentie van het Meta](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te klikken en **[!UICONTROL Delete variant]** te klikken.
+* **aan [&#x200B; bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
+* **[&#x200B; om een advertentie van het Meta](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te klikken en **[!UICONTROL Delete variant]** te klikken.
 
 ## Feedback over generatie verzenden
 
-Om [ terugkoppel ](/help/user-guide/create/manage-variants.md#generation-feedback) over de kwaliteit van de generatieoutput voor te leggen, klik het optiepictogram (drie punten) en selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]**.
+Om [&#x200B; terugkoppel &#x200B;](/help/user-guide/create/manage-variants.md#generation-feedback) over de kwaliteit van de generatieoutput voor te leggen, klik het optiepictogram (drie punten) en selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]**.
 
 ## Vermerkuitlijning controleren
 
-Om de geproduceerde advertenties te optimaliseren en strikte naleving van merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de merkrichtlijnen_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekt een samenvatting van merkgroepering voor een variant-en het [_paneel van de Bevestiging van het Merk_ ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige merkvalidatiedetails en verlichtende verbeteringsgebieden.
+Om de geproduceerde advertenties te optimaliseren en strikte naleving van merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de merkrichtlijnen_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekt een samenvatting van merkgroepering voor een variant-en het [_paneel van de Bevestiging van het Merk_ &#x200B;](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige merkvalidatiedetails en verlichtende verbeteringsgebieden.
 
 **om brandgroepering** te verifiëren:
 
@@ -105,9 +105,9 @@ Om de geproduceerde advertenties te optimaliseren en strikte naleving van merkid
 1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
 
 1. Bekijk elke advertentie om te zien hoe je de gegenereerde content kunt verbeteren en de merkgerichtheid kunt vergroten.
-1. [ herzien manueel advertenties ](#revise-generated-meta-ads) om ervoor te zorgen uw advertenties dicht met uw merk worden gericht.
+1. [&#x200B; herzien manueel advertenties &#x200B;](#revise-generated-meta-ads) om ervoor te zorgen uw advertenties dicht met uw merk worden gericht.
 
-Zie [ Bevestiging van het Merk ](/help/user-guide/guidelines/brand-validation.md).
+Zie [&#x200B; Bevestiging van het Merk &#x200B;](/help/user-guide/guidelines/brand-validation.md).
 
 ## Recensies en goedkeuringen ophalen
 
@@ -115,12 +115,12 @@ Gebruik het deelvenster Goedkeuringen, dat beschikbaar is op de bovenste menubal
 
 **om overzichten en goedkeuringen** te verkrijgen:
 
-1. [ Lanceer een goedkeuringsverzoek ](/help/user-guide/approvals/request-review.md) om een [ goedkeuring van geschreven Meta en ervaringen ](/help/user-guide/approvals/approve-content.md) te vragen.
-1. [ verwijdert of voegt recensenten ](/help/user-guide/approvals/review-and-edit.md#manage-approvals) tijdens het overzichtsproces toe.
-1. [ heb toegang tot de inhoud voor overzicht ](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) en bekijk de verzoeken om herziening.
-1. Bewerk de concepten per overzichtscommentaren en [ publiceer uw advertentie-ervaringen van Meta ](#publish-and-export-experience).
+1. [&#x200B; Lanceer een goedkeuringsverzoek &#x200B;](/help/user-guide/approvals/request-review.md) om een [&#x200B; goedkeuring van geschreven Meta en ervaringen &#x200B;](/help/user-guide/approvals/approve-content.md) te vragen.
+1. [&#x200B; verwijdert of voegt recensenten &#x200B;](/help/user-guide/approvals/review-and-edit.md#manage-approvals) tijdens het overzichtsproces toe.
+1. [&#x200B; heb toegang tot de inhoud voor overzicht &#x200B;](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) en bekijk de verzoeken om herziening.
+1. Bewerk de concepten per overzichtscommentaren en [&#x200B; publiceer uw advertentie-ervaringen van Meta &#x200B;](#publish-and-export-experience).
 
-Zie [ Recensies en goedkeuringen ](/help/user-guide/approvals/overview.md) voor meer informatie.
+Zie [&#x200B; Recensies en goedkeuringen &#x200B;](/help/user-guide/approvals/overview.md) voor meer informatie.
 
 ## Publish en exportervaring
 
@@ -134,6 +134,6 @@ Zie [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approv
 
 ## Connect Meta
 
-U kunt GenStudio for Performance Marketing met Meta verbinden om geavanceerde analyses en [ inzichten ](/help/user-guide/insights/overview.md) in inhoudsprestaties te ontvangen.
+U kunt GenStudio for Performance Marketing met Meta verbinden om geavanceerde analyses en [&#x200B; inzichten &#x200B;](/help/user-guide/insights/overview.md) in inhoudsprestaties te ontvangen.
 
-Zie [ Connect kanaalrekening ](/help/user-guide/insights/connect-channel.md) voor meer informatie.
+Zie [&#x200B; Connect kanaalrekening &#x200B;](/help/user-guide/insights/connect-channel.md) voor meer informatie.

@@ -10,4 +10,4 @@ ht-degree: 62%
 
 # Handboek voor Adobe GenStudio voor prestatiemarketing
 
-Deze inhoud is naar de [ GenStudio for Performance Marketing ](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing) documentatiepagina verplaatst.
+Deze inhoud is naar de [&#x200B; GenStudio for Performance Marketing &#x200B;](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing) documentatiepagina verplaatst.

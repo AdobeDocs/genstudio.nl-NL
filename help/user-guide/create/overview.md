@@ -21,7 +21,7 @@ Met [!DNL Create] kunt u inhoud voor de volgende kanalen genereren:
 <!-- * Social media images and ads
 * Display ads -->
 
-Samen met de macht van [ richtlijnen ](/help/user-guide/guidelines/overview.md) - [!DNL Brands], [!DNL Products], en [!DNL Personas] - [ Inhoud ](/help/user-guide/content/overview.md), [ Reviews en Goedkeuringen ](/help/user-guide/approvals/overview.md), en [ Inzichten ](/help/user-guide/insights/overview.md), [!DNL Create] vergemakkelijkt de verwezenlijking van oneigenlijke merkgebonden marketing inhoud.
+Samen met de macht van [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) - [!DNL Brands], [!DNL Products], en [!DNL Personas] - [&#x200B; Inhoud &#x200B;](/help/user-guide/content/overview.md), [&#x200B; Reviews en Goedkeuringen &#x200B;](/help/user-guide/approvals/overview.md), en [&#x200B; Inzichten &#x200B;](/help/user-guide/insights/overview.md), [!DNL Create] vergemakkelijkt de verwezenlijking van oneigenlijke merkgebonden marketing inhoud.
 
 ## [!DNL Create] gebruik gevallen
 
@@ -60,7 +60,7 @@ Samen met de macht van [ richtlijnen ](/help/user-guide/guidelines/overview.md) 
 </tr>
 </table>
 
-GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [ richtlijnen ](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
+GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
 <!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
@@ -72,29 +72,29 @@ GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing 
 
 Nadat u selecteert welk kanaal u in _wilt produceren wat u vandaag wilt creëren?_ , hebt u toegang tot door een merk goedgekeurde sjablonen voor gebruik bij het genereren van inhoud. Gebruik sjablonen om het maken van inhoud te versnellen en uitgelijnd te blijven met een gedefinieerde merkidentiteit.
 
-De malplaatjes worden [ geupload en opgeslagen in  [!DNL Content]](/help/user-guide/content/overview.md) en zijn toegankelijk in [!DNL Create].
+De malplaatjes worden [&#x200B; geupload en opgeslagen in  [!DNL Content]](/help/user-guide/content/overview.md) en zijn toegankelijk in [!DNL Create].
 
 ### Parameters
 
 In het snelle gebied, kunt u _Parameters_ zoals [!DNL Brands] toevoegen, [!DNL Products], en [!DNL Personas] (richtlijnen) en [!DNL Content] (activa) om de geproduceerde ervaring te vormen.
 
-Deze toegevoegde parameters injecteren [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in het generatieproces, die ervoor zorgen dat de inhoud wordt aangepast om met de uitvoerige identiteit van een merk te richten. U wordt aangeraden richtlijnen toe te voegen aan uw GenStudio for Performance Marketing en deze te gebruiken tijdens het genereren van inhoud, omdat deze richtlijnen het maken van geschikte on-brand-inhoud aanzienlijk verbeteren.
+Deze toegevoegde parameters injecteren [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) en activa in het generatieproces, die ervoor zorgen dat de inhoud wordt aangepast om met de uitvoerige identiteit van een merk te richten. U wordt aangeraden richtlijnen toe te voegen aan uw GenStudio for Performance Marketing en deze te gebruiken tijdens het genereren van inhoud, omdat deze richtlijnen het maken van geschikte on-brand-inhoud aanzienlijk verbeteren.
 
 Inhoud-geüpload of toegevoegd beeld activa-in _Parameters_ worden gebruikt in geproduceerde varianten en informeren de exemplaarinhoud (tekst) die voor varianten wordt geproduceerd. U kunt elementen uploaden of elementen selecteren die al aanwezig zijn in [!DNL Content] of in gekoppelde AEM Content Hub-opslagruimten.
 
 ### Vragen
 
-[ Creërend efficiënte herinneringen ](/help/user-guide/effective-prompts.md) is een belangrijk deel van het generatieproces in [!DNL Create].
+[&#x200B; Creërend efficiënte herinneringen &#x200B;](/help/user-guide/effective-prompts.md) is een belangrijk deel van het generatieproces in [!DNL Create].
 
-Om AI-Gegenereerde inhoud tot stand te brengen, ga a [ beschrijvende herinnering ](/help/user-guide/effective-prompts.md) in die de context of de ervaring beschrijft u, samen met [ richtlijnen ](/help/user-guide/guidelines/overview.md) en [_Parameters_](#parameters), op het snelle gebied en klik **[!UICONTROL Generate]** van plan bent te produceren.
+Om AI-Gegenereerde inhoud tot stand te brengen, ga a [&#x200B; beschrijvende herinnering &#x200B;](/help/user-guide/effective-prompts.md) in die de context of de ervaring beschrijft u, samen met [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) en [_Parameters_](#parameters), op het snelle gebied en klik **[!UICONTROL Generate]** van plan bent te produceren.
 
 ### Merkwaardvalidatie
 
-GenStudio for Performance Marketing voert merkbevestiging op diverse aspecten van de identiteit van een merk (zoals die in [ richtlijnen ](/help/user-guide/guidelines/overview.md) wordt bepaald). [&#128279;](/help/user-guide/guidelines/brand-validation.md) informatie van de Bevestiging van het merk  is beschikbaar voor om het even welke geproduceerde inhoud, die op zijn naleving van merkrichtlijnen en coherentie tussen tekst en beelden wijzen. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
+GenStudio for Performance Marketing voert merkbevestiging op diverse aspecten van de identiteit van een merk (zoals die in [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) wordt bepaald). [&#128279;](/help/user-guide/guidelines/brand-validation.md) informatie van de Bevestiging van het merk  is beschikbaar voor om het even welke geproduceerde inhoud, die op zijn naleving van merkrichtlijnen en coherentie tussen tekst en beelden wijzen. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
 
 ### Revisies en goedkeuringen
 
-De wettelijke overzichten, de commentaren van het spooroverzicht, en verkrijgen goedkeuringen tijdens het creatieproces met ingebouwde [ Herzieningen en goedkeuringen ](/help/user-guide/approvals/overview.md) functionaliteit.
+De wettelijke overzichten, de commentaren van het spooroverzicht, en verkrijgen goedkeuringen tijdens het creatieproces met ingebouwde [&#x200B; Herzieningen en goedkeuringen &#x200B;](/help/user-guide/approvals/overview.md) functionaliteit.
 
 Nadat u klaar bent met het genereren van variaties in de inhoud, stuurt u uw concepten ter goedkeuring naar de belanghebbenden zodat deze kunnen worden opgeslagen in [!DNL Content] en geïmplementeerd bij marketingactiviteiten.
 
@@ -106,7 +106,7 @@ Concepten die worden uitgevoerd, worden automatisch opgeslagen. Wanneer u terug 
 
 ### Varianten beheren
 
-GenStudio for Performance Marketing staat [ uitvoerige controle over secties van individuele varianten ](/help/user-guide/create/manage-variants.md) toe.
+GenStudio for Performance Marketing staat [&#x200B; uitvoerige controle over secties van individuele varianten &#x200B;](/help/user-guide/create/manage-variants.md) toe.
 
 U kunt secties van één enkele variant herzien, de inhoud van individuele secties opnieuw produceren en gesuggereerde uitgeeft gebruiken om het bericht, de grootte activa, en meer, allen binnen het Canvas te verbeteren.
 

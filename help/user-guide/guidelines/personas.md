@@ -16,15 +16,15 @@ ht-degree: 0%
 
 GenStudio for Performance Marketing hefboomwerkingen de macht van richtlijnen - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](overview.md) - en generatieve AI van de Adobe technologie om gepersonaliseerde marketing inhoud voor uw doelklanten te leiden. &#x200B;
 
-![[!DNL Personas] Richtlijnen in GenStudio for Performance Marketing ](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Personas] Richtlijnen in GenStudio for Performance Marketing &#x200B;](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **om een persona** te bekijken of te wijzigen:
 
 1. Klik in het linkernavigatiegebied op **[!UICONTROL Personas]** .
-1. Om [ individuele details te bekijken of een persoon ](add-guidelines.md#manage-personas) te wijzigen, klik het _[!DNL Personas]_&#x200B;actiemenu en selecteer **Open**.
+1. Om [&#x200B; individuele details te bekijken of een persoon &#x200B;](add-guidelines.md#manage-personas) te wijzigen, klik het _[!DNL Personas]_&#x200B;actiemenu en selecteer **Open**.
 1. Wijzig de richtlijnen voor personen door in een tekstveld voor de categorie Richtlijnen te klikken.
 
-Zie [ richtlijnen ](add-guidelines.md) toevoegen om te leren hoe te om een persoon in GenStudio for Performance Marketing toe te voegen of te wijzigen.
+Zie [&#x200B; richtlijnen &#x200B;](add-guidelines.md) toevoegen om te leren hoe te om een persoon in GenStudio for Performance Marketing toe te voegen of te wijzigen.
 
 ## [!DNL Personas] richtlijnen
 

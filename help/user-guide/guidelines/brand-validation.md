@@ -24,11 +24,11 @@ GenStudio for Performance Marketing voert de merkvalidatie uit op verschillende 
 
 Een samenvatting van de informatie van de merkbevestiging voor elke geproduceerde inhoudvariant is toegankelijk door het _pictogram van de 0&rbrace; controle van de merkrichtlijnen naast elke variant in het Canvas._
 
-De _controle van de Merk_ toont het percentage van naleving van uw [ merk ](brands.md). Het percentage wordt berekend als aantal [ richtlijnen ](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen.
+De _controle van de Merk_ toont het percentage van naleving van uw [&#x200B; merk &#x200B;](brands.md). Het percentage wordt berekend als aantal [&#x200B; richtlijnen &#x200B;](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen.
 
 Klik op het pictogram om te zien hoeveel richtlijnen voldoen aan uw merk en hoeveel richtlijnen u wilt controleren.
 
-Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
+Zie [&#x200B; de groepering van het merk verbeteren &#x200B;](#improve-brand-alignment).
 
 ## Deelvenster Handtekeningvalidatie
 
@@ -49,7 +49,7 @@ Het _paneelvertoningeninformatie van de bevestiging van het merk van 0&rbrace; &
    * CTA-sectie (oproep tot actie)
    * Tekstsectie op afbeelding
 
-Zie [ Verbeter merkgroepering ](#improve-brand-alignment).
+Zie [&#x200B; Verbeter merkgroepering &#x200B;](#improve-brand-alignment).
 
 ### Filter
 
@@ -61,7 +61,7 @@ In het _paneel van de Bevestiging van het Merk_ kunt u filteren welke richtlijne
 
 ## De uitlijning van merken verbeteren
 
-Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _controle van de richtlijnen van het Merk_ en het _paneel van de Bevestiging van het Merk_. U kunt specifieke secties manueel wijzigen om met uw [ merkrichtlijnen ](brands.md) te richten.
+Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _controle van de richtlijnen van het Merk_ en het _paneel van de Bevestiging van het Merk_. U kunt specifieke secties manueel wijzigen om met uw [&#x200B; merkrichtlijnen &#x200B;](brands.md) te richten.
 
 **om merkgroepering voor geproduceerde inhoudsvarianten te verbeteren**:
 
@@ -90,4 +90,4 @@ Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare mer
 1. Navigeer door elke variant met behulp van de pijlen naast een afzonderlijke variant op het canvas. Gebruik bijvoorbeeld de pijl om van `Email 1/4` naar `Email 2/4` te gaan.
 1. Blijf de secties herzien om je merk beter aan te passen.
 
-   Zie [ de stemrichtlijnen van het Merk ](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) voor meer informatie over overwogen richtlijnen.
+   Zie [&#x200B; de stemrichtlijnen van het Merk &#x200B;](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) voor meer informatie over overwogen richtlijnen.

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Varianten genereren
 
-Wanneer het produceren van varianten, hebt u de optie om nieuwe [ richtlijnen ](/help/user-guide/guidelines/overview.md) toe te voegen, beelden, of [ herinneringen ](/help/user-guide/effective-prompts.md). Deze stappen zijn optioneel, maar hebben invloed op het opnieuw gegenereerde resultaat op basis van wat u wilt wijzigen.
+Wanneer het produceren van varianten, hebt u de optie om nieuwe [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) toe te voegen, beelden, of [&#x200B; herinneringen &#x200B;](/help/user-guide/effective-prompts.md). Deze stappen zijn optioneel, maar hebben invloed op het opnieuw gegenereerde resultaat op basis van wat u wilt wijzigen.
 
 ## E-mail
 
@@ -24,7 +24,7 @@ GenStudio for Performance Marketing genereert standaard vier e-mailvariaties. Zi
 
 1. Terwijl de gegenereerde e-mailvarianten zichtbaar zijn, klikt u op **[!UICONTROL Open to prompt]** onder aan het scherm om de vraagbalk uit te vouwen.
 1. Wijzig _Parameters_:
-   1. Kies **[!UICONTROL Brand]**, **[!UICONTROL Persona]**, of **[!UICONTROL Product]** [ richtlijnen ](/help/user-guide/guidelines/overview.md).
+   1. Kies **[!UICONTROL Brand]**, **[!UICONTROL Persona]**, of **[!UICONTROL Product]** [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md).
    1. Voeg afbeeldingen toe aan of verwijder afbeeldingen in de sectie _[!UICONTROL Content]_.
    1. Ga een nieuwe herinnering in _&quot;beschrijf de ervaringen in u &quot;_ snelle doos wilt produceren.
 1. Klik op **[!UICONTROL Generate]**.

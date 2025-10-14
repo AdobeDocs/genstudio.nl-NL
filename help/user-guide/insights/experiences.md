@@ -15,7 +15,7 @@ In de weergave [!DNL Insights] _[!UICONTROL Experiences]_&#x200B;ziet u een lijs
 
 De tabel _[!UICONTROL Experiences]_&#x200B;wordt ingedeeld met [!UICONTROL Ad names] . Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u uit de lijsten [!UICONTROL Account] en [!UICONTROL Campaign] kunt selecteren om de namen van de advertenties in de tabel te filteren.
 
-![ de filter en lijst van Ervaringen ](/help/assets/insights-experiences-filter.png){zoomable="yes"}
+![&#x200B; de filter en lijst van Ervaringen &#x200B;](/help/assets/insights-experiences-filter.png){zoomable="yes"}
 
 ## Ervaar details
 
@@ -25,15 +25,15 @@ Selecteer een ervaring (advertentienaam) en bekijk de prestatiesmetriek, tekstat
 
 De gedetailleerde weergave bevat een maatstaf voor de algemene advertentie `click-through rate` , `cost per click` en hoeveel van het budget is opgenomen `spent` op de advertentie. Omdat advertenties meerdere plaatsingen kunnen hebben, zoals een feed of een banner, ziet u een uitsplitsing van dezelfde meetwaarden voor elke advertentie-plaatsing. Met de pijl-links en pijl-rechts onder **[!UICONTROL Performance by ad placement]** doorloopt u de maateenheden voor plaatsing van de advertentie.
 
-![ voeg details met metriek en advertentiepunten toe ](/help/assets/insights-experience-details.png){zoomable="yes"}
+![&#x200B; voeg details met metriek en advertentiepunten toe &#x200B;](/help/assets/insights-experience-details.png){zoomable="yes"}
 
 ### Tekstkenmerken
 
-Onder de ervaringsvoorvertoning bevindt zich een lijst met [!UICONTROL Text attributes] die aan de advertentie is gekoppeld. Wanneer assets en ervaringen worden goedgekeurd en opgeslagen in [!DNL Content] , genereert GenStudio for Performance Marketing tags op basis van de inherente functies ervan. Zie [ de details van Activa ](../content/asset-details.md#system-metadata) voor details over systeemmeta-gegevens.
+Onder de ervaringsvoorvertoning bevindt zich een lijst met [!UICONTROL Text attributes] die aan de advertentie is gekoppeld. Wanneer assets en ervaringen worden goedgekeurd en opgeslagen in [!DNL Content] , genereert GenStudio for Performance Marketing tags op basis van de inherente functies ervan. Zie [&#x200B; de details van Activa &#x200B;](../content/asset-details.md#system-metadata) voor details over systeemmeta-gegevens.
 
 ### Advertentielocaties
 
-Op het tijdstip dat u een campagne met advertenties van Meta creeerde, kunt u hebben geselecteerd waar te om uw advertenties in werking te stellen die op de campagne [ worden gebaseerd doelstelling ](channels.md#objectives). Advertenties vergroten het doelgroepbereik voor je advertentie.
+Op het tijdstip dat u een campagne met advertenties van Meta creeerde, kunt u hebben geselecteerd waar te om uw advertenties in werking te stellen die op de campagne [&#x200B; worden gebaseerd doelstelling &#x200B;](channels.md#objectives). Advertenties vergroten het doelgroepbereik voor je advertentie.
 
 GenStudio voor Performance Marketing ondersteunt advertentieformaten, zoals assetfeeds, koppelingsadvertenties en één afbeelding of video. Hieronder volgt een lijst met advertentieformaten per platform:
 
@@ -55,7 +55,7 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Ad name]** | Een lijst met ervaringen voor de verbonden kanaalaccount. Filter advertenties door een campagne te selecteren. | Sorteer de advertentielijst door op een van de belangrijkste metrics te klikken. |
 | **[!UICONTROL Campaign]** | Een campagne is een reeks ervaringen die zijn ontworpen om een specifiek doel te bereiken. | |
-| **[!UICONTROL Ad placements]** | Een telling van [ ad plaatsen ](#ad-placements) - waar te om advertentie-voor de advertentie of de ervaring in werking te stellen. | Advertentielocaties vergroten het doelgroepbereik. |
+| **[!UICONTROL Ad placements]** | Een telling van [&#x200B; ad plaatsen &#x200B;](#ad-placements) - waar te om advertentie-voor de advertentie of de ervaring in werking te stellen. | Advertentielocaties vergroten het doelgroepbereik. |
 | **[!UICONTROL Assets]** | Een telling van de assets die worden gebruikt in de advertentie of ervaring. | |
 | **[!UICONTROL Impressions]** | Een telling van elke keer dat de plaatsing van de advertentie of ervaring in het kanaal laadt, ongeacht interactie of het bekijken. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht, denk aan andere betrokkenheidsmetriek. |
 | **[!UICONTROL Clicks]** | Aantal tijden de gebruikers met een klikbaar element, zoals een verbinding of een vraag-aan-actie knoop, in een ervaring in wisselwerking staan. | Een hoge klikwaarde geeft een sterke interesse en betrokkenheid bij de content aan, die effectief kan zijn en de juiste doelgroep kan bereiken. |

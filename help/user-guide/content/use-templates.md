@@ -71,25 +71,25 @@ Hieronder volgt een lijst met elementen die in sjablonen worden gebruikt en enke
 
 >[!TIP]
 >
->Zie [ erkende gebiedsnamen ](customize-template.md#recognized-field-names) die GenStudio for Performance Marketing voor malplaatjes van elk type van het Kanaal steunt.
+>Zie [&#x200B; erkende gebiedsnamen &#x200B;](customize-template.md#recognized-field-names) die GenStudio for Performance Marketing voor malplaatjes van elk type van het Kanaal steunt.
 
 ## Kanaalrichtlijnen configureren
 
-Het is beste praktijken om [ kanaalrichtlijnen ](../guidelines/brands.md#channel-guidelines) voor elk merk te vormen alvorens malplaatjes in GenStudio for Performance Marketing te gebruiken. De kanaalrichtlijnen beïnvloeden rechtstreeks het type inhoud dat wordt gegenereerd wanneer de sjabloon wordt gebruikt. U kunt bijvoorbeeld tekenlimieten instellen voor de hoofdtekst van een e-mail.
+Het is beste praktijken om [&#x200B; kanaalrichtlijnen &#x200B;](../guidelines/brands.md#channel-guidelines) voor elk merk te vormen alvorens malplaatjes in GenStudio for Performance Marketing te gebruiken. De kanaalrichtlijnen beïnvloeden rechtstreeks het type inhoud dat wordt gegenereerd wanneer de sjabloon wordt gebruikt. U kunt bijvoorbeeld tekenlimieten instellen voor de hoofdtekst van een e-mail.
 
-![ de specificaties van het Lichaam ](/help/assets/channel-email-body.png)
+![&#x200B; de specificaties van het Lichaam &#x200B;](/help/assets/channel-email-body.png)
 
 ## Sjabloon aanpassen
 
-U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Performance Marketing aan door inhoudplaceholders, of gebieden op te nemen, die generatieve AI gebruikt om inhoud op te nemen. GenStudio for Performance Marketing herkent bepaalde velden, zoals het veld `body` , en volgt de kanaalrichtlijnen die voor het geselecteerde merk zijn geconfigureerd.
+U [&#x200B; past uw malplaatje &#x200B;](customize-template.md) voor gebruik in GenStudio for Performance Marketing aan door inhoudplaceholders, of gebieden op te nemen, die generatieve AI gebruikt om inhoud op te nemen. GenStudio for Performance Marketing herkent bepaalde velden, zoals het veld `body` , en volgt de kanaalrichtlijnen die voor het geselecteerde merk zijn geconfigureerd.
 
 >[!TIP]
 >
->Volg [ toegankelijkheidsrichtlijnen voor het bouwen van malplaatjes ](accessibility-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
+>Volg [&#x200B; toegankelijkheidsrichtlijnen voor het bouwen van malplaatjes &#x200B;](accessibility-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
 
 ## Een sjabloon uploaden
 
-Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het voorbereiden van een malplaatje voor GenStudio for Performance Marketing. Zie [ toegankelijkheidsrichtlijnen voor malplaatjes ](accessibility-for-templates.md) voor begeleiding bij het verstrekken van een betere ervaring voor alle publiek.
+Het gebruik [&#x200B; past malplaatjes &#x200B;](customize-template.md) als gids aan wanneer het voorbereiden van een malplaatje voor GenStudio for Performance Marketing. Zie [&#x200B; toegankelijkheidsrichtlijnen voor malplaatjes &#x200B;](accessibility-for-templates.md) voor begeleiding bij het verstrekken van een betere ervaring voor alle publiek.
 
 **om een malplaatje** toe te voegen:
 
@@ -103,7 +103,7 @@ Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het
 
    Voorbeeld van een e-mailsjabloon:
 
-   ![ ontdekte gebieden van de Voorproef ](../../assets/template-detected-fields.png){width="650"}
+   ![&#x200B; ontdekte gebieden van de Voorproef &#x200B;](../../assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
@@ -128,10 +128,10 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 
 1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
 
-   ![ het malplaatjelijst van de Inhoud ](../../assets/content-templates.png){width="650" zoomable="yes"}
+   ![&#x200B; het malplaatjelijst van de Inhoud &#x200B;](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Selecteer een sjabloon voor een volledige weergave en een lijst met details.
 
 1. Klik op **[!UICONTROL Create Experience]** (penseel) in de rechterbovenhoek om de sjabloon te gebruiken.
 
-1. Ga met [ leerprogramma&#39;s ](/help/tutorials/tutorials.md) verder om een ervaring tot stand te brengen.
+1. Ga met [&#x200B; leerprogramma&#39;s &#x200B;](/help/tutorials/tutorials.md) verder om een ervaring tot stand te brengen.

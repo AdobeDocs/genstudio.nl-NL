@@ -16,15 +16,15 @@ ht-degree: 0%
 
 [!DNL Products] omvat alle elementen van een specifiek product, zoals afbeeldingen, beschrijvingen en waardevoorstellen, om een coherente merkrepresentatie te creëren. De geavanceerde technologie van AI van de hefboomwerking van de Adobe, de richtlijnen van GenStudio for Performance Marketing - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](/help/user-guide/guidelines/overview.md) - werk samen om dwingende inhoud te produceren die de sterke punten van uw producten toont en consistentie over al overseinen verzekert.
 
-![[!DNL Products] Richtlijnen in GenStudio for Performance Marketing ](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Products] Richtlijnen in GenStudio for Performance Marketing &#x200B;](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **om een product** te bekijken of te wijzigen:
 
 1. Klik in het linkernavigatiegebied op **[!UICONTROL Products]** .
-1. Om [ individuele details te bekijken of een product ](add-guidelines.md#manage-products) te wijzigen, klik het _[!DNL Products]_&#x200B;actiemenu en selecteer **[!UICONTROL Open]**.
+1. Om [&#x200B; individuele details te bekijken of een product &#x200B;](add-guidelines.md#manage-products) te wijzigen, klik het _[!DNL Products]_&#x200B;actiemenu en selecteer **[!UICONTROL Open]**.
 1. Wijzig de productrichtlijnen door in het tekstveld voor de categorie Richtlijnen te klikken.
 
-Zie [ richtlijnen ](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio for Performance Marketing toe te voegen of te wijzigen.
+Zie [&#x200B; richtlijnen &#x200B;](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio for Performance Marketing toe te voegen of te wijzigen.
 
 ## [!DNL Products] richtlijnen
 

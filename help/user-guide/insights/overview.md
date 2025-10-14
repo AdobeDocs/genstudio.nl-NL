@@ -22,13 +22,13 @@ Vanuit het dashboard van [!DNL Insights] kunt u:
 
 >[!TIP]
 >
->Zie [ Connect kanaalrekening ](connect-channel.md) voor stappen om GenStudio for Performance Marketing toe te laten om gegevens van uw huidige marketing campagnes, activa, en ervaringen te ontvangen.
+>Zie [&#x200B; Connect kanaalrekening &#x200B;](connect-channel.md) voor stappen om GenStudio for Performance Marketing toe te laten om gegevens van uw huidige marketing campagnes, activa, en ervaringen te ontvangen.
 
 ## Dashboard
 
 Het dashboard van [!DNL Insights] heeft een configureerbare tabel voor elk inhoudstype: [!UICONTROL Channels] , [!UICONTROL Experiences] , [!UICONTROL Assets] en [!UICONTROL Attributes] .
 
-![[!DNL Insights] dashboard ](/help/assets/insights-dashboard.png)
+![[!DNL Insights] dashboard &#x200B;](/help/assets/insights-dashboard.png)
 
 In elke weergave wordt een bijbehorende tabel weergegeven die u kunt zoeken op trefwoorden, filters en datumbereik. U kunt op het pictogram Instellingen (cog) boven de rechterkant van de tabel klikken om de zichtbare kolomtypen in en uit te schakelen. In de rij _[!UICONTROL Summary]_&#x200B;kunnen totalen of gemiddelden van een kolom worden weergegeven.
 
@@ -36,7 +36,7 @@ In elke weergave wordt een bijbehorende tabel weergegeven die u kunt zoeken op t
 
 ### Kanalen
 
-De weergave [!DNL Insights] _[!UICONTROL Channels]_&#x200B;is de standaardweergave en geeft een lijst weer met actieve campagnedetails, zoals doelstellingen, budget, startdatum en activiteit. Zie [ Overzicht van Kanalen ](channels.md).
+De weergave [!DNL Insights] _[!UICONTROL Channels]_&#x200B;is de standaardweergave en geeft een lijst weer met actieve campagnedetails, zoals doelstellingen, budget, startdatum en activiteit. Zie [&#x200B; Overzicht van Kanalen &#x200B;](channels.md).
 
 ### Ervaringen
 
@@ -48,7 +48,7 @@ De weergave [!DNL Insights] _[!UICONTROL Assets]_&#x200B;is ontworpen om u te he
 
 Als u op een element klikt, krijgt u meer inzicht in de prestaties van het middel in verschillende ervaringen:
 
-![ de details van Activa ](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
+![&#x200B; de details van Activa &#x200B;](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 In de middelenweergave ziet u links een miniatuur van het element en een lijst met kenmerken. Er zijn drie gemarkeerde metriek: `Click-through rate` , `Cost per click` en `Spend` . De prestatie laat zien hoe werkelijke waarden (effen lijn) worden vergeleken met de gemiddelde waarde (stippellijn) over de geselecteerde tijdsperiode (de standaardwaarde is `Last 30 days` ).
 

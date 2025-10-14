@@ -11,11 +11,11 @@ Deze site bevat de meest recente documentatie voor het GenStudio for Performance
 
 ## Adobe Open gedragscode van Source
 
-Dit project heeft de [Adobe-gedragscode voor open source](code-of-conduct.md) of de [.NET Foundation-gedragscode](https://dotnetfoundation.org/about/policies/code-of-conduct) overgenomen. Zie [ bijdragend ](contributing.md) artikel.
+Dit project heeft de [Adobe-gedragscode voor open source](code-of-conduct.md) of de [.NET Foundation-gedragscode](https://dotnetfoundation.org/about/policies/code-of-conduct) overgenomen. Zie [&#x200B; bijdragend &#x200B;](contributing.md) artikel.
 
 ### Kleine wijzigingen
 
-Als u minder belangrijke updates bijdraagt, open het artikel en klik **uitgeven** verbinding, die u aan de bron GitHub voor het artikel neemt. Gebruik GitHub UI om uw updates te maken. Zie de algemene [ de bijdragegids van Docs van de Adobe ](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction).
+Als u minder belangrijke updates bijdraagt, open het artikel en klik **uitgeven** verbinding, die u aan de bron GitHub voor het artikel neemt. Gebruik GitHub UI om uw updates te maken. Zie de algemene [&#x200B; de bijdragegids van Docs van de Adobe &#x200B;](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction).
 
 Kleine correcties of verduidelijkingen die u ter documentatie en codevoorbeelden in dit antwoord aanbrengt, vallen onder de gebruiksvoorwaarden van de Adobe.
 
@@ -31,14 +31,14 @@ Als u een technisch schrijver, programmamanager, of ontwikkelaar van een team va
 
 Communautaire contribuanten kunnen GitHub UI voor basishet uitgeven of vork gebruiken het repo om belangrijke bijdragen te leveren.
 
-Zie de [ Gids van de Medewerker van Docs van de Adobe ](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction) voor details.
+Zie de [&#x200B; Gids van de Medewerker van Docs van de Adobe &#x200B;](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction) voor details.
 
 ## Markering
 
 Alle artikelen in deze opslagplaats gebruiken GitHub-gearomatiseerde prijsverlaging. Als u niet vertrouwd bent met markering, zie:
 
-- [ Grondbeginselen van de Prijsverlaging ](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [ Afdrukbare prijsdaling ](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [&#x200B; Grondbeginselen van de Prijsverlaging &#x200B;](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [&#x200B; Afdrukbare prijsdaling &#x200B;](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## Labels
 

@@ -33,4 +33,4 @@ Nadat u de varianten van de inhoud hebt gegenereerd, kunt u om revisie en goedke
 
 Als u de maker van de inhoud bent, wordt de knop **[!UICONTROL Manage approvals]** weergegeven op het conceptcanvas. Gebruik deze knop om een pop-up te openen waaruit u fiatteurs kunt verwijderen of toevoegen tijdens het revisie- en goedkeuringsproces.
 
-Namen van fiatteurs worden in deze weergave weergegeven met de status [!DNL Notified] nadat de goedkeuringsaanvragen zijn gestart. Zie [ inhoud ](./approve-content.md) voor een overzicht van de goedkeuringstaken van GenStudio for Performance Marketing goedkeuren.
+Namen van fiatteurs worden in deze weergave weergegeven met de status [!DNL Notified] nadat de goedkeuringsaanvragen zijn gestart. Zie [&#x200B; inhoud &#x200B;](./approve-content.md) voor een overzicht van de goedkeuringstaken van GenStudio for Performance Marketing goedkeuren.
